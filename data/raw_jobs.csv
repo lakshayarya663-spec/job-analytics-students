@@ -1,0 +1,2001 @@
+job_id,title,city,experience_level,employment_type,salary_min,salary_max,skills,source_platform
+1,Data Scientist,Delhi,Entry,Full-time,336579,579640,"Pandas, Python",Naukri
+2,QA Engineer,Bangalore,Mid,Full-time,714629,825619,"Automation, Manual Testing",LinkedIn
+3,Cloud Engineer,Mumbai,Mid,Contract,745852,1008039,"Azure, Kubernetes",Glassdoor
+4,Machine Learning Engineer,Pune,Mid,Internship,653587,727899,"Python, PyTorch, TensorFlow, SQL, AWS",Naukri
+5,Database Administrator,Hyderabad,Senior,Full-time,2357713,2484567,"Oracle, MySQL, Backup & Recovery, SQL",Glassdoor
+6,Data Analyst,Mumbai,Senior,Full-time,1688197,1965340,"Python, Power BI",Indeed
+7,Database Administrator,Chennai,Senior,Internship,1945056,2049977,"SQL, MySQL, Backup & Recovery, Oracle",Naukri
+8,Data Engineer,Noida,Mid,Contract,960795,1156796,"ETL, Python, AWS",Indeed
+9,Data Analyst,Noida,Mid,Full-time,710615,999988,"Excel, Python, Tableau, Power BI",Indeed
+10,Data Engineer,Pune,Mid,Contract,894318,1085607,"Spark, AWS, ETL, SQL",Naukri
+11,Machine Learning Engineer,Pune,Entry,Full-time,498123,560474,"TensorFlow, AWS",Glassdoor
+12,Business Analyst,Hyderabad,Senior,Internship,2181571,2370275,"Tableau, SQL, Power BI, Communication",Glassdoor
+13,Cloud Engineer,Chennai,Mid,Internship,827942,919402,"AWS, Docker, Kubernetes, Python, Azure",LinkedIn
+14,Web Developer,Kolkata,Senior,Full-time,1984154,2234041,"Node.js, HTML, JavaScript",Naukri
+15,Machine Learning Engineer,Bangalore,Mid,Internship,1060703,1328719,"TensorFlow, Python, SQL, PyTorch",LinkedIn
+16,Data Scientist,Gurgaon,Senior,Contract,1463738,1547395,"Pandas, SQL, Statistics, Machine Learning, Python",LinkedIn
+17,Cloud Engineer,Mumbai,Senior,Internship,1983119,2147964,"AWS, Azure, Python, Docker, Kubernetes",Indeed
+18,Data Analyst,Kolkata,Senior,Contract,1661829,1713714,"SQL, Excel",Naukri
+19,Data Scientist,Chennai,Entry,Contract,362391,485392,"SQL, Pandas, Machine Learning, Statistics, Python",LinkedIn
+20,Database Administrator,Mumbai,Mid,Full-time,945496,1108493,"Linux, Oracle, MySQL, SQL",LinkedIn
+21,Data Scientist,Noida,Entry,Full-time,365183,465407,"Pandas, Statistics, Python",Indeed
+22,Business Analyst,Delhi,Entry,Full-time,319761,485925,"SQL, Tableau",Glassdoor
+23,Data Scientist,Pune,Entry,Internship,426185,532217,"Python, SQL, Statistics, Pandas, Machine Learning",Glassdoor
+24,Web Developer,Delhi,Mid,Contract,982995,1238348,"CSS, Node.js, React, HTML, JavaScript",Glassdoor
+25,QA Engineer,Kolkata,Senior,Contract,1857676,1922661,"Automation, Python",LinkedIn
+26,Cloud Engineer,Pune,Senior,Contract,1368005,1641179,"AWS, Python, Docker",LinkedIn
+27,Software Engineer,Hyderabad,Mid,Contract,911699,972117,"Git, SQL",Naukri
+28,Web Developer,Chennai,Entry,Internship,403752,488060,"React, JavaScript, HTML, Node.js",Naukri
+29,Database Administrator,Remote,Senior,Full-time,2327501,2433378,"MySQL, Backup & Recovery, SQL, Linux",LinkedIn
+30,Machine Learning Engineer,Pune,Mid,Contract,968857,1098160,"AWS, PyTorch",Glassdoor
+31,Data Scientist,Delhi,Entry,Full-time,494620,689644,"Machine Learning, Pandas, Statistics",LinkedIn
+32,Software Engineer,Chennai,Senior,Contract,1753614,1936103,"SQL, Java, Git, Python, React",Naukri
+33,Data Analyst,Chennai,Entry,Contract,368670,461027,"Tableau, Python, Power BI, SQL, Excel",Naukri
+34,Data Scientist,Pune,Senior,Internship,2358729,2447550,"SQL, Python, Pandas, Machine Learning, Statistics",LinkedIn
+35,Machine Learning Engineer,Mumbai,Entry,Internship,446770,728540,"AWS, TensorFlow, Python, PyTorch, SQL",LinkedIn
+36,Business Analyst,Pune,Entry,Internship,475612,752121,"Power BI, Excel, Tableau",Indeed
+37,Data Scientist,Bangalore,Mid,Full-time,704633,968696,"Machine Learning, Pandas, Python, Statistics, SQL",Glassdoor
+38,Software Engineer,Chennai,Mid,Full-time,1005445,1128615,"React, Git, SQL, Python",Indeed
+39,Data Analyst,Delhi,Entry,Contract,369590,429618,"Tableau, Python",Naukri
+40,Machine Learning Engineer,Chennai,Senior,Contract,2272531,2352846,"AWS, TensorFlow, SQL, Python, PyTorch",Glassdoor
+41,Data Analyst,Kolkata,Senior,Internship,2104496,2172839,"Tableau, Power BI, Python, SQL",Naukri
+42,Web Developer,Delhi,Senior,Internship,2043894,2276663,"Node.js, CSS, HTML, React",Glassdoor
+43,Business Analyst,Pune,Senior,Internship,2349107,2617663,"Power BI, Tableau",Indeed
+44,Software Engineer,Remote,Mid,Internship,831623,997532,"React, Git, SQL",Indeed
+45,Data Engineer,Hyderabad,Senior,Contract,1902940,1977420,"ETL, SQL, Python",Indeed
+46,Data Engineer,Bangalore,Entry,Internship,460241,732994,"AWS, Spark",Naukri
+47,QA Engineer,Noida,Entry,Internship,363959,452643,"Selenium, Python",Glassdoor
+48,Software Engineer,Kolkata,Entry,Full-time,446120,561445,"Git, Python",Glassdoor
+49,Database Administrator,Kolkata,Senior,Internship,2258596,2420463,"MySQL, Linux, Oracle, Backup & Recovery, SQL",Indeed
+50,Web Developer,Gurgaon,Senior,Internship,2122479,2192790,"CSS, JavaScript, Node.js, React",Naukri
+51,Cloud Engineer,Pune,Entry,Full-time,400410,632324,"Azure, AWS, Python",Naukri
+52,Business Analyst,Kolkata,Mid,Internship,632645,736865,"Communication, SQL, Power BI, Excel, Tableau",Glassdoor
+53,Data Analyst,Delhi,Mid,Internship,882182,1128138,"Python, Excel, Tableau",Glassdoor
+54,Business Analyst,Bangalore,Mid,Internship,950682,1178714,"Excel, Communication, SQL, Power BI, Tableau",Glassdoor
+55,QA Engineer,Bangalore,Senior,Contract,2098866,2184438,"Manual Testing, Selenium, Automation, SQL, Python",LinkedIn
+56,Software Engineer,Chennai,Mid,Internship,745886,993020,"SQL, Java, Python, Git, React",Indeed
+57,Machine Learning Engineer,Hyderabad,Entry,Full-time,364823,467084,"AWS, TensorFlow",LinkedIn
+58,Software Engineer,Gurgaon,Entry,Contract,357138,529043,"SQL, Python, React, Java",LinkedIn
+59,Data Engineer,Hyderabad,Mid,Internship,901883,1129445,"AWS, SQL, Python, ETL, Spark",LinkedIn
+60,Web Developer,Remote,Senior,Contract,1286128,1427145,"JavaScript, HTML, Node.js, CSS, React",LinkedIn
+61,Business Analyst,Hyderabad,Mid,Internship,933229,1216950,"Excel, Communication, SQL, Tableau, Power BI",Glassdoor
+62,Database Administrator,Remote,Mid,Internship,1046542,1160897,"Backup & Recovery, Linux",Indeed
+63,Software Engineer,Remote,Mid,Internship,615047,794626,"Python, Git, Java, React",Glassdoor
+64,Web Developer,Delhi,Mid,Contract,605322,790752,"HTML, CSS, JavaScript",Indeed
+65,Business Analyst,Kolkata,Mid,Contract,849609,1068928,"Communication, SQL, Tableau, Excel, Power BI",Naukri
+66,Business Analyst,Mumbai,Senior,Contract,1973891,2147953,"Communication, Power BI, Excel, Tableau",Indeed
+67,Web Developer,Delhi,Mid,Full-time,978160,1078644,"HTML, CSS, Node.js, JavaScript",Naukri
+68,Database Administrator,Remote,Mid,Full-time,1036537,1137423,"MySQL, Backup & Recovery, SQL, Oracle",Indeed
+69,Data Analyst,Kolkata,Senior,Internship,1295453,1359746,"Excel, Python, SQL, Power BI",Naukri
+70,QA Engineer,Gurgaon,Mid,Internship,778628,876957,"SQL, Python",Glassdoor
+71,Data Scientist,Noida,Entry,Full-time,451262,666267,"SQL, Pandas",Glassdoor
+72,QA Engineer,Hyderabad,Mid,Full-time,892590,1142984,"Automation, Manual Testing, SQL, Python, Selenium",Naukri
+73,Database Administrator,Remote,Mid,Internship,898125,1110923,"Oracle, SQL",Glassdoor
+74,Software Engineer,Mumbai,Senior,Contract,1370262,1461433,"Python, Java, Git",Indeed
+75,Data Analyst,Gurgaon,Mid,Internship,617112,727792,"Power BI, Python, SQL, Tableau",Glassdoor
+76,Web Developer,Remote,Senior,Internship,1440703,1633456,"CSS, JavaScript, HTML",Naukri
+77,Data Scientist,Pune,Entry,Contract,496334,762403,"Statistics, Python, SQL, Machine Learning",Indeed
+78,Business Analyst,Kolkata,Mid,Internship,642174,848945,"Communication, Power BI",Glassdoor
+79,QA Engineer,Bangalore,Mid,Full-time,953526,1222667,"SQL, Selenium",LinkedIn
+80,Data Engineer,Kolkata,Mid,Internship,695152,898592,"AWS, Python, SQL, ETL, Spark",Glassdoor
+81,Machine Learning Engineer,Hyderabad,Mid,Internship,815820,1047662,"PyTorch, SQL, AWS, Python, TensorFlow",Naukri
+82,Data Scientist,Delhi,Mid,Full-time,1005037,1160989,"Pandas, Statistics",Indeed
+83,Business Analyst,Mumbai,Entry,Contract,498297,678973,"SQL, Excel, Communication, Tableau, Power BI",Indeed
+84,Database Administrator,Gurgaon,Senior,Full-time,1701843,1937908,"Backup & Recovery, SQL, Oracle",LinkedIn
+85,Business Analyst,Mumbai,Entry,Internship,330793,550586,"Communication, Power BI, Tableau",LinkedIn
+86,Web Developer,Gurgaon,Mid,Full-time,839487,1033997,"React, CSS, JavaScript",Glassdoor
+87,Cloud Engineer,Pune,Senior,Internship,2070197,2209293,"AWS, Docker, Kubernetes, Azure",LinkedIn
+88,QA Engineer,Gurgaon,Senior,Internship,2329485,2506452,"SQL, Python, Manual Testing, Automation",Naukri
+89,Software Engineer,Mumbai,Senior,Full-time,2061457,2122898,"Git, React, Python, Java",Glassdoor
+90,Database Administrator,Pune,Entry,Full-time,415423,491561,"SQL, MySQL, Linux, Oracle, Backup & Recovery",Indeed
+91,Database Administrator,Chennai,Mid,Contract,642108,915393,"Oracle, Linux, MySQL, Backup & Recovery",Glassdoor
+92,Cloud Engineer,Remote,Entry,Full-time,465455,694866,"Azure, AWS, Python, Kubernetes",LinkedIn
+93,Data Scientist,Pune,Mid,Full-time,624112,759144,"Machine Learning, Pandas",Indeed
+94,Machine Learning Engineer,Pune,Mid,Contract,816033,1014387,"TensorFlow, AWS, Python",Naukri
+95,QA Engineer,Remote,Mid,Internship,1078585,1281456,"Manual Testing, Python, SQL",Naukri
+96,Web Developer,Delhi,Mid,Internship,1072493,1197893,"HTML, React, CSS",LinkedIn
+97,QA Engineer,Noida,Mid,Internship,1043182,1172381,"Python, Automation, Selenium",Indeed
+98,Software Engineer,Remote,Mid,Contract,755122,988433,"Java, Git, Python, React",Indeed
+99,QA Engineer,Bangalore,Senior,Internship,1682593,1891731,"Manual Testing, Automation, SQL, Python",Glassdoor
+100,Data Engineer,Hyderabad,Senior,Internship,2124473,2183219,"SQL, Python, Spark, ETL",LinkedIn
+101,Business Analyst,Mumbai,Entry,Contract,395907,585066,"Excel, Power BI, Tableau, Communication",Naukri
+102,Machine Learning Engineer,Gurgaon,Entry,Full-time,497696,606839,"AWS, PyTorch, Python, TensorFlow, SQL",LinkedIn
+103,Web Developer,Hyderabad,Senior,Internship,1749792,1953030,"JavaScript, HTML, Node.js, React, CSS",Glassdoor
+104,Data Analyst,Kolkata,Senior,Contract,1664240,1884018,"Python, Power BI",Indeed
+105,Business Analyst,Pune,Entry,Full-time,379787,558925,"SQL, Excel",LinkedIn
+106,Cloud Engineer,Noida,Entry,Internship,475763,774637,"Python, Azure, Kubernetes, AWS, Docker",Glassdoor
+107,QA Engineer,Delhi,Mid,Contract,794264,901219,"Python, Manual Testing, Automation, Selenium, SQL",LinkedIn
+108,Cloud Engineer,Chennai,Senior,Internship,1778565,1878322,"Kubernetes, AWS",LinkedIn
+109,Software Engineer,Remote,Senior,Full-time,1899419,2013269,"React, Python, Java",LinkedIn
+110,Cloud Engineer,Remote,Entry,Full-time,386129,639125,"Python, AWS, Azure",Naukri
+111,Data Engineer,Kolkata,Entry,Full-time,328816,552108,"SQL, Python",Indeed
+112,Machine Learning Engineer,Remote,Entry,Full-time,345677,465241,"TensorFlow, SQL",Indeed
+113,Cloud Engineer,Hyderabad,Entry,Internship,394906,579448,"Kubernetes, Azure",Glassdoor
+114,QA Engineer,Kolkata,Entry,Internship,468647,526812,"Python, Automation",Indeed
+115,Business Analyst,Hyderabad,Senior,Contract,2130217,2199482,"Power BI, Excel",Glassdoor
+116,Data Scientist,Delhi,Entry,Internship,456602,645684,"Statistics, Pandas, Python, Machine Learning",Indeed
+117,Cloud Engineer,Mumbai,Senior,Internship,1679185,1837663,"Kubernetes, Python, Azure, AWS",Glassdoor
+118,Machine Learning Engineer,Chennai,Mid,Internship,1099957,1189970,"Python, AWS, SQL, PyTorch, TensorFlow",Indeed
+119,Data Scientist,Chennai,Senior,Contract,1325789,1529527,"Python, Statistics, SQL, Machine Learning",Naukri
+120,Data Analyst,Remote,Mid,Internship,654316,855813,"Excel, Python, SQL",Indeed
+121,Data Scientist,Kolkata,Mid,Full-time,999824,1122848,"Statistics, Python, Machine Learning",Indeed
+122,Web Developer,Pune,Entry,Contract,499861,630859,"JavaScript, HTML, React, Node.js",Indeed
+123,QA Engineer,Noida,Senior,Full-time,1264292,1338345,"Python, Automation, Manual Testing",LinkedIn
+124,Machine Learning Engineer,Chennai,Entry,Contract,385035,638677,"Python, TensorFlow",Indeed
+125,Data Engineer,Bangalore,Senior,Internship,2129275,2352798,"AWS, Spark, SQL, ETL, Python",LinkedIn
+126,Cloud Engineer,Chennai,Entry,Full-time,374251,602041,"Python, Docker, AWS, Kubernetes, Azure",Glassdoor
+127,QA Engineer,Bangalore,Entry,Internship,355373,606529,"SQL, Automation, Manual Testing",Naukri
+128,Data Scientist,Gurgaon,Entry,Full-time,333865,483534,"Pandas, Machine Learning, Python",Glassdoor
+129,Business Analyst,Bangalore,Senior,Full-time,2164174,2455651,"Power BI, Communication",Glassdoor
+130,QA Engineer,Noida,Mid,Full-time,812353,867820,"Manual Testing, Python, SQL, Automation",Indeed
+131,Data Scientist,Hyderabad,Mid,Internship,908738,1063713,"Statistics, Machine Learning",Naukri
+132,Machine Learning Engineer,Chennai,Entry,Full-time,433820,649816,"AWS, TensorFlow",Naukri
+133,Machine Learning Engineer,Pune,Mid,Full-time,676778,793878,"TensorFlow, AWS, PyTorch",Naukri
+134,Data Scientist,Gurgaon,Entry,Contract,499197,701101,"Pandas, Machine Learning, Statistics, SQL, Python",Glassdoor
+135,Database Administrator,Gurgaon,Entry,Contract,379382,638135,"Oracle, SQL, MySQL, Linux",Glassdoor
+136,Web Developer,Gurgaon,Mid,Full-time,793324,1061348,"HTML, Node.js, JavaScript, CSS",LinkedIn
+137,Database Administrator,Kolkata,Senior,Internship,2398850,2619725,"Backup & Recovery, Linux, Oracle",LinkedIn
+138,Data Engineer,Gurgaon,Entry,Internship,487253,559359,"Python, SQL, ETL",LinkedIn
+139,Database Administrator,Kolkata,Mid,Internship,795481,1086112,"Linux, Oracle, MySQL, SQL",Naukri
+140,Machine Learning Engineer,Chennai,Entry,Contract,477833,629168,"PyTorch, TensorFlow, SQL, Python",LinkedIn
+141,QA Engineer,Pune,Senior,Internship,2021995,2105798,"SQL, Python",Indeed
+142,Machine Learning Engineer,Kolkata,Entry,Contract,475756,636749,"Python, PyTorch, TensorFlow, AWS",LinkedIn
+143,Software Engineer,Gurgaon,Mid,Full-time,672123,762740,"SQL, Java",Naukri
+144,Cloud Engineer,Kolkata,Senior,Contract,1906246,2185987,"Python, Kubernetes, AWS",LinkedIn
+145,Data Engineer,Remote,Entry,Contract,414733,476186,"ETL, SQL, AWS, Spark, Python",Naukri
+146,Software Engineer,Mumbai,Senior,Internship,1606881,1753308,"Git, SQL, Python, React, Java",Indeed
+147,Software Engineer,Pune,Senior,Full-time,2207871,2487015,"React, Java, SQL, Git",Indeed
+148,Web Developer,Pune,Entry,Internship,434572,523198,"HTML, CSS, React, JavaScript, Node.js",Indeed
+149,Business Analyst,Noida,Entry,Full-time,401231,472623,"Excel, SQL, Tableau, Communication",Indeed
+150,Machine Learning Engineer,Pune,Entry,Internship,423851,656322,"SQL, AWS, PyTorch",LinkedIn
+151,Data Analyst,Bangalore,Entry,Full-time,339195,533060,"SQL, Power BI, Tableau, Excel, Python",Indeed
+152,Data Analyst,Noida,Entry,Full-time,329060,598392,"Tableau, SQL, Power BI, Python, Excel",Glassdoor
+153,Web Developer,Bangalore,Mid,Full-time,899192,1058392,"HTML, JavaScript, Node.js",Indeed
+154,Cloud Engineer,Kolkata,Senior,Internship,2185944,2247356,"Docker, Python, Kubernetes, AWS, Azure",LinkedIn
+155,Data Scientist,Mumbai,Mid,Contract,985449,1233807,"SQL, Python, Pandas, Machine Learning",LinkedIn
+156,Data Engineer,Gurgaon,Senior,Contract,1582264,1844993,"Python, AWS, Spark",Glassdoor
+157,Web Developer,Bangalore,Entry,Full-time,382731,677408,"Node.js, React, JavaScript, CSS",Naukri
+158,Web Developer,Mumbai,Entry,Internship,312531,589494,"JavaScript, HTML, CSS, Node.js",Indeed
+159,Business Analyst,Gurgaon,Senior,Internship,1591784,1771860,"Power BI, Tableau, SQL, Excel, Communication",Glassdoor
+160,Business Analyst,Pune,Senior,Internship,1415163,1486152,"Power BI, Tableau, Excel, Communication",Indeed
+161,Data Engineer,Gurgaon,Senior,Internship,1288825,1529355,"Spark, AWS, SQL, Python",Indeed
+162,Data Scientist,Noida,Senior,Contract,1535516,1835284,"SQL, Statistics",Indeed
+163,Data Analyst,Hyderabad,Entry,Contract,396030,540965,"Tableau, SQL, Power BI, Python, Excel",Naukri
+164,Machine Learning Engineer,Gurgaon,Mid,Contract,672191,860985,"SQL, PyTorch, AWS, TensorFlow",LinkedIn
+165,Software Engineer,Bangalore,Entry,Internship,435723,587169,"SQL, React",Naukri
+166,Database Administrator,Remote,Entry,Contract,428765,531240,"MySQL, SQL",Indeed
+167,Database Administrator,Gurgaon,Entry,Contract,383778,608848,"SQL, Backup & Recovery, MySQL, Oracle",LinkedIn
+168,Data Engineer,Kolkata,Mid,Full-time,705371,963006,"SQL, AWS, Python",Naukri
+169,Machine Learning Engineer,Remote,Senior,Internship,2356887,2440905,"Python, PyTorch",Indeed
+170,Business Analyst,Gurgaon,Senior,Internship,1354666,1437519,"SQL, Communication, Excel, Power BI",Glassdoor
+171,Data Engineer,Remote,Senior,Full-time,2107266,2289088,"Python, SQL",Naukri
+172,Web Developer,Pune,Entry,Contract,359105,499812,"HTML, JavaScript, Node.js, CSS",Indeed
+173,Data Engineer,Delhi,Senior,Contract,1553655,1758794,"SQL, ETL, AWS",LinkedIn
+174,Data Analyst,Hyderabad,Entry,Contract,451197,570574,"Tableau, Python, Power BI",LinkedIn
+175,Data Analyst,Kolkata,Mid,Contract,758384,934985,"Python, Power BI, Excel",Indeed
+176,Data Scientist,Bangalore,Senior,Internship,2071621,2248564,"SQL, Machine Learning, Statistics, Python, Pandas",Naukri
+177,Machine Learning Engineer,Chennai,Senior,Full-time,1977079,2162077,"PyTorch, TensorFlow",Glassdoor
+178,Database Administrator,Delhi,Entry,Full-time,336930,412308,"Backup & Recovery, Linux",Glassdoor
+179,QA Engineer,Mumbai,Mid,Internship,1089554,1290991,"Manual Testing, Automation, Python, SQL",Naukri
+180,Database Administrator,Gurgaon,Mid,Full-time,1095574,1248660,"MySQL, Oracle, Backup & Recovery, Linux, SQL",LinkedIn
+181,Data Analyst,Gurgaon,Mid,Internship,881380,933523,"Python, Excel",Glassdoor
+182,Web Developer,Chennai,Senior,Internship,1294880,1449890,"Node.js, CSS",Glassdoor
+183,Machine Learning Engineer,Delhi,Senior,Internship,2257500,2425557,"AWS, Python, SQL, PyTorch",LinkedIn
+184,Business Analyst,Chennai,Mid,Full-time,704363,912295,"Tableau, SQL, Communication, Power BI, Excel",Indeed
+185,Machine Learning Engineer,Kolkata,Mid,Full-time,917855,1201984,"PyTorch, AWS, Python",Glassdoor
+186,Business Analyst,Delhi,Senior,Contract,2268947,2458496,"Tableau, Power BI, Excel, SQL, Communication",Indeed
+187,Machine Learning Engineer,Hyderabad,Senior,Contract,1845247,2104111,"AWS, SQL",Glassdoor
+188,Web Developer,Remote,Senior,Contract,1307699,1510666,"CSS, React, HTML, JavaScript, Node.js",Naukri
+189,QA Engineer,Hyderabad,Senior,Full-time,2124924,2257156,"Manual Testing, Python, SQL, Selenium, Automation",Naukri
+190,Cloud Engineer,Gurgaon,Senior,Contract,1489579,1675548,"Python, Docker, Kubernetes",LinkedIn
+191,Database Administrator,Noida,Senior,Full-time,2163984,2453091,"Oracle, Backup & Recovery, Linux, MySQL",Indeed
+192,QA Engineer,Mumbai,Mid,Internship,892598,1020847,"SQL, Automation, Python",Naukri
+193,Software Engineer,Gurgaon,Senior,Internship,1931493,2128421,"SQL, Java, React, Python",Indeed
+194,Business Analyst,Pune,Mid,Full-time,750801,988008,"Power BI, Communication",Indeed
+195,Web Developer,Gurgaon,Senior,Full-time,2329479,2450554,"CSS, HTML, JavaScript, React",Naukri
+196,Software Engineer,Kolkata,Entry,Contract,361036,424796,"Git, SQL",Naukri
+197,Database Administrator,Pune,Entry,Contract,341403,498071,"Linux, MySQL, Oracle, Backup & Recovery, SQL",LinkedIn
+198,Data Analyst,Remote,Entry,Contract,493642,733202,"Excel, Python",Naukri
+199,Data Engineer,Noida,Entry,Full-time,496346,775011,"Python, Spark, SQL, AWS",Glassdoor
+200,Machine Learning Engineer,Gurgaon,Mid,Full-time,1046200,1228376,"PyTorch, TensorFlow, Python, SQL, AWS",Glassdoor
+201,Database Administrator,Delhi,Senior,Full-time,1906975,2164269,"Oracle, MySQL, SQL, Linux",Naukri
+202,Business Analyst,Chennai,Senior,Internship,1400037,1498476,"Communication, Power BI, SQL",LinkedIn
+203,Data Analyst,Noida,Mid,Internship,995185,1115175,"Power BI, SQL, Excel, Tableau",Naukri
+204,Software Engineer,Hyderabad,Entry,Internship,341868,498145,"Java, SQL, Python, React",Glassdoor
+205,Software Engineer,Gurgaon,Entry,Internship,496014,704804,"Git, React, SQL, Java",Naukri
+206,Software Engineer,Remote,Senior,Contract,2136898,2325355,"Java, React, Git, SQL",LinkedIn
+207,QA Engineer,Pune,Senior,Internship,2291235,2457060,"Manual Testing, Python",Naukri
+208,Data Scientist,Gurgaon,Senior,Internship,1476707,1661251,"Statistics, Python, Machine Learning, SQL, Pandas",LinkedIn
+209,Data Analyst,Delhi,Mid,Contract,714243,915843,"SQL, Python",LinkedIn
+210,Machine Learning Engineer,Hyderabad,Senior,Full-time,2190005,2248324,"SQL, TensorFlow, Python, AWS",LinkedIn
+211,Machine Learning Engineer,Gurgaon,Mid,Internship,642074,871047,"PyTorch, Python, SQL",Glassdoor
+212,Cloud Engineer,Kolkata,Mid,Contract,716753,985596,"AWS, Docker",Naukri
+213,Database Administrator,Kolkata,Senior,Contract,1995400,2261238,"MySQL, Linux, Oracle",Glassdoor
+214,Data Engineer,Mumbai,Mid,Full-time,1024399,1247465,"Spark, Python, AWS, ETL, SQL",LinkedIn
+215,Data Scientist,Bangalore,Senior,Contract,1302081,1416236,"Statistics, Pandas",Glassdoor
+216,Software Engineer,Mumbai,Senior,Full-time,2256746,2382574,"React, SQL, Git",LinkedIn
+217,QA Engineer,Chennai,Senior,Internship,1500438,1723508,"Python, SQL, Manual Testing",Naukri
+218,Data Analyst,Remote,Senior,Contract,2095904,2291616,"SQL, Power BI, Python, Excel, Tableau",Naukri
+219,Business Analyst,Pune,Mid,Internship,696405,944170,"Excel, Tableau, Communication, SQL, Power BI",Indeed
+220,Data Analyst,Noida,Senior,Contract,2311473,2396624,"Excel, Power BI, SQL, Tableau, Python",Glassdoor
+221,Database Administrator,Hyderabad,Mid,Full-time,740751,889623,"SQL, MySQL",Naukri
+222,QA Engineer,Kolkata,Senior,Internship,1638072,1915999,"SQL, Selenium, Python, Automation",Naukri
+223,Data Scientist,Gurgaon,Senior,Contract,1628895,1782869,"Pandas, Machine Learning, SQL",Naukri
+224,Business Analyst,Kolkata,Mid,Internship,737133,881411,"Communication, SQL, Power BI, Excel, Tableau",Indeed
+225,Software Engineer,Chennai,Mid,Full-time,894924,1171438,"Python, Java, React",Glassdoor
+226,Cloud Engineer,Remote,Senior,Internship,1519629,1621059,"Azure, Kubernetes, Docker, AWS",Glassdoor
+227,Database Administrator,Chennai,Senior,Internship,2228853,2399656,"Backup & Recovery, MySQL, SQL",Indeed
+228,Cloud Engineer,Pune,Mid,Contract,617733,887689,"AWS, Python",LinkedIn
+229,Business Analyst,Mumbai,Entry,Contract,339591,391987,"Tableau, Communication, Excel",LinkedIn
+230,Data Analyst,Remote,Senior,Contract,2223104,2277227,"Tableau, Python",Glassdoor
+231,Data Analyst,Kolkata,Entry,Contract,375153,429646,"Excel, SQL, Python, Power BI, Tableau",Indeed
+232,Software Engineer,Kolkata,Senior,Internship,1760620,2019007,"Java, SQL, Python, Git, React",Indeed
+233,Software Engineer,Hyderabad,Mid,Full-time,812482,961903,"React, Git, Java, SQL, Python",LinkedIn
+234,Data Scientist,Noida,Mid,Contract,1049818,1124816,"SQL, Pandas",Indeed
+235,QA Engineer,Delhi,Mid,Full-time,958837,1251473,"Automation, Selenium, Python, Manual Testing",LinkedIn
+236,Data Analyst,Remote,Entry,Contract,404410,697908,"Power BI, Excel",Naukri
+237,QA Engineer,Remote,Entry,Contract,441705,578665,"Manual Testing, Selenium, SQL, Automation, Python",Glassdoor
+238,Data Scientist,Mumbai,Mid,Internship,917282,1168872,"Machine Learning, Python, Pandas, SQL, Statistics",LinkedIn
+239,Database Administrator,Chennai,Entry,Internship,348690,576867,"SQL, Backup & Recovery, Oracle, Linux, MySQL",Glassdoor
+240,Web Developer,Noida,Entry,Contract,402137,535152,"HTML, Node.js, React, CSS",Naukri
+241,Database Administrator,Delhi,Mid,Full-time,645768,744891,"Linux, Oracle, SQL, Backup & Recovery, MySQL",LinkedIn
+242,Machine Learning Engineer,Hyderabad,Senior,Internship,1225880,1352386,"SQL, Python, PyTorch, AWS, TensorFlow",Indeed
+243,Business Analyst,Pune,Entry,Internship,370361,549630,"SQL, Excel, Communication",Indeed
+244,Web Developer,Delhi,Mid,Full-time,789333,905314,"React, CSS, Node.js",Glassdoor
+245,Data Scientist,Delhi,Entry,Internship,387088,657711,"Machine Learning, Statistics, SQL, Pandas, Python",LinkedIn
+246,Web Developer,Remote,Mid,Internship,764722,861288,"JavaScript, Node.js, React, CSS, HTML",Naukri
+247,Machine Learning Engineer,Delhi,Mid,Internship,659710,954045,"AWS, TensorFlow, PyTorch",Glassdoor
+248,Cloud Engineer,Gurgaon,Entry,Internship,376370,644285,"Kubernetes, Python",Naukri
+249,Data Engineer,Delhi,Senior,Internship,1523261,1760755,"AWS, Python, SQL, ETL, Spark",Naukri
+250,Cloud Engineer,Noida,Senior,Internship,2325973,2531639,"AWS, Azure",LinkedIn
+251,Machine Learning Engineer,Remote,Entry,Contract,469091,696686,"PyTorch, SQL, Python, AWS, TensorFlow",LinkedIn
+252,Web Developer,Kolkata,Entry,Internship,398073,550606,"Node.js, CSS, React, HTML, JavaScript",Naukri
+253,Data Scientist,Noida,Mid,Full-time,1035849,1332441,"Machine Learning, Pandas, SQL",LinkedIn
+254,Database Administrator,Kolkata,Entry,Internship,424823,500414,"Linux, Backup & Recovery, SQL, MySQL, Oracle",Glassdoor
+255,Data Scientist,Chennai,Entry,Contract,343084,636857,"Pandas, SQL, Machine Learning",LinkedIn
+256,Data Engineer,Kolkata,Mid,Internship,721559,980685,"SQL, Spark, ETL, AWS, Python",Glassdoor
+257,Data Analyst,Remote,Senior,Internship,2100837,2252767,"Excel, Tableau",Naukri
+258,Web Developer,Hyderabad,Senior,Contract,1592083,1737973,"CSS, React, HTML, Node.js",LinkedIn
+259,Database Administrator,Chennai,Senior,Contract,2023224,2227103,"Backup & Recovery, Oracle",Glassdoor
+260,Database Administrator,Pune,Senior,Contract,1377737,1603926,"Backup & Recovery, SQL, Linux",Indeed
+261,Web Developer,Pune,Entry,Contract,337056,520965,"React, CSS, JavaScript, Node.js, HTML",Indeed
+262,Data Engineer,Kolkata,Mid,Contract,687485,865841,"SQL, Spark, AWS, ETL",Naukri
+263,QA Engineer,Chennai,Entry,Internship,335791,436942,"Automation, Python, Manual Testing, SQL, Selenium",LinkedIn
+264,Database Administrator,Pune,Mid,Contract,616179,874814,"Backup & Recovery, SQL, MySQL",LinkedIn
+265,Software Engineer,Delhi,Senior,Internship,2386254,2630900,"React, Java, SQL, Git, Python",Naukri
+266,Cloud Engineer,Kolkata,Mid,Contract,831403,1024626,"Kubernetes, AWS, Docker",LinkedIn
+267,Software Engineer,Bangalore,Mid,Internship,782754,1058774,"Git, Java",Glassdoor
+268,Software Engineer,Remote,Entry,Contract,459976,675853,"Python, React, Java, SQL, Git",Indeed
+269,QA Engineer,Kolkata,Mid,Contract,882469,976608,"SQL, Automation, Python, Manual Testing",Indeed
+270,Cloud Engineer,Hyderabad,Senior,Internship,1324331,1447029,"Azure, Python, AWS",Naukri
+271,Machine Learning Engineer,Noida,Entry,Full-time,451368,667148,"SQL, AWS, TensorFlow, Python",Glassdoor
+272,Data Scientist,Kolkata,Mid,Contract,1090909,1370892,"Statistics, Pandas, SQL, Python",Indeed
+273,Data Scientist,Gurgaon,Senior,Full-time,2320769,2475027,"Statistics, SQL, Pandas",Indeed
+274,Web Developer,Delhi,Mid,Contract,903003,987237,"JavaScript, HTML, React, Node.js, CSS",Indeed
+275,Data Analyst,Pune,Entry,Internship,300177,462322,"Excel, Power BI, SQL",Glassdoor
+276,Web Developer,Chennai,Entry,Full-time,397476,621672,"HTML, React, JavaScript",Indeed
+277,Web Developer,Mumbai,Senior,Contract,1391258,1625728,"HTML, CSS",Glassdoor
+278,Database Administrator,Pune,Entry,Contract,478253,644924,"SQL, Backup & Recovery",Naukri
+279,Data Scientist,Pune,Mid,Full-time,720034,870453,"Python, Pandas",Glassdoor
+280,Machine Learning Engineer,Delhi,Mid,Internship,1005516,1268735,"TensorFlow, Python, PyTorch",Naukri
+281,QA Engineer,Remote,Entry,Internship,392061,631442,"Manual Testing, Python, SQL",Naukri
+282,Database Administrator,Hyderabad,Entry,Full-time,497249,579533,"Backup & Recovery, Linux, MySQL, SQL, Oracle",LinkedIn
+283,Web Developer,Hyderabad,Senior,Contract,1797522,2051724,"JavaScript, CSS",Naukri
+284,Cloud Engineer,Kolkata,Senior,Contract,2021561,2149035,"Azure, Kubernetes",Naukri
+285,Business Analyst,Mumbai,Entry,Contract,455695,524310,"Power BI, Tableau",Glassdoor
+286,Data Engineer,Remote,Mid,Internship,886448,1115477,"AWS, Python, Spark",Glassdoor
+287,QA Engineer,Bangalore,Entry,Full-time,310440,602288,"Python, SQL",Indeed
+288,Cloud Engineer,Noida,Mid,Full-time,935826,1126483,"Docker, AWS, Azure",Glassdoor
+289,Data Scientist,Mumbai,Senior,Contract,1885245,2037672,"Machine Learning, Statistics",Naukri
+290,Software Engineer,Mumbai,Entry,Internship,330405,499253,"SQL, Python",LinkedIn
+291,Data Scientist,Pune,Entry,Full-time,430131,729958,"Pandas, Machine Learning, Python, SQL",LinkedIn
+292,Data Engineer,Delhi,Senior,Full-time,1902569,2164147,"ETL, Python, SQL, AWS, Spark",LinkedIn
+293,Database Administrator,Chennai,Senior,Internship,2388846,2482592,"MySQL, Backup & Recovery, SQL, Linux",LinkedIn
+294,Software Engineer,Kolkata,Senior,Full-time,1225769,1339876,"Git, SQL",LinkedIn
+295,Business Analyst,Pune,Entry,Contract,487176,731337,"Excel, Power BI, SQL, Tableau, Communication",LinkedIn
+296,Web Developer,Remote,Entry,Full-time,431607,658115,"CSS, Node.js",Indeed
+297,Cloud Engineer,Noida,Entry,Internship,374005,626780,"Docker, AWS, Python, Azure",LinkedIn
+298,Data Analyst,Mumbai,Mid,Contract,1011307,1140975,"Python, Power BI, Tableau",Indeed
+299,Database Administrator,Kolkata,Entry,Full-time,301671,596093,"SQL, MySQL, Backup & Recovery, Linux, Oracle",Naukri
+300,Machine Learning Engineer,Noida,Entry,Full-time,353790,542677,"SQL, AWS, Python",Indeed
+301,Data Engineer,Delhi,Senior,Full-time,1685433,1970651,"ETL, AWS, Spark, Python, SQL",LinkedIn
+302,Cloud Engineer,Noida,Entry,Contract,448850,515177,"Azure, Python, Kubernetes, Docker, AWS",LinkedIn
+303,Business Analyst,Chennai,Senior,Internship,1770332,1881571,"Excel, Tableau",Indeed
+304,QA Engineer,Pune,Entry,Full-time,417851,590024,"Python, Selenium, SQL, Manual Testing",LinkedIn
+305,Software Engineer,Delhi,Mid,Internship,1046946,1128380,"Python, SQL",Glassdoor
+306,QA Engineer,Mumbai,Entry,Full-time,323910,560335,"SQL, Python, Automation",Indeed
+307,Data Analyst,Delhi,Senior,Full-time,1265183,1564769,"Python, Excel, SQL, Tableau, Power BI",Indeed
+308,Data Engineer,Bangalore,Entry,Full-time,334266,436205,"ETL, Python, Spark, SQL, AWS",LinkedIn
+309,Data Analyst,Mumbai,Entry,Full-time,324111,611371,"SQL, Tableau, Excel, Python",Glassdoor
+310,Data Engineer,Noida,Senior,Internship,1261828,1412158,"SQL, ETL, Python, AWS, Spark",Glassdoor
+311,Web Developer,Pune,Mid,Contract,924626,1136362,"JavaScript, React, CSS",LinkedIn
+312,Cloud Engineer,Bangalore,Mid,Internship,800810,886785,"Azure, Python, Docker, AWS, Kubernetes",LinkedIn
+313,Machine Learning Engineer,Kolkata,Mid,Internship,1078505,1276787,"SQL, PyTorch, Python, AWS",Glassdoor
+314,Machine Learning Engineer,Mumbai,Senior,Internship,1322874,1584857,"AWS, PyTorch, SQL, Python, TensorFlow",LinkedIn
+315,Data Scientist,Mumbai,Entry,Contract,493215,557871,"Pandas, Statistics, SQL",Indeed
+316,Data Engineer,Mumbai,Entry,Contract,482878,626930,"ETL, SQL",Indeed
+317,QA Engineer,Gurgaon,Entry,Full-time,428564,488515,"Selenium, Manual Testing",Indeed
+318,QA Engineer,Bangalore,Entry,Full-time,386962,677582,"Manual Testing, SQL, Python",Glassdoor
+319,Data Engineer,Bangalore,Mid,Full-time,907552,1142283,"Python, ETL, Spark",LinkedIn
+320,Machine Learning Engineer,Noida,Senior,Internship,1832847,1967415,"TensorFlow, SQL, PyTorch",LinkedIn
+321,Database Administrator,Chennai,Senior,Contract,2378551,2610363,"MySQL, Oracle, Linux, Backup & Recovery",Naukri
+322,Web Developer,Pune,Entry,Contract,450165,602820,"CSS, JavaScript",LinkedIn
+323,QA Engineer,Remote,Entry,Internship,336868,473681,"Manual Testing, SQL",LinkedIn
+324,Machine Learning Engineer,Hyderabad,Entry,Internship,302987,422510,"TensorFlow, Python, AWS",Indeed
+325,Web Developer,Bangalore,Entry,Internship,414876,656918,"CSS, React, Node.js, JavaScript, HTML",LinkedIn
+326,Cloud Engineer,Hyderabad,Mid,Contract,941295,1190063,"Azure, Kubernetes, AWS",Glassdoor
+327,Data Analyst,Bangalore,Mid,Internship,1098945,1176398,"Power BI, Excel",Indeed
+328,Business Analyst,Hyderabad,Entry,Internship,455721,666584,"SQL, Communication, Power BI, Tableau, Excel",LinkedIn
+329,Data Engineer,Hyderabad,Entry,Full-time,349803,507093,"ETL, Spark, Python, AWS",Indeed
+330,Data Analyst,Remote,Mid,Full-time,628576,773165,"Python, SQL",Glassdoor
+331,Web Developer,Remote,Senior,Full-time,1403396,1460142,"CSS, JavaScript, HTML",Glassdoor
+332,Database Administrator,Delhi,Entry,Internship,428213,712799,"SQL, Linux, Oracle, MySQL",Glassdoor
+333,Business Analyst,Pune,Mid,Full-time,738042,903317,"Power BI, Excel, Communication, SQL, Tableau",Glassdoor
+334,Data Scientist,Chennai,Entry,Contract,359641,554764,"Statistics, Pandas",Glassdoor
+335,Cloud Engineer,Gurgaon,Senior,Internship,1826738,1897435,"AWS, Azure, Python, Kubernetes, Docker",Naukri
+336,Data Engineer,Mumbai,Entry,Full-time,410985,481528,"SQL, Spark, ETL, AWS, Python",Naukri
+337,Data Scientist,Noida,Entry,Contract,385492,660050,"Pandas, Statistics, Python, SQL",Glassdoor
+338,Data Scientist,Pune,Mid,Contract,908246,1110991,"Python, Pandas",Naukri
+339,Web Developer,Chennai,Senior,Internship,2003300,2224948,"Node.js, React, HTML, JavaScript, CSS",Glassdoor
+340,Business Analyst,Remote,Entry,Full-time,403754,686950,"Excel, SQL, Power BI, Tableau",Glassdoor
+341,Web Developer,Bangalore,Mid,Internship,763026,886517,"HTML, CSS, Node.js, React, JavaScript",Indeed
+342,Machine Learning Engineer,Noida,Mid,Full-time,831586,937000,"SQL, PyTorch, Python, AWS, TensorFlow",LinkedIn
+343,Web Developer,Kolkata,Senior,Full-time,2299507,2580018,"CSS, Node.js",Glassdoor
+344,Software Engineer,Mumbai,Entry,Internship,313253,603909,"Python, SQL, React, Git",LinkedIn
+345,Cloud Engineer,Hyderabad,Mid,Full-time,795279,973411,"Azure, Kubernetes, Docker, Python, AWS",LinkedIn
+346,Data Engineer,Hyderabad,Mid,Full-time,802671,865686,"Spark, SQL, Python",Indeed
+347,Software Engineer,Mumbai,Senior,Contract,2058798,2243351,"Java, Git",Indeed
+348,Data Engineer,Pune,Senior,Full-time,1729301,1938774,"ETL, AWS, SQL, Spark",LinkedIn
+349,Database Administrator,Mumbai,Mid,Internship,955045,1141527,"Oracle, SQL, Linux, MySQL, Backup & Recovery",Glassdoor
+350,Web Developer,Hyderabad,Senior,Full-time,1905237,2027715,"JavaScript, Node.js, React, CSS",Glassdoor
+351,Software Engineer,Kolkata,Entry,Full-time,457295,613226,"Python, Java, SQL, React",Naukri
+352,Web Developer,Noida,Mid,Internship,986259,1045517,"JavaScript, CSS, Node.js",Glassdoor
+353,Cloud Engineer,Gurgaon,Senior,Contract,1829554,2101175,"Python, Azure, Kubernetes",Indeed
+354,Data Scientist,Pune,Mid,Contract,1023804,1220350,"Machine Learning, Python, Statistics",Indeed
+355,Machine Learning Engineer,Delhi,Entry,Internship,397434,515738,"SQL, Python, TensorFlow, AWS",Glassdoor
+356,QA Engineer,Remote,Senior,Internship,1607987,1789184,"Python, SQL",LinkedIn
+357,Business Analyst,Pune,Entry,Full-time,389828,547095,"Excel, Power BI, Communication, SQL, Tableau",Naukri
+358,Database Administrator,Pune,Mid,Contract,630415,681650,"Backup & Recovery, MySQL, SQL, Oracle, Linux",Indeed
+359,Data Scientist,Remote,Entry,Contract,412567,568314,"Statistics, Pandas, Python, Machine Learning, SQL",Glassdoor
+360,Machine Learning Engineer,Chennai,Entry,Full-time,477405,528486,"TensorFlow, PyTorch, AWS",Naukri
+361,Data Engineer,Noida,Entry,Full-time,317114,583079,"ETL, Spark",Indeed
+362,Database Administrator,Kolkata,Senior,Internship,1480576,1620421,"Backup & Recovery, MySQL, SQL, Linux, Oracle",Indeed
+363,Software Engineer,Pune,Entry,Contract,305744,510328,"Java, SQL, Git",Naukri
+364,Data Analyst,Delhi,Mid,Contract,625145,848676,"SQL, Tableau",LinkedIn
+365,Data Scientist,Gurgaon,Mid,Full-time,886933,1003186,"SQL, Pandas, Machine Learning, Python, Statistics",Glassdoor
+366,Business Analyst,Hyderabad,Senior,Contract,1487652,1647444,"Tableau, SQL",Indeed
+367,Web Developer,Hyderabad,Entry,Full-time,459646,562009,"Node.js, CSS, React, JavaScript",Glassdoor
+368,Web Developer,Bangalore,Entry,Full-time,480408,775020,"JavaScript, CSS, HTML, Node.js, React",Glassdoor
+369,Data Scientist,Gurgaon,Senior,Full-time,2273123,2342796,"Machine Learning, SQL",Naukri
+370,Database Administrator,Delhi,Mid,Full-time,652328,915497,"SQL, Backup & Recovery, MySQL",Glassdoor
+371,Machine Learning Engineer,Hyderabad,Mid,Full-time,605071,878417,"TensorFlow, PyTorch, AWS",LinkedIn
+372,Database Administrator,Delhi,Senior,Internship,1918741,2016679,"Linux, Oracle",LinkedIn
+373,Database Administrator,Noida,Mid,Internship,940182,1222474,"SQL, MySQL, Backup & Recovery",Glassdoor
+374,Data Analyst,Hyderabad,Entry,Contract,426530,686838,"Excel, Python, Tableau, SQL, Power BI",Glassdoor
+375,Database Administrator,Hyderabad,Mid,Internship,624102,690705,"Backup & Recovery, SQL, Oracle, Linux",Glassdoor
+376,Machine Learning Engineer,Kolkata,Senior,Internship,1721303,1897637,"SQL, TensorFlow, PyTorch, Python",LinkedIn
+377,Data Analyst,Pune,Senior,Internship,1546877,1616502,"Power BI, Excel, Python, Tableau, SQL",Glassdoor
+378,Cloud Engineer,Kolkata,Entry,Internship,361603,432267,"Kubernetes, Python, AWS, Azure, Docker",Glassdoor
+379,Machine Learning Engineer,Gurgaon,Entry,Full-time,405759,563851,"AWS, Python",LinkedIn
+380,Data Scientist,Remote,Senior,Contract,2379296,2483520,"Machine Learning, Pandas, Python, Statistics, SQL",Indeed
+381,Machine Learning Engineer,Remote,Senior,Contract,1961883,2199555,"Python, AWS, PyTorch, SQL, TensorFlow",Glassdoor
+382,Machine Learning Engineer,Delhi,Mid,Contract,655743,717743,"SQL, TensorFlow, PyTorch",Indeed
+383,Business Analyst,Delhi,Entry,Full-time,331652,625502,"Excel, Communication, SQL, Tableau, Power BI",Naukri
+384,Business Analyst,Remote,Entry,Internship,419901,642511,"Communication, SQL, Power BI",LinkedIn
+385,Data Analyst,Noida,Senior,Contract,1571620,1802975,"Excel, SQL, Tableau",Glassdoor
+386,QA Engineer,Chennai,Senior,Internship,1720594,1842315,"SQL, Automation, Manual Testing, Selenium, Python",Glassdoor
+387,Business Analyst,Kolkata,Senior,Contract,2348832,2624461,"Tableau, Excel, SQL, Power BI",Indeed
+388,QA Engineer,Delhi,Senior,Contract,1478232,1714458,"Automation, SQL, Python",Indeed
+389,Data Scientist,Kolkata,Mid,Contract,899178,1196294,"Pandas, Machine Learning, SQL, Python, Statistics",Glassdoor
+390,Data Analyst,Pune,Mid,Contract,629677,732080,"Excel, Power BI, Python, Tableau",LinkedIn
+391,Data Engineer,Delhi,Entry,Contract,308468,452494,"Python, SQL, ETL, AWS, Spark",Naukri
+392,Cloud Engineer,Delhi,Senior,Internship,2012761,2171961,"Python, AWS, Kubernetes, Azure",LinkedIn
+393,Software Engineer,Gurgaon,Senior,Contract,1971209,2219155,"Python, SQL, React",Naukri
+394,Data Engineer,Hyderabad,Senior,Full-time,2277614,2358901,"Python, AWS, SQL, ETL, Spark",Naukri
+395,Data Engineer,Delhi,Senior,Internship,2177967,2414007,"Python, SQL, AWS",LinkedIn
+396,QA Engineer,Remote,Entry,Internship,450123,644344,"Selenium, SQL, Python, Automation",Indeed
+397,Data Engineer,Hyderabad,Senior,Internship,2338921,2529701,"Python, ETL, Spark, AWS, SQL",Naukri
+398,Machine Learning Engineer,Delhi,Mid,Contract,878134,1052614,"Python, PyTorch",Naukri
+399,Database Administrator,Remote,Entry,Full-time,478926,761096,"Linux, SQL, MySQL, Backup & Recovery",Naukri
+400,Cloud Engineer,Delhi,Senior,Contract,1986344,2171167,"Kubernetes, AWS, Azure, Python, Docker",LinkedIn
+401,Cloud Engineer,Hyderabad,Entry,Contract,439776,491697,"Azure, Python",Naukri
+402,Business Analyst,Mumbai,Entry,Contract,318905,564697,"SQL, Communication, Power BI",Glassdoor
+403,Machine Learning Engineer,Hyderabad,Entry,Full-time,346659,604857,"AWS, Python, PyTorch, SQL",LinkedIn
+404,Web Developer,Noida,Mid,Contract,812047,975561,"HTML, React, JavaScript, Node.js",Glassdoor
+405,Cloud Engineer,Remote,Entry,Contract,453513,515444,"Docker, AWS",LinkedIn
+406,Web Developer,Delhi,Senior,Internship,2117873,2267858,"HTML, React, Node.js, JavaScript, CSS",LinkedIn
+407,Business Analyst,Delhi,Senior,Internship,1982511,2281407,"Tableau, Excel",Naukri
+408,Data Scientist,Bangalore,Entry,Contract,443530,741774,"Machine Learning, SQL",Glassdoor
+409,Machine Learning Engineer,Noida,Entry,Full-time,348232,456110,"TensorFlow, Python, SQL, PyTorch",Naukri
+410,Cloud Engineer,Kolkata,Mid,Internship,952156,1019814,"AWS, Azure, Docker, Kubernetes",LinkedIn
+411,Machine Learning Engineer,Pune,Mid,Full-time,749493,961895,"TensorFlow, PyTorch",Naukri
+412,Database Administrator,Chennai,Mid,Contract,906273,996222,"Backup & Recovery, Linux, SQL, Oracle",Indeed
+413,Machine Learning Engineer,Mumbai,Entry,Internship,394237,479444,"SQL, AWS, TensorFlow, PyTorch",Glassdoor
+414,Web Developer,Kolkata,Mid,Full-time,938454,1147477,"JavaScript, CSS",LinkedIn
+415,Cloud Engineer,Delhi,Entry,Contract,319765,603625,"Python, AWS",LinkedIn
+416,QA Engineer,Noida,Senior,Full-time,2356776,2475095,"Manual Testing, SQL, Automation, Selenium, Python",Naukri
+417,Data Engineer,Kolkata,Mid,Internship,790770,972410,"SQL, Spark",LinkedIn
+418,Cloud Engineer,Gurgaon,Entry,Full-time,448467,747166,"Kubernetes, Docker, AWS",Naukri
+419,Software Engineer,Mumbai,Mid,Internship,793690,905036,"Python, SQL",LinkedIn
+420,Business Analyst,Gurgaon,Mid,Full-time,940013,1074966,"Tableau, Power BI",LinkedIn
+421,Web Developer,Kolkata,Senior,Internship,1993810,2139570,"Node.js, JavaScript",Naukri
+422,Business Analyst,Kolkata,Entry,Internship,390448,568075,"Tableau, SQL, Power BI, Communication, Excel",Glassdoor
+423,Data Engineer,Hyderabad,Entry,Full-time,339384,438380,"ETL, Python, Spark",Indeed
+424,Software Engineer,Chennai,Mid,Internship,954014,1129532,"Python, React, SQL, Git, Java",LinkedIn
+425,Software Engineer,Pune,Entry,Full-time,465030,649416,"React, Python",Naukri
+426,Data Analyst,Delhi,Entry,Contract,406287,613404,"Power BI, SQL",Naukri
+427,Software Engineer,Remote,Mid,Internship,689426,796930,"React, Python, SQL, Java, Git",Glassdoor
+428,Data Engineer,Chennai,Senior,Contract,1344374,1454618,"AWS, SQL, Python, ETL, Spark",Glassdoor
+429,Cloud Engineer,Noida,Senior,Contract,1401952,1498462,"Python, AWS, Docker, Kubernetes, Azure",Naukri
+430,Database Administrator,Pune,Senior,Contract,2104914,2291764,"Backup & Recovery, SQL, Oracle, MySQL, Linux",LinkedIn
+431,Database Administrator,Chennai,Mid,Internship,670193,786913,"MySQL, SQL, Oracle, Backup & Recovery, Linux",LinkedIn
+432,Software Engineer,Bangalore,Entry,Contract,301885,450196,"SQL, Git, Python",LinkedIn
+433,Data Scientist,Noida,Entry,Internship,440536,601570,"Pandas, Machine Learning, Statistics, SQL",Indeed
+434,Software Engineer,Kolkata,Mid,Full-time,794098,990661,"SQL, React, Git, Python, Java",Glassdoor
+435,Data Engineer,Hyderabad,Senior,Internship,1539308,1615595,"Spark, AWS, SQL",Naukri
+436,Cloud Engineer,Bangalore,Senior,Internship,1211095,1471955,"Azure, Kubernetes",Naukri
+437,QA Engineer,Hyderabad,Mid,Internship,716271,863483,"Automation, Selenium",LinkedIn
+438,Business Analyst,Remote,Mid,Contract,913247,978310,"Communication, Tableau, SQL",Indeed
+439,Software Engineer,Kolkata,Senior,Full-time,1270483,1525993,"React, Python, SQL",Indeed
+440,Data Analyst,Mumbai,Mid,Full-time,645530,767865,"Power BI, Python, Excel, SQL, Tableau",LinkedIn
+441,Data Scientist,Kolkata,Entry,Contract,446568,736432,"Machine Learning, Pandas, Python, Statistics",Indeed
+442,Database Administrator,Remote,Mid,Internship,691768,848495,"Oracle, SQL",LinkedIn
+443,Cloud Engineer,Chennai,Mid,Contract,735105,1014772,"Kubernetes, Python, Docker, Azure",LinkedIn
+444,Software Engineer,Gurgaon,Mid,Contract,1051948,1109117,"Java, SQL, React, Python, Git",Glassdoor
+445,Software Engineer,Noida,Mid,Contract,880835,933383,"Python, SQL, Java, React",Indeed
+446,Machine Learning Engineer,Kolkata,Entry,Internship,382279,524956,"AWS, PyTorch, Python",Naukri
+447,Software Engineer,Mumbai,Mid,Contract,726907,1005691,"Python, React, Java, SQL",Naukri
+448,QA Engineer,Pune,Mid,Full-time,1082443,1153018,"Automation, Selenium, SQL, Python, Manual Testing",LinkedIn
+449,Machine Learning Engineer,Chennai,Senior,Contract,1776156,1954817,"AWS, PyTorch, TensorFlow",Glassdoor
+450,Software Engineer,Pune,Senior,Contract,2087464,2262852,"React, SQL",LinkedIn
+451,Business Analyst,Pune,Senior,Full-time,2286754,2457358,"SQL, Tableau, Power BI, Communication",Glassdoor
+452,Business Analyst,Hyderabad,Senior,Internship,1744631,1843691,"Excel, Power BI, Tableau, Communication",Indeed
+453,Machine Learning Engineer,Gurgaon,Entry,Full-time,409862,643549,"PyTorch, SQL, TensorFlow, AWS",Glassdoor
+454,Data Engineer,Pune,Senior,Full-time,1766124,2026910,"Spark, AWS, SQL",Naukri
+455,Software Engineer,Pune,Entry,Full-time,346296,506795,"Python, SQL, React, Git, Java",Glassdoor
+456,Cloud Engineer,Bangalore,Senior,Full-time,1542552,1608290,"Docker, Kubernetes, Python",Glassdoor
+457,Data Scientist,Chennai,Mid,Internship,788904,985796,"Machine Learning, Python, SQL, Statistics",Indeed
+458,Machine Learning Engineer,Remote,Senior,Contract,2329186,2424940,"PyTorch, AWS, SQL, TensorFlow",Naukri
+459,Database Administrator,Noida,Entry,Internship,465599,553570,"Backup & Recovery, Linux, Oracle",Indeed
+460,QA Engineer,Noida,Senior,Full-time,1539737,1679816,"SQL, Automation, Python",LinkedIn
+461,Web Developer,Delhi,Senior,Internship,2133019,2387746,"Node.js, React, CSS, HTML",Glassdoor
+462,Data Engineer,Pune,Entry,Contract,365967,662497,"SQL, Spark",Naukri
+463,Business Analyst,Hyderabad,Entry,Internship,443768,507878,"Communication, SQL",LinkedIn
+464,Data Scientist,Remote,Mid,Full-time,943320,1237530,"Machine Learning, SQL, Python, Statistics, Pandas",Naukri
+465,Data Engineer,Kolkata,Entry,Full-time,309215,533160,"ETL, AWS, SQL, Spark",Naukri
+466,Cloud Engineer,Pune,Mid,Contract,913306,1082986,"Python, Docker, Azure, Kubernetes, AWS",Naukri
+467,Data Scientist,Delhi,Mid,Internship,736213,827033,"Python, Pandas, Machine Learning, Statistics",Indeed
+468,Machine Learning Engineer,Gurgaon,Mid,Contract,1083439,1262395,"PyTorch, Python, TensorFlow, AWS, SQL",LinkedIn
+469,Data Analyst,Chennai,Senior,Internship,2375567,2540151,"Excel, Tableau, Power BI, Python, SQL",Naukri
+470,Software Engineer,Hyderabad,Mid,Contract,725599,911025,"SQL, React, Python, Java",Glassdoor
+471,Data Scientist,Pune,Entry,Full-time,466957,636322,"Machine Learning, Statistics, Python, SQL, Pandas",Indeed
+472,Data Engineer,Kolkata,Entry,Full-time,326810,450764,"SQL, AWS, ETL, Python",LinkedIn
+473,Software Engineer,Pune,Entry,Internship,356934,496564,"SQL, Git, Python, React, Java",LinkedIn
+474,Machine Learning Engineer,Pune,Entry,Internship,402871,471584,"TensorFlow, AWS, SQL, PyTorch, Python",LinkedIn
+475,Data Scientist,Mumbai,Senior,Internship,1718336,1961698,"SQL, Statistics",Glassdoor
+476,Data Scientist,Mumbai,Senior,Internship,1854540,2149963,"SQL, Python, Machine Learning, Statistics",Glassdoor
+477,Web Developer,Delhi,Mid,Internship,1065315,1128969,"HTML, CSS, JavaScript",Naukri
+478,Business Analyst,Bangalore,Mid,Internship,906549,987914,"Excel, SQL, Communication, Tableau, Power BI",Naukri
+479,Machine Learning Engineer,Mumbai,Entry,Internship,323960,553776,"Python, AWS, TensorFlow, SQL",Naukri
+480,Cloud Engineer,Pune,Entry,Full-time,383031,579399,"Kubernetes, Azure, AWS, Python",Glassdoor
+481,Machine Learning Engineer,Pune,Senior,Full-time,2217752,2452989,"AWS, PyTorch, SQL, TensorFlow, Python",Indeed
+482,QA Engineer,Kolkata,Entry,Internship,491994,664780,"Automation, Manual Testing, Selenium, SQL",Indeed
+483,Database Administrator,Delhi,Mid,Internship,600377,853779,"MySQL, SQL, Backup & Recovery, Oracle, Linux",Indeed
+484,Machine Learning Engineer,Hyderabad,Senior,Full-time,2299053,2528156,"AWS, TensorFlow, PyTorch, SQL, Python",Glassdoor
+485,Business Analyst,Chennai,Senior,Full-time,2297231,2519955,"SQL, Excel",LinkedIn
+486,Data Engineer,Mumbai,Entry,Internship,350231,426118,"Spark, AWS",LinkedIn
+487,Database Administrator,Remote,Senior,Full-time,1968300,2076161,"SQL, MySQL",Indeed
+488,Database Administrator,Gurgaon,Entry,Internship,446281,691179,"Backup & Recovery, SQL, Oracle, MySQL, Linux",LinkedIn
+489,Data Scientist,Hyderabad,Mid,Contract,650918,727453,"Pandas, Statistics, Python",Naukri
+490,Software Engineer,Mumbai,Senior,Contract,2370507,2529345,"React, SQL",Naukri
+491,Database Administrator,Noida,Senior,Full-time,1578318,1772488,"Oracle, Backup & Recovery, Linux, SQL, MySQL",LinkedIn
+492,Machine Learning Engineer,Kolkata,Mid,Internship,816186,1066512,"PyTorch, TensorFlow, AWS, Python, SQL",Indeed
+493,Cloud Engineer,Delhi,Senior,Internship,2138475,2292569,"AWS, Docker",Indeed
+494,QA Engineer,Kolkata,Entry,Internship,301721,430451,"Manual Testing, SQL, Selenium",Naukri
+495,Web Developer,Kolkata,Senior,Full-time,1279138,1449821,"CSS, Node.js, React, JavaScript",Naukri
+496,QA Engineer,Mumbai,Entry,Internship,324092,523641,"Automation, Manual Testing, SQL, Selenium, Python",Indeed
+497,Database Administrator,Gurgaon,Entry,Contract,468363,597109,"Oracle, Linux",LinkedIn
+498,Data Scientist,Chennai,Entry,Internship,409188,703046,"SQL, Python",Indeed
+499,Business Analyst,Delhi,Entry,Internship,441539,639627,"Power BI, Excel, SQL",LinkedIn
+500,Data Analyst,Noida,Senior,Contract,2258494,2332108,"Python, Power BI, Excel",Glassdoor
+501,Data Engineer,Chennai,Entry,Internship,449799,695178,"Spark, AWS",LinkedIn
+502,Web Developer,Noida,Entry,Contract,334177,583939,"React, CSS, Node.js",Glassdoor
+503,Business Analyst,Remote,Senior,Contract,2299427,2413978,"SQL, Power BI, Excel",Naukri
+504,Machine Learning Engineer,Remote,Senior,Full-time,2067344,2228372,"PyTorch, TensorFlow, SQL, AWS",LinkedIn
+505,QA Engineer,Bangalore,Senior,Full-time,1933408,2144946,"Automation, Manual Testing, Python, Selenium, SQL",Indeed
+506,Software Engineer,Chennai,Senior,Contract,1379965,1459422,"Python, React",Naukri
+507,Web Developer,Chennai,Entry,Internship,417980,591499,"JavaScript, CSS",LinkedIn
+508,Cloud Engineer,Mumbai,Entry,Contract,426622,639948,"AWS, Kubernetes, Docker",Indeed
+509,Cloud Engineer,Delhi,Entry,Full-time,374452,477063,"AWS, Kubernetes, Docker, Python",Naukri
+510,Data Scientist,Delhi,Mid,Full-time,610002,736677,"SQL, Statistics, Machine Learning, Python, Pandas",Indeed
+511,Database Administrator,Kolkata,Senior,Full-time,1617071,1798313,"Oracle, SQL, Linux, Backup & Recovery, MySQL",LinkedIn
+512,Machine Learning Engineer,Noida,Mid,Full-time,781812,1011200,"PyTorch, AWS, Python, TensorFlow",Naukri
+513,Data Analyst,Delhi,Senior,Full-time,2363792,2662597,"Excel, Tableau, Python, Power BI",Glassdoor
+514,Data Engineer,Noida,Entry,Internship,363009,563190,"AWS, ETL, Spark",Naukri
+515,Machine Learning Engineer,Kolkata,Mid,Full-time,942083,1028410,"TensorFlow, PyTorch, SQL",Naukri
+516,Cloud Engineer,Noida,Entry,Contract,448070,738485,"Docker, AWS, Python",Naukri
+517,Cloud Engineer,Hyderabad,Senior,Internship,1505183,1745782,"Docker, Kubernetes",Naukri
+518,Business Analyst,Gurgaon,Mid,Full-time,1008476,1107741,"Excel, Tableau",Indeed
+519,Data Analyst,Remote,Senior,Contract,2389175,2599702,"Tableau, Excel, SQL",Indeed
+520,Data Analyst,Hyderabad,Mid,Full-time,863362,1135172,"Power BI, Excel, Python, Tableau, SQL",Glassdoor
+521,Data Engineer,Mumbai,Entry,Full-time,407109,657528,"ETL, AWS",Naukri
+522,Software Engineer,Mumbai,Senior,Full-time,1571359,1864393,"React, Git, SQL, Python, Java",Naukri
+523,Software Engineer,Noida,Mid,Contract,985525,1251617,"SQL, Git, React, Java, Python",LinkedIn
+524,Database Administrator,Bangalore,Mid,Contract,881998,1035705,"Oracle, Linux",Naukri
+525,Cloud Engineer,Bangalore,Senior,Internship,2121811,2276154,"Docker, Kubernetes, AWS, Azure",Naukri
+526,Web Developer,Bangalore,Senior,Internship,2147279,2220987,"CSS, Node.js",Naukri
+527,Business Analyst,Chennai,Mid,Full-time,693783,862712,"Communication, SQL, Excel",Glassdoor
+528,Machine Learning Engineer,Pune,Senior,Full-time,1439421,1674554,"PyTorch, Python, AWS, TensorFlow, SQL",LinkedIn
+529,Business Analyst,Noida,Senior,Full-time,1902950,2101190,"Excel, Tableau, SQL",LinkedIn
+530,Data Analyst,Delhi,Mid,Contract,1002983,1169966,"Excel, SQL, Python, Power BI",Indeed
+531,Data Analyst,Delhi,Senior,Internship,2243600,2517840,"Tableau, SQL, Power BI, Excel, Python",LinkedIn
+532,Software Engineer,Gurgaon,Senior,Internship,2126679,2197494,"Python, SQL",Glassdoor
+533,QA Engineer,Kolkata,Senior,Full-time,1587637,1676501,"SQL, Selenium",Naukri
+534,Data Engineer,Remote,Entry,Internship,322990,385843,"AWS, SQL",Indeed
+535,Data Engineer,Delhi,Senior,Internship,1955370,2249551,"Python, ETL",Naukri
+536,Machine Learning Engineer,Noida,Mid,Internship,1042137,1236439,"PyTorch, SQL",LinkedIn
+537,Data Engineer,Delhi,Entry,Contract,408464,595996,"SQL, Python, AWS",Indeed
+538,QA Engineer,Kolkata,Senior,Internship,1802275,1964224,"SQL, Automation, Selenium, Manual Testing",LinkedIn
+539,Cloud Engineer,Gurgaon,Senior,Full-time,1688052,1923803,"Azure, AWS, Kubernetes, Docker",Glassdoor
+540,Database Administrator,Hyderabad,Senior,Contract,2069546,2228084,"Backup & Recovery, Oracle",Naukri
+541,Cloud Engineer,Mumbai,Senior,Contract,1621920,1852803,"Docker, AWS, Azure, Python",LinkedIn
+542,Cloud Engineer,Chennai,Senior,Full-time,1898944,2038429,"Python, AWS, Kubernetes, Docker, Azure",LinkedIn
+543,Machine Learning Engineer,Gurgaon,Senior,Full-time,1484696,1660917,"SQL, PyTorch, TensorFlow",Glassdoor
+544,Business Analyst,Bangalore,Senior,Contract,1861657,2057193,"Excel, Power BI",Indeed
+545,Machine Learning Engineer,Pune,Entry,Full-time,388906,537273,"AWS, SQL, Python",Indeed
+546,QA Engineer,Delhi,Entry,Contract,308291,429462,"Selenium, Python, Automation, Manual Testing, SQL",Indeed
+547,Web Developer,Kolkata,Entry,Full-time,329420,477518,"CSS, HTML",Indeed
+548,Database Administrator,Bangalore,Senior,Contract,1523124,1622986,"Linux, Backup & Recovery, MySQL, SQL",Glassdoor
+549,Data Scientist,Pune,Senior,Contract,1276656,1447076,"Pandas, Python, Statistics, SQL, Machine Learning",Naukri
+550,QA Engineer,Chennai,Entry,Full-time,327027,513493,"Selenium, SQL, Python, Automation",Glassdoor
+551,Machine Learning Engineer,Mumbai,Entry,Internship,439532,573195,"Python, PyTorch, AWS, SQL, TensorFlow",Indeed
+552,Data Scientist,Remote,Entry,Full-time,442220,584053,"Machine Learning, SQL, Pandas, Statistics",LinkedIn
+553,QA Engineer,Pune,Entry,Internship,460763,744659,"Automation, Python, Selenium, SQL",LinkedIn
+554,Data Analyst,Bangalore,Mid,Internship,628206,700781,"Python, Excel, Power BI, Tableau, SQL",LinkedIn
+555,Web Developer,Mumbai,Mid,Internship,897685,982234,"React, HTML",LinkedIn
+556,Database Administrator,Gurgaon,Mid,Full-time,1096735,1205401,"Oracle, Backup & Recovery, MySQL",Glassdoor
+557,Business Analyst,Chennai,Entry,Internship,427796,485729,"Communication, SQL",Indeed
+558,Machine Learning Engineer,Gurgaon,Mid,Internship,1002622,1144009,"AWS, Python, TensorFlow",Naukri
+559,Data Scientist,Kolkata,Mid,Internship,879312,1050153,"Pandas, Statistics, Python, Machine Learning, SQL",LinkedIn
+560,Database Administrator,Hyderabad,Mid,Full-time,1026726,1258669,"Linux, Backup & Recovery, Oracle, SQL, MySQL",Indeed
+561,Data Scientist,Remote,Senior,Full-time,2170789,2306084,"Statistics, SQL",Glassdoor
+562,Web Developer,Hyderabad,Mid,Contract,1026805,1233149,"JavaScript, React, Node.js, HTML, CSS",LinkedIn
+563,Software Engineer,Remote,Entry,Full-time,473246,562362,"React, SQL, Python, Git, Java",LinkedIn
+564,Software Engineer,Chennai,Senior,Contract,1838687,2129466,"SQL, Java, React, Git, Python",Indeed
+565,Data Engineer,Bangalore,Mid,Contract,627854,678075,"Python, ETL, Spark, AWS",Indeed
+566,Business Analyst,Remote,Senior,Contract,1867161,2103748,"Communication, Tableau, Excel, SQL, Power BI",Glassdoor
+567,Database Administrator,Mumbai,Entry,Internship,409375,499815,"MySQL, Oracle, SQL, Backup & Recovery",Glassdoor
+568,Data Analyst,Gurgaon,Entry,Full-time,322194,408165,"Python, Tableau, Power BI, SQL, Excel",Glassdoor
+569,Cloud Engineer,Kolkata,Mid,Internship,786283,895459,"Kubernetes, AWS, Docker",Glassdoor
+570,Database Administrator,Mumbai,Senior,Internship,2345393,2546480,"SQL, Oracle, Backup & Recovery, MySQL",Indeed
+571,Machine Learning Engineer,Remote,Entry,Contract,320988,408235,"SQL, Python, PyTorch, AWS",Glassdoor
+572,Software Engineer,Hyderabad,Mid,Contract,627668,914537,"React, Java, Python, SQL",Indeed
+573,Cloud Engineer,Remote,Mid,Internship,785028,1044277,"Docker, Azure, AWS, Kubernetes",Indeed
+574,QA Engineer,Bangalore,Mid,Contract,688646,888817,"SQL, Selenium",Glassdoor
+575,Web Developer,Hyderabad,Mid,Contract,640297,913498,"JavaScript, CSS, Node.js, React",Naukri
+576,Web Developer,Bangalore,Mid,Contract,691547,980132,"React, JavaScript, HTML",LinkedIn
+577,Web Developer,Mumbai,Senior,Full-time,2306014,2581985,"JavaScript, HTML",Glassdoor
+578,Data Engineer,Pune,Senior,Internship,2003559,2115935,"SQL, Spark, ETL, AWS, Python",Glassdoor
+579,Web Developer,Bangalore,Entry,Internship,404528,579369,"React, CSS, Node.js, JavaScript",Naukri
+580,Database Administrator,Pune,Mid,Full-time,751410,1044475,"Linux, Backup & Recovery, Oracle, SQL, MySQL",Glassdoor
+581,Cloud Engineer,Chennai,Senior,Contract,1771663,1909472,"Docker, AWS, Azure, Python",Glassdoor
+582,Database Administrator,Mumbai,Senior,Contract,1907592,2135251,"Backup & Recovery, SQL, Oracle",Naukri
+583,Data Analyst,Bangalore,Entry,Full-time,437694,514932,"Power BI, Excel, Tableau, Python, SQL",Glassdoor
+584,Software Engineer,Bangalore,Entry,Full-time,455749,677874,"React, Java, SQL",LinkedIn
+585,Data Scientist,Remote,Entry,Internship,472069,722309,"Python, SQL, Statistics",Naukri
+586,Web Developer,Hyderabad,Mid,Internship,1003365,1165296,"JavaScript, CSS, HTML, React",Glassdoor
+587,Data Analyst,Noida,Mid,Full-time,735391,998461,"Excel, Python, SQL, Tableau",Indeed
+588,Software Engineer,Noida,Senior,Contract,2231918,2310342,"React, Git, Java",Naukri
+589,QA Engineer,Hyderabad,Senior,Contract,1743154,1820230,"Selenium, Automation",Glassdoor
+590,QA Engineer,Delhi,Senior,Full-time,2243755,2332776,"Selenium, Python",Glassdoor
+591,Web Developer,Chennai,Entry,Contract,300970,486074,"React, Node.js, CSS, HTML, JavaScript",Glassdoor
+592,Data Analyst,Gurgaon,Mid,Contract,880653,1175768,"Power BI, Tableau, Excel, SQL",LinkedIn
+593,Data Scientist,Kolkata,Mid,Full-time,1041021,1211512,"SQL, Pandas, Machine Learning, Python",Indeed
+594,Business Analyst,Mumbai,Senior,Contract,2018108,2303109,"Power BI, Communication",Indeed
+595,Data Scientist,Gurgaon,Senior,Full-time,1274864,1375482,"Pandas, SQL",Naukri
+596,Database Administrator,Hyderabad,Mid,Internship,879938,1148631,"SQL, Oracle, MySQL, Linux, Backup & Recovery",Indeed
+597,Data Analyst,Hyderabad,Mid,Contract,949865,1136997,"Tableau, Excel, Power BI, SQL, Python",Naukri
+598,Data Analyst,Pune,Senior,Contract,1239978,1413505,"Excel, Tableau",Glassdoor
+599,Data Analyst,Bangalore,Entry,Full-time,419586,629815,"Tableau, SQL, Python",Indeed
+600,Data Scientist,Remote,Mid,Full-time,1021765,1124886,"Machine Learning, Statistics, SQL, Python, Pandas",Naukri
+601,Machine Learning Engineer,Bangalore,Entry,Internship,316573,398225,"TensorFlow, SQL, Python, AWS",Naukri
+602,Cloud Engineer,Gurgaon,Entry,Contract,310668,395630,"Python, Kubernetes",Naukri
+603,Data Engineer,Gurgaon,Entry,Full-time,301893,398925,"Spark, ETL",LinkedIn
+604,Business Analyst,Gurgaon,Senior,Full-time,1500076,1717802,"Tableau, Communication, Excel, SQL",Naukri
+605,Data Engineer,Bangalore,Senior,Contract,2248340,2458785,"ETL, Spark",Naukri
+606,Business Analyst,Kolkata,Entry,Full-time,330803,519791,"Tableau, Power BI",Naukri
+607,Cloud Engineer,Mumbai,Senior,Contract,1636435,1758898,"Azure, AWS",Glassdoor
+608,Data Engineer,Gurgaon,Senior,Full-time,1535040,1760713,"Python, ETL",Glassdoor
+609,Web Developer,Noida,Entry,Internship,461695,722761,"HTML, Node.js, JavaScript, React, CSS",Indeed
+610,Data Engineer,Gurgaon,Entry,Full-time,361682,600793,"Spark, ETL, SQL, Python, AWS",LinkedIn
+611,Software Engineer,Chennai,Entry,Full-time,362159,605555,"Python, Git, Java, SQL, React",Naukri
+612,QA Engineer,Bangalore,Mid,Full-time,713332,1006572,"Manual Testing, Python, Automation, Selenium, SQL",Glassdoor
+613,Software Engineer,Chennai,Senior,Full-time,1904415,1987762,"React, Java",Indeed
+614,Web Developer,Hyderabad,Entry,Internship,409634,504513,"CSS, JavaScript, React, HTML",Glassdoor
+615,QA Engineer,Remote,Entry,Full-time,407923,682573,"Manual Testing, Python, Automation, SQL, Selenium",Naukri
+616,Business Analyst,Mumbai,Senior,Internship,2110685,2312588,"Tableau, Excel, Power BI",Naukri
+617,Data Analyst,Bangalore,Mid,Internship,984552,1236037,"Python, Tableau",LinkedIn
+618,Database Administrator,Hyderabad,Senior,Internship,1704389,1776170,"Linux, MySQL",Glassdoor
+619,Data Engineer,Delhi,Mid,Contract,647568,701743,"ETL, SQL, Spark, AWS, Python",Naukri
+620,Database Administrator,Pune,Mid,Full-time,1014113,1292585,"Linux, SQL, Backup & Recovery, Oracle",Glassdoor
+621,Business Analyst,Chennai,Senior,Internship,2093181,2340546,"Tableau, Excel, Power BI, SQL",LinkedIn
+622,QA Engineer,Bangalore,Mid,Full-time,658178,808567,"Python, Selenium, Manual Testing, SQL",Indeed
+623,Data Engineer,Kolkata,Senior,Contract,1629313,1715595,"SQL, Python, ETL, Spark",LinkedIn
+624,QA Engineer,Mumbai,Senior,Internship,1939689,2225076,"Automation, Python, Manual Testing, Selenium",Naukri
+625,Data Scientist,Chennai,Mid,Internship,862904,1050970,"Statistics, Machine Learning",Glassdoor
+626,Database Administrator,Chennai,Senior,Full-time,2160231,2233118,"Linux, MySQL",LinkedIn
+627,Web Developer,Hyderabad,Entry,Internship,329366,562101,"React, CSS, HTML",Naukri
+628,Cloud Engineer,Bangalore,Senior,Internship,2335471,2629716,"Kubernetes, Docker, Azure",Indeed
+629,Database Administrator,Bangalore,Senior,Full-time,1332014,1387790,"Oracle, Backup & Recovery, MySQL",Indeed
+630,QA Engineer,Chennai,Mid,Contract,949099,1181777,"Python, SQL, Automation, Selenium, Manual Testing",Glassdoor
+631,Data Engineer,Mumbai,Mid,Internship,751071,1002856,"SQL, ETL",Glassdoor
+632,Web Developer,Pune,Mid,Contract,880660,1005435,"CSS, Node.js, HTML",Naukri
+633,Software Engineer,Bangalore,Entry,Contract,333154,498730,"SQL, Python, Java, React",Indeed
+634,Machine Learning Engineer,Pune,Mid,Internship,883045,975668,"Python, AWS, TensorFlow, PyTorch",Indeed
+635,Data Engineer,Chennai,Mid,Full-time,987184,1180352,"ETL, AWS, SQL, Python",Naukri
+636,QA Engineer,Gurgaon,Senior,Contract,1435542,1677337,"Selenium, Manual Testing, SQL, Automation, Python",Indeed
+637,Data Analyst,Remote,Mid,Internship,787377,861620,"SQL, Excel, Power BI, Tableau",Naukri
+638,Web Developer,Bangalore,Entry,Contract,416774,644262,"Node.js, React",LinkedIn
+639,Software Engineer,Chennai,Mid,Contract,789301,943518,"Git, SQL, Python",LinkedIn
+640,Machine Learning Engineer,Delhi,Entry,Internship,380762,547567,"TensorFlow, SQL",Indeed
+641,Business Analyst,Delhi,Mid,Contract,1070665,1231770,"Excel, SQL, Communication, Power BI, Tableau",Naukri
+642,Database Administrator,Chennai,Senior,Contract,1988051,2061237,"Linux, Backup & Recovery",LinkedIn
+643,Business Analyst,Kolkata,Entry,Contract,448875,696857,"Excel, Tableau, Communication",Glassdoor
+644,Web Developer,Gurgaon,Senior,Internship,1837354,2016879,"CSS, HTML, React, JavaScript, Node.js",LinkedIn
+645,Web Developer,Gurgaon,Senior,Contract,1803327,1962682,"React, CSS, HTML",LinkedIn
+646,Data Scientist,Gurgaon,Mid,Contract,990891,1135724,"Pandas, Statistics, SQL, Machine Learning, Python",LinkedIn
+647,Machine Learning Engineer,Remote,Senior,Internship,1541515,1743992,"TensorFlow, PyTorch",LinkedIn
+648,Database Administrator,Pune,Senior,Full-time,1310914,1432392,"Linux, Backup & Recovery, SQL, MySQL",Indeed
+649,Web Developer,Hyderabad,Senior,Contract,1584297,1834755,"Node.js, CSS",Naukri
+650,Cloud Engineer,Chennai,Mid,Internship,959369,1192336,"AWS, Docker, Python, Kubernetes",Indeed
+651,Data Engineer,Delhi,Senior,Internship,2064015,2203226,"Python, SQL, Spark",Indeed
+652,Cloud Engineer,Mumbai,Entry,Internship,420715,710847,"AWS, Azure",LinkedIn
+653,Data Analyst,Chennai,Mid,Contract,790090,876531,"Tableau, Power BI, SQL, Excel, Python",Indeed
+654,Data Scientist,Pune,Entry,Contract,359395,489985,"SQL, Pandas, Python",Naukri
+655,Business Analyst,Hyderabad,Senior,Full-time,2215556,2464086,"SQL, Excel, Tableau, Power BI, Communication",LinkedIn
+656,Database Administrator,Delhi,Entry,Full-time,379074,604077,"SQL, Oracle",LinkedIn
+657,QA Engineer,Remote,Entry,Full-time,475793,617945,"Selenium, Manual Testing",Naukri
+658,Web Developer,Chennai,Senior,Full-time,2249906,2504588,"Node.js, HTML, React",Indeed
+659,QA Engineer,Kolkata,Entry,Contract,350213,474100,"Automation, Selenium, SQL",Naukri
+660,Data Scientist,Kolkata,Entry,Internship,483011,687513,"Statistics, Python, Pandas",Glassdoor
+661,Machine Learning Engineer,Noida,Mid,Contract,719303,876147,"PyTorch, Python",Naukri
+662,Database Administrator,Kolkata,Entry,Internship,499825,644524,"Oracle, SQL, Linux, MySQL",Naukri
+663,Database Administrator,Noida,Entry,Internship,457388,700371,"Linux, MySQL, Backup & Recovery, Oracle",Indeed
+664,Web Developer,Mumbai,Mid,Internship,1092349,1320379,"CSS, HTML, JavaScript, Node.js",LinkedIn
+665,Data Scientist,Gurgaon,Mid,Full-time,675165,828662,"Pandas, Python, Machine Learning, Statistics, SQL",LinkedIn
+666,Machine Learning Engineer,Chennai,Entry,Contract,405981,488162,"SQL, AWS, TensorFlow",Naukri
+667,QA Engineer,Delhi,Senior,Internship,2197880,2422645,"Python, SQL, Selenium, Manual Testing, Automation",Glassdoor
+668,Data Scientist,Gurgaon,Mid,Full-time,929447,1226492,"Python, Pandas, Machine Learning",Glassdoor
+669,Data Analyst,Gurgaon,Entry,Full-time,400304,608792,"Excel, Power BI, Python, SQL",LinkedIn
+670,Data Scientist,Kolkata,Senior,Internship,1623481,1750436,"Statistics, Machine Learning, Pandas, SQL, Python",Glassdoor
+671,Data Analyst,Hyderabad,Mid,Internship,764919,1038494,"Python, Tableau, SQL, Power BI, Excel",Glassdoor
+672,Cloud Engineer,Delhi,Senior,Internship,2103203,2188458,"Kubernetes, Python, AWS, Azure",Naukri
+673,Cloud Engineer,Kolkata,Senior,Internship,2379135,2653098,"Python, AWS, Azure",Glassdoor
+674,Web Developer,Remote,Mid,Contract,954674,1097148,"JavaScript, HTML, React, Node.js",Glassdoor
+675,Data Engineer,Chennai,Mid,Contract,778916,928681,"AWS, ETL",LinkedIn
+676,Machine Learning Engineer,Chennai,Mid,Contract,728046,842956,"PyTorch, Python, AWS",LinkedIn
+677,Data Scientist,Hyderabad,Mid,Full-time,610334,801476,"Python, Statistics, Machine Learning, SQL",Indeed
+678,QA Engineer,Noida,Senior,Full-time,2185032,2389169,"SQL, Python",Indeed
+679,QA Engineer,Chennai,Mid,Internship,652458,883563,"SQL, Python, Automation",LinkedIn
+680,Machine Learning Engineer,Remote,Entry,Internship,414292,517181,"Python, TensorFlow, SQL, PyTorch, AWS",Indeed
+681,Web Developer,Noida,Senior,Contract,1392849,1630991,"Node.js, JavaScript",Naukri
+682,Web Developer,Remote,Entry,Internship,354981,496027,"JavaScript, Node.js",Glassdoor
+683,Business Analyst,Kolkata,Senior,Full-time,2068879,2224339,"Tableau, Communication, Power BI, SQL",Indeed
+684,Data Analyst,Kolkata,Senior,Contract,2246905,2352729,"Power BI, Python, Tableau, SQL, Excel",Naukri
+685,Machine Learning Engineer,Pune,Mid,Full-time,991346,1220995,"SQL, AWS, TensorFlow, Python",Naukri
+686,Software Engineer,Delhi,Mid,Contract,684192,801417,"Git, Python, Java",Indeed
+687,Data Engineer,Bangalore,Entry,Internship,421676,598916,"AWS, Python, Spark, ETL, SQL",Naukri
+688,Data Engineer,Delhi,Entry,Contract,444364,540497,"AWS, Python",Indeed
+689,Data Analyst,Chennai,Entry,Full-time,406694,691777,"SQL, Python, Power BI, Tableau",Indeed
+690,Software Engineer,Remote,Entry,Contract,474120,741432,"Git, Java, React, SQL",LinkedIn
+691,Machine Learning Engineer,Remote,Mid,Contract,990048,1101897,"TensorFlow, AWS, Python, PyTorch, SQL",Glassdoor
+692,Web Developer,Noida,Mid,Contract,629321,807865,"HTML, JavaScript, React, CSS",Indeed
+693,Database Administrator,Mumbai,Senior,Full-time,1961262,2135838,"Backup & Recovery, SQL, Oracle, Linux",Indeed
+694,Data Analyst,Mumbai,Senior,Contract,2006753,2137825,"SQL, Excel, Python, Power BI",Indeed
+695,Data Analyst,Delhi,Mid,Full-time,1090902,1356569,"Power BI, Excel, SQL",Indeed
+696,Database Administrator,Chennai,Senior,Full-time,1774696,2051829,"Linux, Oracle",Glassdoor
+697,Business Analyst,Noida,Mid,Full-time,966205,1084616,"Power BI, Communication",LinkedIn
+698,QA Engineer,Kolkata,Senior,Internship,1257358,1507105,"Manual Testing, Python",Indeed
+699,Data Engineer,Noida,Entry,Contract,380097,512337,"Python, SQL",Naukri
+700,Software Engineer,Pune,Senior,Internship,2146842,2322242,"SQL, Python, React",Glassdoor
+701,QA Engineer,Delhi,Mid,Full-time,817315,963679,"Python, Automation, SQL",Naukri
+702,Software Engineer,Bangalore,Entry,Full-time,421221,523195,"Python, Java, React, SQL",Naukri
+703,QA Engineer,Pune,Mid,Internship,689193,987507,"Selenium, Python",LinkedIn
+704,Database Administrator,Gurgaon,Senior,Full-time,1626026,1725976,"Backup & Recovery, Linux, MySQL, SQL",LinkedIn
+705,Business Analyst,Remote,Entry,Internship,490502,718022,"Communication, Excel, Tableau",Naukri
+706,Data Engineer,Delhi,Entry,Full-time,461921,630141,"ETL, AWS, Python",Indeed
+707,Data Analyst,Pune,Mid,Contract,808433,1038487,"Python, Tableau, Power BI",Indeed
+708,QA Engineer,Hyderabad,Mid,Contract,630803,694464,"Manual Testing, Python, Automation, Selenium",LinkedIn
+709,Data Analyst,Kolkata,Mid,Internship,806934,1032901,"Excel, SQL, Power BI, Python",Glassdoor
+710,Web Developer,Kolkata,Entry,Internship,422705,507286,"JavaScript, React",Glassdoor
+711,Data Engineer,Hyderabad,Mid,Full-time,667041,847906,"ETL, AWS, SQL, Spark",Indeed
+712,QA Engineer,Kolkata,Mid,Internship,1068017,1161266,"Python, Manual Testing, SQL, Automation",Indeed
+713,Data Analyst,Pune,Entry,Full-time,348009,407410,"Power BI, Excel, Tableau, Python, SQL",LinkedIn
+714,Data Scientist,Bangalore,Mid,Internship,971735,1168759,"Statistics, Pandas, Python, Machine Learning, SQL",Glassdoor
+715,Machine Learning Engineer,Mumbai,Entry,Full-time,344117,590708,"AWS, TensorFlow, PyTorch, Python",Indeed
+716,Cloud Engineer,Pune,Senior,Full-time,1716229,1967622,"AWS, Docker, Python, Azure, Kubernetes",Glassdoor
+717,Business Analyst,Remote,Mid,Internship,680622,738191,"Communication, Tableau",LinkedIn
+718,Database Administrator,Delhi,Senior,Internship,1291953,1513964,"Backup & Recovery, MySQL, SQL, Oracle, Linux",LinkedIn
+719,Machine Learning Engineer,Hyderabad,Entry,Full-time,404558,521447,"TensorFlow, SQL, Python",Glassdoor
+720,Data Analyst,Pune,Entry,Internship,374694,594345,"SQL, Power BI, Excel",Glassdoor
+721,Business Analyst,Delhi,Senior,Internship,1401560,1669677,"Tableau, Excel, Communication, Power BI",Naukri
+722,Business Analyst,Delhi,Mid,Full-time,996618,1157383,"Tableau, Excel, Communication, Power BI",Glassdoor
+723,Data Scientist,Kolkata,Entry,Internship,477324,586104,"Statistics, Python, SQL",Indeed
+724,Database Administrator,Hyderabad,Mid,Internship,677912,761411,"MySQL, Linux, Oracle, SQL",Glassdoor
+725,Cloud Engineer,Bangalore,Entry,Contract,411388,569658,"Kubernetes, Docker",LinkedIn
+726,Machine Learning Engineer,Remote,Mid,Contract,608529,688396,"TensorFlow, AWS, SQL, Python, PyTorch",LinkedIn
+727,Business Analyst,Delhi,Senior,Contract,2154200,2402735,"Tableau, Power BI, Excel, SQL, Communication",Indeed
+728,Data Engineer,Remote,Entry,Contract,327873,491590,"Python, AWS",Indeed
+729,Data Scientist,Pune,Entry,Internship,481352,637544,"Machine Learning, Pandas, Statistics, SQL, Python",Glassdoor
+730,Data Scientist,Pune,Entry,Full-time,329337,593238,"SQL, Python",LinkedIn
+731,Software Engineer,Pune,Mid,Internship,1041497,1255614,"Java, SQL, Python",Naukri
+732,Data Engineer,Noida,Mid,Full-time,687087,973649,"AWS, Spark, SQL",LinkedIn
+733,Data Analyst,Remote,Mid,Full-time,754576,953848,"SQL, Power BI, Tableau, Python, Excel",Naukri
+734,Business Analyst,Remote,Mid,Full-time,855588,1010361,"Tableau, Communication, SQL, Power BI, Excel",Indeed
+735,Business Analyst,Chennai,Senior,Internship,2074800,2357882,"SQL, Communication, Power BI, Excel, Tableau",LinkedIn
+736,Business Analyst,Pune,Entry,Contract,350384,523392,"Communication, Excel, Power BI, SQL",Indeed
+737,QA Engineer,Chennai,Senior,Full-time,1815291,2054819,"Python, SQL, Manual Testing, Selenium, Automation",Glassdoor
+738,Web Developer,Hyderabad,Senior,Full-time,1563417,1665710,"Node.js, React, HTML",Glassdoor
+739,Business Analyst,Delhi,Mid,Full-time,891939,954272,"Power BI, Tableau",Naukri
+740,Machine Learning Engineer,Pune,Senior,Contract,1267045,1528546,"PyTorch, SQL",Naukri
+741,Data Scientist,Mumbai,Senior,Contract,1669962,1847459,"Machine Learning, Pandas, Python, SQL",LinkedIn
+742,Data Engineer,Kolkata,Senior,Contract,1305742,1598653,"AWS, Python, Spark, ETL, SQL",LinkedIn
+743,Cloud Engineer,Pune,Entry,Full-time,394801,485966,"Kubernetes, Python, Docker, AWS",LinkedIn
+744,Data Engineer,Chennai,Senior,Full-time,1457915,1730369,"AWS, Spark, Python",Indeed
+745,Software Engineer,Chennai,Mid,Contract,689790,762133,"SQL, Git, Python, Java",Indeed
+746,Data Engineer,Noida,Senior,Full-time,2099306,2257678,"AWS, ETL, Python, SQL, Spark",Naukri
+747,Data Analyst,Kolkata,Senior,Full-time,1909474,2041998,"Excel, Python, SQL, Tableau, Power BI",LinkedIn
+748,Data Engineer,Bangalore,Senior,Internship,2043061,2325263,"ETL, Spark, Python, SQL",Indeed
+749,Cloud Engineer,Pune,Senior,Internship,1630196,1912869,"Docker, Kubernetes, AWS, Azure, Python",Glassdoor
+750,Data Analyst,Chennai,Senior,Contract,1464252,1650690,"Excel, SQL, Power BI, Tableau",Glassdoor
+751,Cloud Engineer,Pune,Mid,Full-time,1066783,1325606,"Azure, Docker, Kubernetes, Python",LinkedIn
+752,Cloud Engineer,Bangalore,Entry,Internship,464361,647398,"AWS, Python, Docker, Kubernetes",Indeed
+753,Database Administrator,Remote,Mid,Internship,777723,889614,"Backup & Recovery, Oracle, MySQL",LinkedIn
+754,QA Engineer,Pune,Senior,Contract,1719324,1796908,"Automation, Manual Testing, Python, SQL",Glassdoor
+755,Data Scientist,Noida,Entry,Full-time,324182,390485,"SQL, Statistics, Python, Pandas, Machine Learning",Glassdoor
+756,Machine Learning Engineer,Kolkata,Senior,Contract,2372241,2558279,"PyTorch, SQL, AWS, TensorFlow, Python",Glassdoor
+757,Database Administrator,Noida,Senior,Full-time,2260709,2344033,"Linux, MySQL, Backup & Recovery, SQL, Oracle",Naukri
+758,Database Administrator,Bangalore,Mid,Contract,793636,1085253,"Oracle, Linux",Naukri
+759,Data Scientist,Chennai,Entry,Full-time,437042,527229,"Machine Learning, Pandas",Indeed
+760,Machine Learning Engineer,Delhi,Mid,Full-time,1014818,1102270,"AWS, SQL, Python",Glassdoor
+761,Web Developer,Mumbai,Mid,Contract,856268,906814,"Node.js, JavaScript",Naukri
+762,Data Scientist,Noida,Entry,Contract,381186,579497,"Machine Learning, Statistics, SQL, Python, Pandas",Glassdoor
+763,Cloud Engineer,Gurgaon,Senior,Contract,2141777,2230831,"AWS, Kubernetes, Azure, Python",Glassdoor
+764,Business Analyst,Kolkata,Mid,Contract,1066638,1232793,"SQL, Excel, Power BI, Tableau",LinkedIn
+765,QA Engineer,Delhi,Senior,Contract,2373047,2445369,"Automation, Selenium, SQL",LinkedIn
+766,Cloud Engineer,Gurgaon,Entry,Full-time,472557,767971,"AWS, Docker, Python",LinkedIn
+767,Software Engineer,Remote,Senior,Full-time,2318922,2528005,"Git, Java, Python, React",Glassdoor
+768,Machine Learning Engineer,Pune,Mid,Full-time,1050703,1239089,"SQL, PyTorch, Python, AWS",Glassdoor
+769,Data Scientist,Pune,Senior,Full-time,1583084,1700076,"SQL, Machine Learning",Indeed
+770,Business Analyst,Pune,Senior,Contract,1882184,1979752,"SQL, Power BI",LinkedIn
+771,Business Analyst,Chennai,Entry,Internship,384991,502606,"SQL, Tableau, Communication, Power BI, Excel",Naukri
+772,Database Administrator,Kolkata,Senior,Full-time,1764736,1830630,"Linux, Oracle, SQL, MySQL",Glassdoor
+773,Data Analyst,Mumbai,Mid,Internship,890495,1094156,"Excel, Tableau",LinkedIn
+774,Web Developer,Noida,Senior,Full-time,2249482,2352817,"JavaScript, CSS, HTML",Glassdoor
+775,Cloud Engineer,Kolkata,Mid,Full-time,600524,863553,"Python, Docker, Kubernetes, AWS, Azure",Glassdoor
+776,Data Analyst,Delhi,Mid,Contract,799309,941431,"Tableau, Power BI, SQL",Indeed
+777,Data Engineer,Kolkata,Senior,Internship,1388146,1541772,"SQL, ETL",LinkedIn
+778,Business Analyst,Remote,Entry,Contract,389819,606324,"Communication, Power BI, SQL, Excel",Indeed
+779,Machine Learning Engineer,Gurgaon,Entry,Full-time,481363,566418,"AWS, SQL",Indeed
+780,Data Analyst,Pune,Entry,Contract,482580,716945,"Python, SQL, Power BI, Tableau, Excel",Glassdoor
+781,Database Administrator,Hyderabad,Senior,Internship,1950708,2102092,"SQL, Oracle, MySQL",Indeed
+782,Machine Learning Engineer,Gurgaon,Entry,Full-time,494810,549995,"PyTorch, TensorFlow, Python, SQL",LinkedIn
+783,Software Engineer,Gurgaon,Entry,Full-time,373598,552792,"Java, Python, SQL",Indeed
+784,Business Analyst,Delhi,Entry,Full-time,444647,545442,"SQL, Excel, Power BI",Glassdoor
+785,Data Scientist,Delhi,Entry,Contract,491076,746138,"SQL, Python, Machine Learning, Pandas",Naukri
+786,Cloud Engineer,Bangalore,Mid,Contract,952898,1250119,"Docker, Kubernetes",Glassdoor
+787,Business Analyst,Hyderabad,Mid,Internship,789515,975110,"Excel, SQL",Glassdoor
+788,Web Developer,Kolkata,Mid,Internship,602704,755427,"JavaScript, HTML, Node.js",Glassdoor
+789,Data Analyst,Mumbai,Senior,Full-time,1724254,1825864,"Power BI, Tableau, SQL",Glassdoor
+790,Data Scientist,Gurgaon,Entry,Full-time,455328,714314,"Machine Learning, SQL, Python, Statistics",Glassdoor
+791,Software Engineer,Bangalore,Mid,Contract,1016342,1128402,"React, Git",Indeed
+792,Data Scientist,Gurgaon,Senior,Full-time,1327269,1617580,"Statistics, Machine Learning",LinkedIn
+793,Data Scientist,Bangalore,Entry,Full-time,379028,589129,"Python, Pandas, Machine Learning, Statistics, SQL",Glassdoor
+794,Web Developer,Noida,Mid,Contract,994245,1152014,"Node.js, HTML, CSS",LinkedIn
+795,Business Analyst,Noida,Mid,Internship,941270,1237052,"Communication, Power BI",LinkedIn
+796,QA Engineer,Hyderabad,Entry,Full-time,456021,693008,"Automation, Manual Testing",LinkedIn
+797,QA Engineer,Kolkata,Entry,Internship,410364,586559,"Manual Testing, Automation, Selenium, SQL, Python",Indeed
+798,Data Engineer,Remote,Mid,Contract,941681,1189435,"ETL, SQL, Python, AWS",Glassdoor
+799,Web Developer,Chennai,Senior,Internship,1216948,1402654,"HTML, CSS, JavaScript",Indeed
+800,Cloud Engineer,Noida,Entry,Full-time,352526,570443,"AWS, Docker, Python",Indeed
+801,Database Administrator,Gurgaon,Senior,Contract,2387191,2525182,"Linux, Backup & Recovery, SQL, Oracle",Indeed
+802,Database Administrator,Gurgaon,Entry,Full-time,467448,575912,"Linux, MySQL, SQL",Naukri
+803,Database Administrator,Chennai,Senior,Full-time,2039516,2137814,"Backup & Recovery, SQL",Glassdoor
+804,Data Scientist,Bangalore,Mid,Full-time,752345,917795,"Pandas, Machine Learning, Python",LinkedIn
+805,Data Analyst,Mumbai,Entry,Full-time,357395,639492,"Excel, Power BI, Python, SQL",Indeed
+806,Data Engineer,Bangalore,Entry,Internship,326526,382029,"AWS, Python, SQL",Naukri
+807,Software Engineer,Gurgaon,Mid,Internship,1024404,1172013,"React, Git, SQL",Naukri
+808,Data Scientist,Pune,Entry,Full-time,350248,539854,"Machine Learning, Pandas, Statistics, SQL, Python",Naukri
+809,Data Analyst,Remote,Senior,Contract,1816945,2073930,"Power BI, Excel, SQL",Naukri
+810,Web Developer,Kolkata,Entry,Full-time,490656,561996,"Node.js, HTML, React, CSS, JavaScript",Glassdoor
+811,Database Administrator,Gurgaon,Senior,Internship,1984080,2171830,"Linux, Oracle, MySQL, Backup & Recovery, SQL",Naukri
+812,Software Engineer,Mumbai,Entry,Full-time,403782,511085,"Git, React, SQL, Java",Glassdoor
+813,Machine Learning Engineer,Kolkata,Mid,Full-time,994066,1066093,"SQL, PyTorch, Python, AWS",LinkedIn
+814,Database Administrator,Remote,Senior,Internship,2146132,2318697,"Linux, Backup & Recovery, MySQL, Oracle, SQL",Indeed
+815,Business Analyst,Pune,Entry,Full-time,369631,588806,"Power BI, SQL",Glassdoor
+816,Web Developer,Kolkata,Senior,Internship,1677608,1753405,"HTML, JavaScript",LinkedIn
+817,Data Analyst,Mumbai,Senior,Full-time,1890469,2006011,"Power BI, Excel, Tableau, SQL",Indeed
+818,Cloud Engineer,Bangalore,Mid,Internship,1031126,1171993,"Kubernetes, AWS, Azure, Python, Docker",Indeed
+819,Software Engineer,Mumbai,Entry,Full-time,435220,639099,"Git, SQL, Java, Python, React",Glassdoor
+820,Business Analyst,Noida,Senior,Internship,2143659,2417253,"Power BI, Excel",Naukri
+821,QA Engineer,Delhi,Entry,Internship,472713,741419,"SQL, Manual Testing, Python, Automation",LinkedIn
+822,Business Analyst,Kolkata,Senior,Internship,1248737,1447524,"Excel, Tableau",Indeed
+823,Machine Learning Engineer,Remote,Senior,Internship,1628248,1926942,"Python, SQL, AWS, TensorFlow, PyTorch",Glassdoor
+824,Machine Learning Engineer,Gurgaon,Senior,Full-time,1559501,1636846,"Python, SQL, AWS",Indeed
+825,Data Engineer,Hyderabad,Entry,Internship,353973,465062,"Spark, Python, SQL, AWS",Glassdoor
+826,Machine Learning Engineer,Bangalore,Senior,Internship,2061638,2214163,"Python, TensorFlow, PyTorch",Naukri
+827,Business Analyst,Hyderabad,Mid,Full-time,668121,946304,"Power BI, Communication, Tableau",Glassdoor
+828,Database Administrator,Remote,Entry,Contract,353208,534928,"Backup & Recovery, MySQL, SQL, Oracle, Linux",Indeed
+829,Data Scientist,Remote,Mid,Contract,772433,1061063,"Statistics, Pandas, Machine Learning, Python, SQL",Naukri
+830,Web Developer,Gurgaon,Senior,Contract,1823795,1976316,"React, CSS, HTML",Indeed
+831,QA Engineer,Noida,Senior,Internship,1584710,1817823,"Python, Selenium",Glassdoor
+832,Software Engineer,Delhi,Entry,Contract,317496,550484,"Git, React, SQL",Indeed
+833,Data Scientist,Hyderabad,Mid,Contract,1001887,1256231,"Statistics, Pandas, Python, SQL",LinkedIn
+834,Software Engineer,Bangalore,Senior,Full-time,1353502,1570977,"Git, SQL, React, Python, Java",Glassdoor
+835,Business Analyst,Bangalore,Entry,Full-time,485886,776307,"Power BI, Communication, Excel",Indeed
+836,Database Administrator,Hyderabad,Entry,Contract,414746,501513,"Backup & Recovery, MySQL, SQL, Oracle, Linux",Naukri
+837,Data Engineer,Hyderabad,Mid,Full-time,640677,866678,"ETL, SQL",Glassdoor
+838,Database Administrator,Pune,Mid,Contract,618059,902071,"Linux, SQL, Backup & Recovery",Naukri
+839,Cloud Engineer,Hyderabad,Senior,Contract,1846602,2012990,"Python, AWS",Glassdoor
+840,Data Analyst,Mumbai,Mid,Internship,1076450,1188981,"SQL, Tableau, Excel",Naukri
+841,Data Analyst,Chennai,Entry,Contract,475361,541921,"SQL, Excel, Power BI",Naukri
+842,Data Engineer,Noida,Entry,Internship,384588,581927,"Spark, SQL, ETL",LinkedIn
+843,Business Analyst,Hyderabad,Mid,Full-time,655514,798988,"Excel, SQL, Tableau, Power BI",Naukri
+844,Data Analyst,Mumbai,Mid,Full-time,634611,857091,"Tableau, Power BI, SQL, Python",Glassdoor
+845,Software Engineer,Delhi,Mid,Full-time,973571,1164127,"SQL, Java, React",Glassdoor
+846,Machine Learning Engineer,Noida,Senior,Internship,1567695,1784249,"SQL, Python, TensorFlow, AWS",Naukri
+847,QA Engineer,Gurgaon,Senior,Contract,1687431,1869399,"Manual Testing, Selenium",Glassdoor
+848,QA Engineer,Delhi,Entry,Contract,412328,660835,"Automation, Selenium, Python",Naukri
+849,Data Engineer,Gurgaon,Mid,Full-time,679519,828019,"Python, SQL, ETL",Indeed
+850,QA Engineer,Chennai,Mid,Internship,766481,985197,"Automation, Python",Naukri
+851,Web Developer,Mumbai,Entry,Internship,363504,467457,"CSS, Node.js",Indeed
+852,QA Engineer,Kolkata,Mid,Full-time,831924,1047017,"Selenium, Python",Indeed
+853,Data Scientist,Bangalore,Entry,Full-time,332915,406969,"Pandas, SQL, Python",Naukri
+854,Cloud Engineer,Noida,Entry,Internship,343033,582215,"Azure, Kubernetes, AWS",Glassdoor
+855,QA Engineer,Delhi,Entry,Contract,417511,634130,"SQL, Python, Selenium",Indeed
+856,Machine Learning Engineer,Noida,Mid,Internship,831408,992215,"TensorFlow, SQL, Python, AWS, PyTorch",Naukri
+857,Data Scientist,Remote,Mid,Contract,980972,1077030,"Statistics, Pandas, SQL, Machine Learning",Naukri
+858,Web Developer,Kolkata,Mid,Full-time,774710,860533,"CSS, Node.js, HTML, JavaScript, React",Glassdoor
+859,Cloud Engineer,Chennai,Senior,Internship,2072038,2368528,"Docker, Kubernetes, Azure, Python, AWS",Glassdoor
+860,Business Analyst,Hyderabad,Entry,Contract,342562,443477,"Power BI, Tableau, Communication, Excel, SQL",Glassdoor
+861,Data Analyst,Noida,Senior,Contract,1717559,1831090,"SQL, Power BI, Python, Tableau, Excel",Glassdoor
+862,Web Developer,Gurgaon,Senior,Internship,1718866,1926715,"HTML, Node.js, React",Naukri
+863,Business Analyst,Remote,Mid,Contract,1077075,1176573,"Excel, Communication, Tableau, Power BI, SQL",LinkedIn
+864,QA Engineer,Noida,Mid,Full-time,933541,1133647,"Manual Testing, SQL, Python, Selenium",LinkedIn
+865,Business Analyst,Delhi,Senior,Full-time,2231218,2281631,"SQL, Communication",LinkedIn
+866,Cloud Engineer,Delhi,Mid,Full-time,692485,840697,"Azure, Python, Kubernetes",Glassdoor
+867,Data Engineer,Hyderabad,Senior,Contract,1645798,1744461,"Python, SQL, Spark",Glassdoor
+868,Web Developer,Gurgaon,Mid,Contract,687097,758018,"HTML, React, Node.js, CSS",LinkedIn
+869,Data Scientist,Bangalore,Mid,Internship,854381,1080752,"Python, Pandas",Naukri
+870,Web Developer,Remote,Entry,Full-time,355330,542256,"React, JavaScript",LinkedIn
+871,Database Administrator,Chennai,Mid,Internship,794398,1023143,"Backup & Recovery, MySQL, Linux, Oracle",Glassdoor
+872,Business Analyst,Bangalore,Senior,Internship,1410087,1460895,"Communication, Excel, SQL, Power BI, Tableau",Indeed
+873,Software Engineer,Gurgaon,Mid,Contract,816597,1039671,"Java, SQL, React",Glassdoor
+874,Machine Learning Engineer,Chennai,Entry,Full-time,459059,636077,"AWS, Python, TensorFlow, PyTorch, SQL",Glassdoor
+875,Data Scientist,Noida,Senior,Contract,1609106,1845737,"Pandas, Python, Statistics",Indeed
+876,Database Administrator,Delhi,Entry,Full-time,416991,497315,"Oracle, MySQL, SQL, Backup & Recovery, Linux",Glassdoor
+877,Data Scientist,Noida,Entry,Full-time,385590,672213,"Machine Learning, SQL, Pandas, Statistics, Python",LinkedIn
+878,Data Scientist,Pune,Senior,Full-time,1897934,2176507,"Pandas, Python, Machine Learning",Glassdoor
+879,Machine Learning Engineer,Noida,Mid,Full-time,717205,835124,"PyTorch, Python",Glassdoor
+880,Data Scientist,Chennai,Entry,Contract,330436,530602,"SQL, Machine Learning, Pandas, Python",Naukri
+881,Web Developer,Remote,Entry,Internship,411070,544862,"CSS, Node.js, HTML, React",Naukri
+882,Data Analyst,Gurgaon,Senior,Full-time,1822484,2091955,"Python, Tableau, SQL",Indeed
+883,QA Engineer,Pune,Mid,Contract,767845,898819,"SQL, Python",LinkedIn
+884,Software Engineer,Delhi,Mid,Full-time,1024783,1162114,"Python, React, SQL",Glassdoor
+885,Data Analyst,Gurgaon,Entry,Internship,472818,761991,"SQL, Python, Excel",Glassdoor
+886,Business Analyst,Gurgaon,Senior,Internship,2020118,2088946,"Power BI, Excel, Tableau, Communication",Indeed
+887,Data Scientist,Chennai,Entry,Contract,379711,549650,"Pandas, SQL, Statistics",LinkedIn
+888,Database Administrator,Pune,Mid,Full-time,1021715,1267898,"SQL, Backup & Recovery, Linux",Naukri
+889,QA Engineer,Pune,Entry,Internship,478112,748748,"Selenium, Automation, Manual Testing",Glassdoor
+890,Database Administrator,Bangalore,Entry,Contract,470419,609151,"MySQL, Linux, SQL, Backup & Recovery, Oracle",LinkedIn
+891,Software Engineer,Gurgaon,Mid,Contract,912557,1007773,"Java, Git, SQL, Python, React",Indeed
+892,Database Administrator,Bangalore,Mid,Full-time,643325,725320,"Oracle, MySQL, SQL, Linux, Backup & Recovery",LinkedIn
+893,Data Scientist,Pune,Senior,Internship,2109443,2237657,"Python, Machine Learning, Pandas",Glassdoor
+894,Cloud Engineer,Noida,Entry,Internship,445767,710059,"AWS, Python, Kubernetes, Docker, Azure",LinkedIn
+895,QA Engineer,Pune,Senior,Contract,2137915,2397764,"Selenium, Automation, Python, SQL",LinkedIn
+896,Data Engineer,Kolkata,Entry,Full-time,322180,404873,"ETL, SQL, AWS, Python",Indeed
+897,Software Engineer,Bangalore,Mid,Contract,880023,1046656,"React, Git, SQL",Indeed
+898,Machine Learning Engineer,Chennai,Senior,Contract,1407637,1631338,"TensorFlow, Python",Naukri
+899,Software Engineer,Delhi,Entry,Full-time,457848,652570,"React, SQL, Python",Naukri
+900,Data Engineer,Remote,Senior,Full-time,2353116,2469954,"AWS, SQL, Spark, ETL",Glassdoor
+901,Data Scientist,Noida,Mid,Contract,706830,775326,"SQL, Machine Learning, Statistics, Python",Naukri
+902,Business Analyst,Chennai,Entry,Internship,306792,515024,"SQL, Power BI, Tableau",Glassdoor
+903,Cloud Engineer,Kolkata,Entry,Full-time,386339,604157,"Docker, Python",Glassdoor
+904,Web Developer,Mumbai,Entry,Full-time,325676,474545,"React, HTML, Node.js",Indeed
+905,Data Engineer,Delhi,Senior,Full-time,2309309,2450771,"Spark, ETL, AWS, Python",Glassdoor
+906,Data Analyst,Chennai,Entry,Full-time,390485,651795,"Python, Excel, Tableau, SQL, Power BI",Glassdoor
+907,Data Engineer,Noida,Entry,Full-time,490164,707724,"SQL, AWS, ETL, Spark",Indeed
+908,Data Engineer,Chennai,Mid,Contract,750376,872681,"Spark, SQL, AWS, Python, ETL",Glassdoor
+909,Business Analyst,Hyderabad,Mid,Full-time,982705,1095629,"Excel, SQL",LinkedIn
+910,Data Scientist,Delhi,Senior,Full-time,2089158,2316638,"Statistics, Pandas, Machine Learning",Glassdoor
+911,Cloud Engineer,Hyderabad,Senior,Full-time,1598844,1887627,"Kubernetes, Docker",Glassdoor
+912,Software Engineer,Kolkata,Senior,Contract,2140891,2235070,"Python, Java, React",LinkedIn
+913,Data Engineer,Chennai,Senior,Internship,2239155,2388532,"ETL, Python, SQL",LinkedIn
+914,Software Engineer,Hyderabad,Senior,Internship,2213185,2340136,"Python, Java, SQL, React",Indeed
+915,Software Engineer,Kolkata,Mid,Internship,1067923,1279862,"Java, SQL, React, Python, Git",LinkedIn
+916,Web Developer,Hyderabad,Mid,Internship,1066719,1306100,"React, JavaScript, HTML",LinkedIn
+917,Data Scientist,Gurgaon,Mid,Full-time,877398,1062223,"Statistics, Python, SQL",Naukri
+918,Data Analyst,Delhi,Entry,Internship,403640,551762,"Power BI, Python, SQL, Excel",Naukri
+919,Data Scientist,Gurgaon,Mid,Full-time,785460,1031305,"Python, Machine Learning, Statistics, Pandas, SQL",Naukri
+920,Software Engineer,Bangalore,Mid,Internship,820754,1065769,"Java, Python, SQL, React",Naukri
+921,Database Administrator,Delhi,Senior,Internship,2225649,2419860,"MySQL, Backup & Recovery, Oracle, Linux, SQL",LinkedIn
+922,Data Scientist,Bangalore,Entry,Full-time,390209,571281,"SQL, Python",Naukri
+923,Machine Learning Engineer,Remote,Mid,Internship,851759,977640,"SQL, Python, TensorFlow, AWS",LinkedIn
+924,QA Engineer,Kolkata,Entry,Full-time,373698,624691,"SQL, Manual Testing",Naukri
+925,Business Analyst,Gurgaon,Entry,Contract,491484,673167,"Excel, Tableau, SQL",LinkedIn
+926,Data Scientist,Noida,Entry,Internship,350378,643935,"Statistics, Python, Machine Learning",LinkedIn
+927,Software Engineer,Bangalore,Entry,Internship,437618,567950,"Python, SQL, React",Glassdoor
+928,Database Administrator,Kolkata,Entry,Contract,313541,443308,"Backup & Recovery, Oracle",Glassdoor
+929,Web Developer,Noida,Mid,Internship,1069293,1131759,"HTML, Node.js, React",Naukri
+930,Machine Learning Engineer,Delhi,Entry,Internship,458996,535410,"TensorFlow, PyTorch, AWS, SQL, Python",Glassdoor
+931,Web Developer,Hyderabad,Entry,Contract,444642,696614,"JavaScript, Node.js, React",LinkedIn
+932,Machine Learning Engineer,Remote,Senior,Full-time,1778702,1883760,"Python, AWS, SQL, PyTorch, TensorFlow",Indeed
+933,QA Engineer,Mumbai,Senior,Contract,2134847,2427461,"Selenium, SQL",Naukri
+934,Web Developer,Gurgaon,Senior,Contract,1522274,1583758,"CSS, React, JavaScript",Naukri
+935,Web Developer,Chennai,Senior,Internship,1446266,1735039,"HTML, React, CSS, Node.js, JavaScript",Indeed
+936,QA Engineer,Pune,Mid,Full-time,896838,962774,"Python, Automation, SQL",Indeed
+937,Cloud Engineer,Hyderabad,Senior,Internship,2268034,2418736,"Kubernetes, Docker, AWS, Python, Azure",Naukri
+938,Data Engineer,Mumbai,Senior,Contract,2155128,2337200,"ETL, SQL, AWS, Spark",LinkedIn
+939,Cloud Engineer,Pune,Entry,Full-time,439871,552318,"AWS, Azure, Kubernetes, Python",Naukri
+940,Web Developer,Mumbai,Entry,Contract,330457,380823,"Node.js, JavaScript, CSS, HTML",Naukri
+941,Cloud Engineer,Pune,Mid,Contract,754610,889711,"AWS, Docker",Glassdoor
+942,Software Engineer,Delhi,Senior,Internship,1232796,1423669,"Git, SQL",Naukri
+943,QA Engineer,Mumbai,Senior,Full-time,1880028,2000490,"Automation, Python, Selenium",Glassdoor
+944,Database Administrator,Noida,Entry,Full-time,425568,500128,"MySQL, Linux, SQL, Backup & Recovery, Oracle",Indeed
+945,QA Engineer,Pune,Mid,Full-time,762613,855321,"Python, Manual Testing, Selenium",Indeed
+946,Data Engineer,Noida,Entry,Internship,469114,624628,"Spark, SQL",Naukri
+947,Data Analyst,Hyderabad,Senior,Internship,1243444,1322289,"SQL, Excel",Glassdoor
+948,Software Engineer,Delhi,Entry,Contract,457191,510729,"Java, SQL",Naukri
+949,Data Scientist,Pune,Entry,Contract,416477,680246,"Machine Learning, Pandas, SQL",Glassdoor
+950,Data Engineer,Bangalore,Entry,Contract,442504,524767,"Python, Spark",Indeed
+951,Cloud Engineer,Hyderabad,Mid,Full-time,600634,889753,"AWS, Azure, Kubernetes",Glassdoor
+952,Business Analyst,Chennai,Entry,Full-time,479415,630273,"Communication, Excel",Indeed
+953,Data Scientist,Hyderabad,Entry,Internship,319998,531399,"Python, Machine Learning, Pandas, Statistics",Indeed
+954,QA Engineer,Pune,Entry,Contract,387777,594961,"Python, Manual Testing, SQL",Glassdoor
+955,Web Developer,Delhi,Senior,Full-time,1768523,2058708,"JavaScript, Node.js, React, HTML, CSS",Indeed
+956,Data Engineer,Pune,Senior,Full-time,2019146,2186244,"Python, Spark, ETL, SQL, AWS",Indeed
+957,Data Engineer,Chennai,Entry,Full-time,400930,543364,"AWS, Spark, SQL, ETL",Naukri
+958,QA Engineer,Chennai,Senior,Contract,1715706,1866155,"Automation, Python, SQL, Manual Testing, Selenium",Naukri
+959,Business Analyst,Remote,Entry,Contract,451486,705065,"SQL, Excel, Communication",Glassdoor
+960,Data Analyst,Bangalore,Entry,Contract,424236,509256,"SQL, Power BI",Indeed
+961,Machine Learning Engineer,Delhi,Entry,Full-time,444572,738717,"TensorFlow, AWS, Python, PyTorch, SQL",Glassdoor
+962,Data Scientist,Pune,Senior,Contract,1255253,1487737,"Machine Learning, Python, Pandas, Statistics, SQL",Glassdoor
+963,Database Administrator,Pune,Senior,Full-time,1965972,2053007,"MySQL, SQL",LinkedIn
+964,Data Analyst,Noida,Senior,Full-time,2185168,2430087,"Tableau, Power BI, Excel",Naukri
+965,Business Analyst,Chennai,Senior,Contract,1227702,1352876,"Excel, SQL",Glassdoor
+966,Data Analyst,Pune,Senior,Full-time,2031291,2299573,"Python, Power BI, Tableau, Excel, SQL",Naukri
+967,Business Analyst,Delhi,Entry,Contract,398975,698293,"Excel, Communication, Power BI",LinkedIn
+968,Data Analyst,Noida,Entry,Contract,446615,655233,"Python, Tableau",Naukri
+969,Machine Learning Engineer,Noida,Senior,Full-time,1314654,1575244,"SQL, TensorFlow, AWS, Python",Glassdoor
+970,Data Scientist,Chennai,Entry,Full-time,362791,486769,"Pandas, Python, Statistics",Indeed
+971,Software Engineer,Bangalore,Senior,Full-time,2356980,2459861,"Python, SQL",Indeed
+972,Data Scientist,Remote,Senior,Contract,2214616,2276590,"Machine Learning, Python",LinkedIn
+973,Web Developer,Chennai,Entry,Internship,431128,532215,"React, JavaScript, HTML, Node.js",Indeed
+974,Machine Learning Engineer,Kolkata,Mid,Contract,1023359,1276536,"Python, SQL, TensorFlow",LinkedIn
+975,QA Engineer,Delhi,Entry,Full-time,478880,650280,"Selenium, Manual Testing",Naukri
+976,Software Engineer,Pune,Senior,Contract,2282761,2523790,"Git, Python, React, SQL",Naukri
+977,Machine Learning Engineer,Noida,Senior,Contract,2012927,2125608,"AWS, Python, SQL",LinkedIn
+978,QA Engineer,Gurgaon,Senior,Full-time,1499101,1749986,"Automation, Selenium, Manual Testing, Python",LinkedIn
+979,Database Administrator,Pune,Mid,Full-time,635736,759167,"Backup & Recovery, SQL, Linux, Oracle",Indeed
+980,Database Administrator,Gurgaon,Mid,Internship,940940,1233203,"SQL, Linux, Oracle",Indeed
+981,Machine Learning Engineer,Noida,Mid,Contract,1080845,1309256,"SQL, PyTorch, AWS",Glassdoor
+982,QA Engineer,Chennai,Mid,Contract,816632,999261,"SQL, Selenium, Automation, Python, Manual Testing",LinkedIn
+983,Cloud Engineer,Pune,Entry,Internship,398519,489991,"AWS, Azure, Kubernetes, Docker, Python",LinkedIn
+984,Machine Learning Engineer,Gurgaon,Mid,Full-time,644995,742252,"SQL, AWS",Glassdoor
+985,Software Engineer,Chennai,Mid,Internship,779528,987959,"Python, Git, Java, React, SQL",LinkedIn
+986,Data Analyst,Pune,Senior,Full-time,1647679,1781614,"Tableau, Python",Glassdoor
+987,Data Analyst,Noida,Mid,Full-time,628352,733793,"Python, Power BI",Glassdoor
+988,Web Developer,Pune,Senior,Full-time,1345246,1467048,"HTML, JavaScript, React, CSS, Node.js",LinkedIn
+989,Cloud Engineer,Delhi,Entry,Full-time,324232,608839,"Docker, Python, AWS, Kubernetes, Azure",Naukri
+990,Business Analyst,Gurgaon,Mid,Contract,829000,971980,"SQL, Excel, Tableau, Power BI, Communication",Naukri
+991,Machine Learning Engineer,Pune,Entry,Full-time,430926,707497,"Python, SQL, TensorFlow, AWS",Glassdoor
+992,Database Administrator,Gurgaon,Entry,Full-time,357310,602792,"Linux, MySQL, Backup & Recovery",LinkedIn
+993,Business Analyst,Chennai,Entry,Full-time,478160,679374,"Power BI, Tableau",Naukri
+994,Data Analyst,Delhi,Mid,Contract,861688,1081796,"Python, Tableau, Excel, Power BI, SQL",LinkedIn
+995,Cloud Engineer,Hyderabad,Mid,Internship,824596,972407,"Python, Azure, Docker",Naukri
+996,Business Analyst,Delhi,Mid,Contract,748503,982552,"SQL, Tableau",Glassdoor
+997,Data Scientist,Bangalore,Senior,Full-time,2241036,2487629,"Statistics, Python",Glassdoor
+998,Web Developer,Mumbai,Mid,Internship,889190,1039087,"CSS, React",Naukri
+999,Data Scientist,Gurgaon,Mid,Contract,969012,1224699,"Python, Machine Learning, Pandas, SQL, Statistics",Glassdoor
+1000,Web Developer,Noida,Mid,Full-time,1071957,1360261,"HTML, Node.js, React, JavaScript, CSS",Naukri
+1001,Cloud Engineer,Remote,Senior,Internship,1557377,1757372,"Azure, Kubernetes, AWS, Python, Docker",Indeed
+1002,QA Engineer,Pune,Mid,Contract,691077,846752,"Automation, Manual Testing, Python, Selenium",Glassdoor
+1003,Data Scientist,Pune,Senior,Contract,2022109,2293104,"Pandas, SQL, Statistics, Python",LinkedIn
+1004,Data Scientist,Bangalore,Entry,Full-time,464860,716719,"Python, Pandas, Machine Learning",Glassdoor
+1005,Business Analyst,Pune,Entry,Contract,465544,719384,"Excel, Tableau, Power BI, SQL",Glassdoor
+1006,Web Developer,Kolkata,Entry,Contract,399118,651071,"HTML, JavaScript, Node.js, React",Naukri
+1007,Data Analyst,Remote,Senior,Full-time,2162860,2455919,"SQL, Excel",LinkedIn
+1008,Web Developer,Pune,Mid,Full-time,859126,1130539,"CSS, React, HTML, Node.js",LinkedIn
+1009,Data Analyst,Hyderabad,Mid,Contract,640009,745136,"Python, Power BI, Tableau, Excel, SQL",Glassdoor
+1010,Data Engineer,Bangalore,Mid,Contract,897425,1112893,"Python, ETL",Naukri
+1011,Machine Learning Engineer,Remote,Mid,Full-time,873546,1117977,"Python, TensorFlow, PyTorch, AWS",LinkedIn
+1012,Cloud Engineer,Kolkata,Entry,Full-time,395653,475744,"AWS, Docker, Python",Naukri
+1013,Software Engineer,Pune,Entry,Internship,426241,528469,"SQL, React",Indeed
+1014,Database Administrator,Gurgaon,Senior,Contract,2038739,2330527,"Backup & Recovery, MySQL, SQL",Glassdoor
+1015,Web Developer,Hyderabad,Mid,Full-time,1016336,1120293,"React, Node.js, CSS, JavaScript, HTML",Indeed
+1016,QA Engineer,Remote,Entry,Internship,352355,551027,"SQL, Selenium, Manual Testing, Python",Glassdoor
+1017,Data Analyst,Delhi,Senior,Internship,2312535,2454876,"SQL, Tableau, Python, Excel, Power BI",Glassdoor
+1018,Data Engineer,Mumbai,Mid,Full-time,944433,1091861,"SQL, ETL, Python, AWS",LinkedIn
+1019,Machine Learning Engineer,Bangalore,Senior,Full-time,2175965,2374723,"TensorFlow, Python, AWS, PyTorch",Indeed
+1020,QA Engineer,Kolkata,Entry,Full-time,447051,569939,"Automation, Python",Naukri
+1021,Business Analyst,Chennai,Mid,Full-time,626036,886465,"Communication, SQL, Excel, Power BI, Tableau",Naukri
+1022,Data Scientist,Pune,Mid,Contract,800727,912703,"Machine Learning, Python",Indeed
+1023,QA Engineer,Gurgaon,Entry,Full-time,405594,465295,"SQL, Selenium",Indeed
+1024,Data Scientist,Hyderabad,Mid,Contract,757809,879813,"Machine Learning, Statistics, Python, SQL",Glassdoor
+1025,Database Administrator,Bangalore,Senior,Internship,2153327,2332652,"Backup & Recovery, SQL",Glassdoor
+1026,Data Analyst,Bangalore,Entry,Full-time,327560,462195,"Excel, Tableau, SQL, Power BI, Python",LinkedIn
+1027,Cloud Engineer,Bangalore,Entry,Full-time,329046,391629,"AWS, Docker, Azure, Kubernetes",Indeed
+1028,Web Developer,Pune,Senior,Contract,2166144,2247575,"JavaScript, CSS, Node.js",Naukri
+1029,Business Analyst,Gurgaon,Senior,Contract,2306434,2419485,"Communication, Power BI, Excel, Tableau, SQL",LinkedIn
+1030,Data Scientist,Delhi,Mid,Internship,892822,1161854,"SQL, Python, Statistics",LinkedIn
+1031,Database Administrator,Mumbai,Entry,Contract,356658,529380,"MySQL, Linux, SQL, Oracle, Backup & Recovery",LinkedIn
+1032,QA Engineer,Kolkata,Senior,Internship,2152153,2373933,"Automation, Selenium, Python",Indeed
+1033,Software Engineer,Noida,Mid,Contract,869203,972423,"Python, Java, React, SQL, Git",Glassdoor
+1034,Web Developer,Hyderabad,Senior,Internship,1424758,1670062,"CSS, HTML",Naukri
+1035,Database Administrator,Delhi,Entry,Internship,473509,662677,"Backup & Recovery, Oracle, SQL, Linux, MySQL",LinkedIn
+1036,Business Analyst,Pune,Entry,Contract,412944,596093,"SQL, Communication, Excel, Power BI",Glassdoor
+1037,Data Scientist,Noida,Entry,Full-time,377071,476734,"SQL, Machine Learning, Statistics, Pandas, Python",Glassdoor
+1038,Data Scientist,Bangalore,Senior,Full-time,1660492,1740687,"Python, Machine Learning",Naukri
+1039,Software Engineer,Kolkata,Entry,Internship,359366,640734,"Git, React, Java, SQL, Python",LinkedIn
+1040,Database Administrator,Pune,Entry,Internship,466959,592454,"SQL, Oracle, Linux, MySQL",Naukri
+1041,Web Developer,Mumbai,Senior,Internship,1345656,1439341,"JavaScript, React, HTML",Naukri
+1042,Data Analyst,Gurgaon,Senior,Internship,1243677,1340211,"SQL, Excel, Power BI, Tableau",Glassdoor
+1043,QA Engineer,Gurgaon,Mid,Internship,1057818,1172701,"Selenium, Automation, Python, Manual Testing, SQL",LinkedIn
+1044,Cloud Engineer,Pune,Senior,Full-time,1409699,1539548,"Kubernetes, Python, Docker, Azure",Naukri
+1045,Cloud Engineer,Gurgaon,Mid,Internship,840517,894071,"Docker, Python, Kubernetes, Azure",Indeed
+1046,Data Scientist,Kolkata,Mid,Full-time,815125,1089589,"SQL, Machine Learning, Pandas",LinkedIn
+1047,Data Analyst,Remote,Entry,Internship,354082,599212,"Excel, Python",Glassdoor
+1048,Data Scientist,Kolkata,Mid,Contract,691725,811274,"Machine Learning, Statistics, Pandas, SQL",Glassdoor
+1049,Web Developer,Mumbai,Mid,Contract,872670,1106652,"Node.js, HTML, CSS, JavaScript",LinkedIn
+1050,QA Engineer,Delhi,Mid,Full-time,861581,1154649,"Python, Manual Testing, SQL",LinkedIn
+1051,Web Developer,Kolkata,Senior,Internship,2220945,2346510,"JavaScript, HTML",Naukri
+1052,Database Administrator,Mumbai,Entry,Contract,332357,396301,"Backup & Recovery, SQL, MySQL, Oracle, Linux",Indeed
+1053,Data Analyst,Pune,Mid,Internship,1011704,1286888,"SQL, Power BI, Tableau",Indeed
+1054,Software Engineer,Remote,Mid,Internship,714744,773168,"SQL, Python, React, Git, Java",LinkedIn
+1055,Business Analyst,Delhi,Entry,Contract,381457,476887,"Power BI, Excel, Tableau, SQL, Communication",Indeed
+1056,Data Engineer,Kolkata,Mid,Internship,759905,832343,"Spark, AWS, ETL, Python",Naukri
+1057,Business Analyst,Hyderabad,Mid,Contract,831683,1063645,"Tableau, Power BI, Excel, Communication",Naukri
+1058,Business Analyst,Noida,Mid,Internship,614508,903729,"Communication, SQL",Glassdoor
+1059,Data Engineer,Delhi,Senior,Contract,2274175,2421983,"Spark, ETL, Python",Naukri
+1060,Business Analyst,Noida,Entry,Internship,435792,606436,"SQL, Tableau",LinkedIn
+1061,Web Developer,Hyderabad,Senior,Contract,1404260,1669726,"Node.js, React, JavaScript, CSS",Indeed
+1062,Data Analyst,Remote,Entry,Contract,353756,539091,"Tableau, Python, SQL",LinkedIn
+1063,Software Engineer,Pune,Senior,Contract,1851985,2090503,"Git, Python",Indeed
+1064,Data Scientist,Bangalore,Entry,Contract,331728,517996,"SQL, Pandas",Naukri
+1065,Data Scientist,Bangalore,Mid,Internship,629178,921934,"Machine Learning, Statistics",Glassdoor
+1066,Database Administrator,Mumbai,Entry,Contract,478604,643719,"Linux, MySQL",Indeed
+1067,Data Analyst,Pune,Entry,Full-time,434090,678512,"Python, Tableau, Excel",Naukri
+1068,Web Developer,Hyderabad,Senior,Internship,1777097,1929644,"HTML, React, CSS, JavaScript, Node.js",Glassdoor
+1069,Data Analyst,Gurgaon,Mid,Contract,804173,857061,"SQL, Python, Tableau, Excel",LinkedIn
+1070,Data Engineer,Gurgaon,Mid,Full-time,683002,826783,"ETL, AWS, Spark",Indeed
+1071,Data Scientist,Pune,Entry,Contract,488536,686161,"Statistics, SQL, Pandas, Machine Learning",Indeed
+1072,Business Analyst,Gurgaon,Entry,Internship,458817,681562,"Tableau, Power BI, SQL",Glassdoor
+1073,Machine Learning Engineer,Remote,Senior,Contract,2046775,2114488,"Python, TensorFlow",Indeed
+1074,Software Engineer,Hyderabad,Entry,Contract,424888,559733,"Python, Java, Git",Glassdoor
+1075,Business Analyst,Hyderabad,Mid,Contract,731325,811333,"SQL, Communication",LinkedIn
+1076,Machine Learning Engineer,Bangalore,Senior,Internship,1425781,1658947,"SQL, TensorFlow, PyTorch, Python, AWS",Naukri
+1077,Web Developer,Gurgaon,Mid,Full-time,705482,950033,"React, CSS, HTML",Indeed
+1078,QA Engineer,Hyderabad,Entry,Full-time,336847,621017,"SQL, Python",Naukri
+1079,QA Engineer,Hyderabad,Senior,Full-time,2307620,2487689,"Manual Testing, Python, SQL",Indeed
+1080,Machine Learning Engineer,Remote,Mid,Full-time,830098,992167,"Python, AWS, SQL, TensorFlow, PyTorch",Naukri
+1081,Data Scientist,Mumbai,Mid,Contract,883397,1020145,"SQL, Machine Learning",LinkedIn
+1082,Web Developer,Chennai,Mid,Full-time,751031,820633,"Node.js, JavaScript, CSS",LinkedIn
+1083,QA Engineer,Kolkata,Entry,Contract,423464,719073,"Selenium, Automation, Manual Testing, SQL",LinkedIn
+1084,Web Developer,Chennai,Entry,Full-time,353538,546953,"HTML, CSS, React, Node.js",LinkedIn
+1085,QA Engineer,Bangalore,Senior,Full-time,2072918,2279718,"Automation, Python",Indeed
+1086,Data Engineer,Bangalore,Mid,Full-time,860359,1043424,"ETL, AWS, SQL",LinkedIn
+1087,Web Developer,Bangalore,Entry,Full-time,351425,541458,"HTML, React, Node.js, CSS, JavaScript",LinkedIn
+1088,Data Engineer,Noida,Mid,Full-time,829613,910544,"ETL, SQL, AWS, Spark",Naukri
+1089,Data Analyst,Mumbai,Entry,Contract,302634,412173,"Tableau, SQL, Python, Power BI, Excel",LinkedIn
+1090,Data Scientist,Pune,Entry,Full-time,374080,435540,"Machine Learning, SQL, Statistics, Python",Glassdoor
+1091,QA Engineer,Gurgaon,Mid,Contract,640267,710289,"Automation, Manual Testing, Python, SQL",LinkedIn
+1092,Software Engineer,Delhi,Mid,Contract,753450,1031245,"React, SQL, Python",Indeed
+1093,Cloud Engineer,Hyderabad,Senior,Internship,2061581,2296524,"Docker, AWS, Kubernetes, Python, Azure",LinkedIn
+1094,Web Developer,Kolkata,Senior,Full-time,1980958,2220989,"HTML, CSS, JavaScript",Naukri
+1095,Database Administrator,Gurgaon,Senior,Full-time,2246284,2515521,"Backup & Recovery, Oracle",LinkedIn
+1096,QA Engineer,Delhi,Mid,Full-time,746324,1020345,"Python, Selenium, Manual Testing, SQL, Automation",LinkedIn
+1097,Data Analyst,Mumbai,Entry,Full-time,472995,636001,"Power BI, SQL",Glassdoor
+1098,Cloud Engineer,Bangalore,Mid,Internship,1024801,1272278,"AWS, Docker, Kubernetes",Indeed
+1099,QA Engineer,Noida,Mid,Full-time,890085,1041825,"Automation, Python, Manual Testing, SQL",LinkedIn
+1100,Data Engineer,Gurgaon,Mid,Full-time,1075902,1129882,"ETL, Python, AWS, SQL",Naukri
+1101,Machine Learning Engineer,Noida,Senior,Contract,1775185,1920001,"PyTorch, Python, SQL, TensorFlow",LinkedIn
+1102,QA Engineer,Chennai,Senior,Full-time,2130734,2302034,"Python, Selenium",Indeed
+1103,Database Administrator,Chennai,Entry,Contract,445911,553017,"SQL, Oracle, MySQL, Backup & Recovery, Linux",Glassdoor
+1104,Database Administrator,Delhi,Entry,Internship,429742,513092,"MySQL, Oracle, Backup & Recovery",Indeed
+1105,Data Analyst,Hyderabad,Entry,Full-time,479422,662255,"Tableau, Power BI, SQL, Python, Excel",LinkedIn
+1106,Web Developer,Bangalore,Mid,Contract,976606,1038332,"JavaScript, HTML, React",Indeed
+1107,Cloud Engineer,Hyderabad,Mid,Full-time,706976,842379,"Kubernetes, AWS, Docker, Azure",LinkedIn
+1108,Web Developer,Bangalore,Entry,Contract,394447,532261,"JavaScript, React, CSS, HTML, Node.js",Indeed
+1109,Machine Learning Engineer,Delhi,Entry,Contract,306693,384541,"PyTorch, AWS, Python",Naukri
+1110,Business Analyst,Bangalore,Senior,Internship,1364511,1434777,"Tableau, Communication, Power BI",Naukri
+1111,Data Scientist,Bangalore,Senior,Contract,2299847,2486249,"Machine Learning, Pandas, Python, SQL, Statistics",Glassdoor
+1112,Machine Learning Engineer,Chennai,Entry,Internship,382527,628660,"TensorFlow, SQL",Naukri
+1113,Business Analyst,Hyderabad,Mid,Contract,865102,935141,"Communication, Excel, Tableau, Power BI",Indeed
+1114,Software Engineer,Pune,Senior,Internship,1489700,1698440,"SQL, React, Python, Java",Naukri
+1115,Data Scientist,Noida,Mid,Contract,859103,1074943,"SQL, Statistics, Python",Naukri
+1116,Data Engineer,Noida,Entry,Contract,486484,780310,"Python, SQL, Spark, AWS, ETL",Indeed
+1117,Data Engineer,Pune,Entry,Internship,392895,476306,"Spark, SQL, ETL, AWS, Python",Glassdoor
+1118,Machine Learning Engineer,Remote,Mid,Contract,623717,693050,"SQL, AWS, PyTorch, TensorFlow",LinkedIn
+1119,Business Analyst,Gurgaon,Mid,Contract,696181,935896,"Excel, SQL",Naukri
+1120,QA Engineer,Chennai,Senior,Internship,1872004,2036976,"Automation, SQL, Selenium",Glassdoor
+1121,Software Engineer,Gurgaon,Mid,Full-time,895767,1081473,"SQL, React, Python, Git, Java",Indeed
+1122,Data Engineer,Mumbai,Entry,Contract,372943,573711,"Python, ETL, SQL, Spark",Glassdoor
+1123,Data Scientist,Delhi,Mid,Internship,717248,999336,"Machine Learning, Pandas, Statistics",Glassdoor
+1124,Data Scientist,Delhi,Entry,Full-time,354222,548968,"Python, Pandas, Machine Learning",Naukri
+1125,Cloud Engineer,Bangalore,Entry,Full-time,396872,500124,"Python, Kubernetes, Docker, Azure",Glassdoor
+1126,Cloud Engineer,Gurgaon,Entry,Full-time,487760,722918,"Kubernetes, Python",Indeed
+1127,Database Administrator,Hyderabad,Mid,Internship,983586,1208885,"Backup & Recovery, SQL",Naukri
+1128,Software Engineer,Hyderabad,Senior,Full-time,2263382,2401288,"Git, Java, SQL, Python",Indeed
+1129,Data Analyst,Hyderabad,Mid,Full-time,1041152,1237472,"SQL, Excel",Indeed
+1130,Data Engineer,Noida,Senior,Contract,1610367,1729910,"SQL, AWS, Python, Spark, ETL",Naukri
+1131,Data Engineer,Hyderabad,Entry,Full-time,413854,481486,"Spark, SQL, ETL, Python, AWS",Naukri
+1132,Business Analyst,Delhi,Senior,Contract,1692234,1909407,"Communication, Excel, Tableau, SQL",Glassdoor
+1133,Web Developer,Gurgaon,Senior,Contract,2022524,2229244,"Node.js, React, CSS, HTML",Glassdoor
+1134,Software Engineer,Delhi,Entry,Internship,385300,500153,"Java, Python, Git, SQL, React",Glassdoor
+1135,Machine Learning Engineer,Noida,Senior,Internship,2225873,2433436,"TensorFlow, Python, AWS, PyTorch, SQL",Naukri
+1136,Business Analyst,Kolkata,Entry,Internship,476944,610205,"Communication, Tableau, Excel, Power BI, SQL",Indeed
+1137,Data Analyst,Gurgaon,Mid,Internship,933586,1198157,"Power BI, Python",Naukri
+1138,Business Analyst,Remote,Entry,Contract,354054,608408,"Tableau, Power BI",Naukri
+1139,Data Engineer,Kolkata,Senior,Contract,1244287,1504634,"Python, ETL, SQL, Spark, AWS",LinkedIn
+1140,Cloud Engineer,Chennai,Entry,Full-time,440430,594114,"Docker, Azure, Kubernetes",Naukri
+1141,Machine Learning Engineer,Mumbai,Mid,Full-time,618913,890551,"AWS, Python",Naukri
+1142,Cloud Engineer,Gurgaon,Mid,Full-time,748420,877447,"Azure, Python",LinkedIn
+1143,Data Analyst,Hyderabad,Mid,Contract,810108,894499,"SQL, Tableau, Python, Excel",Glassdoor
+1144,Data Analyst,Kolkata,Entry,Full-time,492904,697095,"Excel, Power BI, Tableau, Python, SQL",Naukri
+1145,Web Developer,Gurgaon,Mid,Full-time,738553,960532,"React, JavaScript, CSS, HTML, Node.js",Naukri
+1146,Business Analyst,Delhi,Senior,Internship,2318209,2501009,"Communication, SQL, Excel",Glassdoor
+1147,Business Analyst,Kolkata,Mid,Internship,717472,918959,"Communication, Excel",LinkedIn
+1148,Database Administrator,Gurgaon,Mid,Contract,762849,899994,"SQL, Oracle, Backup & Recovery",LinkedIn
+1149,Data Engineer,Gurgaon,Entry,Full-time,337048,492743,"Spark, SQL, Python, AWS, ETL",Naukri
+1150,Business Analyst,Chennai,Mid,Full-time,768528,999144,"SQL, Power BI, Communication, Tableau, Excel",Naukri
+1151,Cloud Engineer,Chennai,Mid,Internship,841891,1077716,"Python, AWS, Kubernetes, Azure, Docker",Naukri
+1152,Business Analyst,Bangalore,Entry,Contract,496122,577966,"Excel, Communication, SQL",Naukri
+1153,Data Analyst,Gurgaon,Mid,Contract,1021083,1208600,"Excel, Python, Tableau, SQL, Power BI",Naukri
+1154,Data Scientist,Delhi,Mid,Contract,769023,980267,"Pandas, SQL, Python, Statistics",Indeed
+1155,Cloud Engineer,Mumbai,Senior,Contract,1726887,1900647,"Azure, Docker, Kubernetes, AWS, Python",Indeed
+1156,Cloud Engineer,Gurgaon,Senior,Internship,2073050,2170032,"Kubernetes, AWS, Python",LinkedIn
+1157,Web Developer,Mumbai,Senior,Contract,1396813,1587776,"JavaScript, HTML, React, CSS, Node.js",Naukri
+1158,Data Scientist,Kolkata,Mid,Internship,929683,983386,"Machine Learning, Pandas, SQL",Naukri
+1159,QA Engineer,Delhi,Senior,Contract,2045715,2340638,"Automation, Manual Testing, Selenium, SQL",Indeed
+1160,Data Scientist,Mumbai,Senior,Full-time,1751420,1949180,"SQL, Statistics",Indeed
+1161,Machine Learning Engineer,Remote,Senior,Contract,2192806,2297674,"Python, TensorFlow, AWS",Indeed
+1162,Data Scientist,Pune,Senior,Full-time,2197120,2476394,"Machine Learning, Python",Naukri
+1163,Data Analyst,Kolkata,Entry,Internship,474284,647934,"Power BI, SQL, Python, Excel",Glassdoor
+1164,Business Analyst,Gurgaon,Mid,Internship,1039693,1226528,"Tableau, SQL, Power BI, Communication",Indeed
+1165,Data Engineer,Delhi,Senior,Internship,2375424,2541199,"ETL, Python, Spark, SQL, AWS",Naukri
+1166,Data Engineer,Chennai,Entry,Contract,390699,631668,"SQL, Spark, AWS, ETL, Python",Glassdoor
+1167,Data Analyst,Gurgaon,Entry,Contract,351088,402559,"Power BI, SQL, Excel, Tableau",Indeed
+1168,Cloud Engineer,Remote,Entry,Full-time,469664,591740,"Kubernetes, AWS, Docker, Azure, Python",Indeed
+1169,Data Analyst,Bangalore,Senior,Contract,2153115,2331644,"Python, SQL, Tableau",Glassdoor
+1170,Machine Learning Engineer,Remote,Entry,Contract,492989,589364,"Python, SQL, AWS",Naukri
+1171,Data Analyst,Bangalore,Mid,Full-time,1049781,1242409,"Excel, SQL, Tableau, Power BI",Indeed
+1172,Data Engineer,Chennai,Senior,Contract,2045515,2204666,"Python, SQL",LinkedIn
+1173,Cloud Engineer,Delhi,Entry,Full-time,416234,477901,"Python, Azure, Docker, Kubernetes",LinkedIn
+1174,Data Engineer,Bangalore,Senior,Internship,2375578,2517507,"ETL, AWS",Indeed
+1175,QA Engineer,Hyderabad,Senior,Full-time,1443818,1734469,"Manual Testing, Selenium",Glassdoor
+1176,Data Engineer,Remote,Mid,Full-time,1013525,1066261,"ETL, AWS, Python",LinkedIn
+1177,Software Engineer,Mumbai,Mid,Internship,627963,777396,"Python, SQL, Java, React",Naukri
+1178,Business Analyst,Mumbai,Entry,Full-time,346428,473742,"Communication, Power BI, SQL, Excel",Indeed
+1179,Machine Learning Engineer,Chennai,Senior,Contract,2296900,2464779,"Python, SQL, AWS",Indeed
+1180,Cloud Engineer,Mumbai,Senior,Internship,1805424,1909804,"Python, Docker, AWS, Kubernetes",Glassdoor
+1181,Web Developer,Gurgaon,Entry,Full-time,330224,515760,"React, CSS, Node.js",Indeed
+1182,QA Engineer,Chennai,Mid,Contract,908486,1194749,"SQL, Selenium",Glassdoor
+1183,Machine Learning Engineer,Pune,Entry,Internship,387742,525998,"TensorFlow, PyTorch",Glassdoor
+1184,Web Developer,Gurgaon,Entry,Full-time,415083,677215,"Node.js, React, JavaScript, CSS, HTML",Naukri
+1185,Software Engineer,Chennai,Mid,Internship,955758,1110917,"Java, Python, SQL, React",Indeed
+1186,Business Analyst,Delhi,Mid,Contract,614971,707969,"Power BI, Excel, Tableau",Glassdoor
+1187,Data Engineer,Chennai,Entry,Full-time,381074,638918,"ETL, AWS, SQL",LinkedIn
+1188,Data Engineer,Bangalore,Mid,Full-time,1062922,1158028,"ETL, Python, AWS, Spark",Naukri
+1189,Software Engineer,Hyderabad,Mid,Full-time,958987,1154568,"Java, Git, React, Python",Naukri
+1190,Data Scientist,Kolkata,Mid,Contract,711406,1000699,"Statistics, Pandas, Machine Learning, Python, SQL",Glassdoor
+1191,Business Analyst,Chennai,Entry,Internship,385750,671160,"Communication, Tableau, Power BI, SQL",Naukri
+1192,Machine Learning Engineer,Remote,Mid,Full-time,1064303,1273823,"TensorFlow, PyTorch, AWS",LinkedIn
+1193,Machine Learning Engineer,Bangalore,Senior,Full-time,1682499,1768695,"TensorFlow, Python, SQL, AWS, PyTorch",Glassdoor
+1194,Data Scientist,Noida,Mid,Internship,679035,803736,"Statistics, Pandas, Python, SQL",Naukri
+1195,Business Analyst,Pune,Entry,Contract,435619,704308,"Communication, SQL",Glassdoor
+1196,Machine Learning Engineer,Hyderabad,Senior,Full-time,1537397,1671027,"AWS, SQL, PyTorch",Glassdoor
+1197,Database Administrator,Gurgaon,Entry,Internship,314289,443706,"Backup & Recovery, SQL, Oracle, MySQL, Linux",Glassdoor
+1198,Database Administrator,Chennai,Senior,Full-time,1575053,1736219,"SQL, MySQL, Oracle, Linux, Backup & Recovery",Indeed
+1199,Software Engineer,Remote,Senior,Internship,1301803,1473637,"Java, React, Python, SQL",Glassdoor
+1200,Machine Learning Engineer,Remote,Entry,Internship,411595,550058,"Python, PyTorch, AWS, TensorFlow",Indeed
+1201,Machine Learning Engineer,Bangalore,Mid,Internship,756071,972790,"AWS, Python",Glassdoor
+1202,Machine Learning Engineer,Bangalore,Senior,Full-time,1567491,1639523,"TensorFlow, AWS",Glassdoor
+1203,Database Administrator,Delhi,Mid,Internship,961230,1173036,"Oracle, Linux, SQL",Indeed
+1204,Data Scientist,Chennai,Mid,Full-time,919476,1159218,"Statistics, Python",LinkedIn
+1205,Machine Learning Engineer,Delhi,Senior,Internship,1246941,1345157,"Python, SQL, AWS, PyTorch",Glassdoor
+1206,QA Engineer,Delhi,Mid,Contract,1018882,1081682,"Automation, Python, Selenium, Manual Testing",Naukri
+1207,Web Developer,Pune,Senior,Contract,1295928,1504426,"CSS, JavaScript, Node.js, HTML, React",Indeed
+1208,Software Engineer,Noida,Entry,Internship,370006,541232,"Java, Python, React, SQL",Naukri
+1209,Machine Learning Engineer,Hyderabad,Entry,Contract,486655,696383,"AWS, SQL, PyTorch, TensorFlow, Python",Indeed
+1210,Database Administrator,Bangalore,Senior,Internship,1870339,2011136,"MySQL, Linux, Backup & Recovery, Oracle, SQL",Indeed
+1211,Cloud Engineer,Pune,Senior,Internship,2045022,2103480,"Kubernetes, Docker",Glassdoor
+1212,Data Scientist,Kolkata,Entry,Internship,376499,623331,"Statistics, Pandas, Python, Machine Learning",Indeed
+1213,QA Engineer,Pune,Senior,Contract,2104985,2263877,"SQL, Python",Indeed
+1214,Software Engineer,Kolkata,Mid,Internship,918306,1217033,"Java, Git",Naukri
+1215,Software Engineer,Hyderabad,Entry,Full-time,341711,592742,"React, Git, Python, Java, SQL",Indeed
+1216,QA Engineer,Chennai,Mid,Contract,655385,879510,"Automation, Python, Selenium, Manual Testing",Indeed
+1217,Database Administrator,Delhi,Mid,Full-time,1084395,1363336,"Linux, Backup & Recovery, SQL",Glassdoor
+1218,Cloud Engineer,Gurgaon,Mid,Contract,1075676,1151450,"Python, Kubernetes, Azure, Docker, AWS",Naukri
+1219,Data Analyst,Mumbai,Senior,Contract,2255625,2326729,"SQL, Power BI, Python, Tableau, Excel",Naukri
+1220,QA Engineer,Gurgaon,Senior,Internship,1247646,1492409,"Automation, Manual Testing, Selenium, Python, SQL",LinkedIn
+1221,Software Engineer,Gurgaon,Entry,Internship,334773,461576,"Java, Python",Naukri
+1222,QA Engineer,Gurgaon,Mid,Contract,916276,1082577,"Manual Testing, Python, SQL",Naukri
+1223,Data Scientist,Chennai,Senior,Full-time,2169329,2408609,"Python, Pandas",Naukri
+1224,Business Analyst,Gurgaon,Senior,Full-time,2074700,2192865,"Tableau, SQL",Glassdoor
+1225,Database Administrator,Bangalore,Mid,Internship,1034271,1299836,"Backup & Recovery, Linux",Indeed
+1226,Cloud Engineer,Gurgaon,Senior,Full-time,1417313,1505581,"Python, AWS, Docker, Kubernetes",Glassdoor
+1227,Machine Learning Engineer,Chennai,Mid,Full-time,1017098,1193606,"PyTorch, Python, TensorFlow",Naukri
+1228,Data Scientist,Gurgaon,Mid,Internship,779538,906947,"Machine Learning, Statistics, Pandas, SQL, Python",Naukri
+1229,QA Engineer,Pune,Entry,Contract,375610,432410,"SQL, Automation, Python",Naukri
+1230,Web Developer,Pune,Mid,Internship,973858,1139165,"CSS, Node.js, HTML, React",Indeed
+1231,Business Analyst,Mumbai,Mid,Full-time,905780,1035198,"Tableau, SQL, Excel",LinkedIn
+1232,Machine Learning Engineer,Kolkata,Senior,Internship,1557375,1697608,"AWS, PyTorch, SQL",Glassdoor
+1233,Machine Learning Engineer,Gurgaon,Mid,Contract,852734,948710,"SQL, Python, PyTorch, AWS, TensorFlow",Naukri
+1234,Software Engineer,Mumbai,Mid,Full-time,745917,955468,"Python, SQL",Naukri
+1235,Database Administrator,Remote,Mid,Contract,1043414,1308082,"MySQL, Backup & Recovery, Linux",LinkedIn
+1236,Data Analyst,Hyderabad,Mid,Contract,635230,756395,"SQL, Python",Indeed
+1237,QA Engineer,Mumbai,Senior,Internship,1583117,1813917,"Manual Testing, Python, Selenium",Naukri
+1238,Data Analyst,Delhi,Senior,Full-time,1598488,1840727,"Excel, Power BI",Indeed
+1239,Data Analyst,Mumbai,Entry,Contract,499669,702045,"Python, SQL, Power BI, Tableau, Excel",Naukri
+1240,Data Scientist,Gurgaon,Entry,Internship,321859,496648,"Python, SQL, Machine Learning",LinkedIn
+1241,Database Administrator,Remote,Mid,Contract,825315,1101057,"Linux, MySQL",LinkedIn
+1242,QA Engineer,Remote,Senior,Full-time,1727953,1975756,"Automation, SQL, Manual Testing, Selenium, Python",Glassdoor
+1243,Cloud Engineer,Kolkata,Mid,Contract,757096,876354,"Docker, Python, Kubernetes",Indeed
+1244,Cloud Engineer,Delhi,Senior,Full-time,1582059,1759875,"Docker, Kubernetes",Glassdoor
+1245,Database Administrator,Pune,Entry,Internship,476416,606275,"Linux, Backup & Recovery",LinkedIn
+1246,Cloud Engineer,Mumbai,Entry,Full-time,355893,486423,"Docker, Kubernetes, AWS, Azure",LinkedIn
+1247,QA Engineer,Remote,Entry,Internship,340996,441302,"Manual Testing, Automation, SQL, Selenium, Python",Naukri
+1248,Cloud Engineer,Remote,Mid,Contract,741234,851192,"Kubernetes, Docker, Azure, AWS",Glassdoor
+1249,Web Developer,Chennai,Mid,Internship,761489,922978,"React, HTML, CSS, Node.js, JavaScript",Indeed
+1250,Machine Learning Engineer,Pune,Senior,Internship,1240851,1505424,"TensorFlow, PyTorch, AWS",Glassdoor
+1251,Machine Learning Engineer,Chennai,Entry,Internship,385376,581670,"TensorFlow, SQL, AWS",Glassdoor
+1252,Data Scientist,Mumbai,Entry,Internship,489490,665235,"Python, Statistics, Machine Learning, SQL, Pandas",Naukri
+1253,Web Developer,Remote,Senior,Full-time,1412734,1477444,"JavaScript, Node.js, CSS, React",Glassdoor
+1254,Data Scientist,Pune,Mid,Internship,1006450,1248457,"SQL, Pandas, Machine Learning, Statistics, Python",LinkedIn
+1255,Cloud Engineer,Gurgaon,Entry,Internship,450138,643422,"Python, Docker, Kubernetes, AWS",Naukri
+1256,Data Engineer,Chennai,Entry,Internship,495893,777781,"SQL, ETL, Spark",Indeed
+1257,Software Engineer,Chennai,Mid,Full-time,955293,1189858,"SQL, Java, Git, React",Indeed
+1258,Business Analyst,Noida,Mid,Full-time,1036036,1224552,"Tableau, Power BI",Glassdoor
+1259,Data Analyst,Noida,Senior,Contract,1885915,2143044,"Power BI, Tableau, Python, SQL, Excel",LinkedIn
+1260,QA Engineer,Kolkata,Entry,Contract,341477,600822,"Automation, Python",LinkedIn
+1261,QA Engineer,Mumbai,Senior,Contract,2103760,2368129,"Python, Automation, SQL, Selenium",LinkedIn
+1262,Machine Learning Engineer,Pune,Entry,Internship,438337,693101,"Python, SQL, PyTorch, TensorFlow, AWS",Indeed
+1263,QA Engineer,Bangalore,Mid,Full-time,769022,930996,"SQL, Manual Testing, Automation",LinkedIn
+1264,Machine Learning Engineer,Gurgaon,Senior,Contract,1943745,2227903,"TensorFlow, AWS, Python",Naukri
+1265,Web Developer,Hyderabad,Entry,Contract,457790,755383,"CSS, JavaScript",LinkedIn
+1266,Data Scientist,Chennai,Mid,Contract,709475,812349,"SQL, Statistics, Pandas, Python",Naukri
+1267,Software Engineer,Bangalore,Mid,Internship,664545,933214,"Java, Git, SQL, React, Python",Naukri
+1268,Data Analyst,Gurgaon,Mid,Full-time,707810,959918,"Tableau, SQL, Python, Power BI, Excel",Glassdoor
+1269,Data Engineer,Hyderabad,Entry,Contract,458557,602506,"AWS, SQL, Python, ETL",Glassdoor
+1270,Cloud Engineer,Gurgaon,Mid,Contract,658716,956415,"AWS, Python, Azure, Docker, Kubernetes",Indeed
+1271,Data Scientist,Chennai,Mid,Full-time,827619,1125591,"SQL, Python, Machine Learning, Pandas",Indeed
+1272,Database Administrator,Delhi,Entry,Full-time,336893,609037,"MySQL, SQL, Linux",Indeed
+1273,Cloud Engineer,Pune,Entry,Full-time,316038,522329,"Docker, Python, Kubernetes",Glassdoor
+1274,Business Analyst,Noida,Entry,Full-time,435947,525630,"Power BI, SQL, Communication",Naukri
+1275,Data Analyst,Mumbai,Mid,Internship,927843,1075670,"Tableau, Power BI, SQL, Python",Indeed
+1276,Machine Learning Engineer,Gurgaon,Entry,Contract,337838,627326,"Python, SQL, PyTorch, AWS, TensorFlow",LinkedIn
+1277,Data Scientist,Chennai,Entry,Full-time,410069,477455,"Statistics, Pandas",Naukri
+1278,Business Analyst,Gurgaon,Senior,Contract,1201513,1333152,"Communication, Power BI, SQL, Excel, Tableau",Naukri
+1279,QA Engineer,Hyderabad,Senior,Internship,2397976,2499431,"Manual Testing, Automation, Selenium",Glassdoor
+1280,Software Engineer,Hyderabad,Senior,Contract,2046910,2170913,"Python, React",LinkedIn
+1281,Web Developer,Delhi,Entry,Contract,421149,646354,"CSS, JavaScript, Node.js, React",Indeed
+1282,Data Engineer,Bangalore,Senior,Contract,1300701,1558894,"SQL, Python, AWS",Glassdoor
+1283,Data Analyst,Pune,Entry,Internship,303070,503039,"Python, Power BI, SQL, Excel, Tableau",Glassdoor
+1284,Software Engineer,Remote,Mid,Contract,830614,911499,"React, SQL, Python, Java",Indeed
+1285,Web Developer,Gurgaon,Mid,Contract,650595,875710,"Node.js, JavaScript, HTML, CSS",Glassdoor
+1286,Business Analyst,Bangalore,Senior,Full-time,1676315,1846228,"SQL, Power BI",Naukri
+1287,Data Engineer,Delhi,Mid,Internship,890087,1186384,"Spark, SQL",Glassdoor
+1288,Business Analyst,Mumbai,Senior,Contract,1665268,1918668,"Excel, Power BI",Naukri
+1289,Cloud Engineer,Pune,Senior,Contract,1960545,2151960,"Python, Azure, Kubernetes",LinkedIn
+1290,Data Engineer,Pune,Entry,Contract,339859,531632,"SQL, ETL, Python, Spark, AWS",Naukri
+1291,Business Analyst,Noida,Senior,Internship,1875117,1960800,"SQL, Tableau, Excel, Power BI",Glassdoor
+1292,Software Engineer,Remote,Senior,Full-time,2060619,2147398,"Git, Python, Java",LinkedIn
+1293,Business Analyst,Noida,Entry,Contract,350691,465852,"SQL, Excel, Communication, Tableau",Glassdoor
+1294,Business Analyst,Remote,Entry,Full-time,416229,503560,"Power BI, SQL, Tableau, Communication",Naukri
+1295,Cloud Engineer,Kolkata,Mid,Contract,913758,1087256,"Kubernetes, Docker, AWS",LinkedIn
+1296,Cloud Engineer,Remote,Senior,Full-time,1347645,1628391,"Docker, AWS, Azure, Python",Glassdoor
+1297,Data Scientist,Gurgaon,Senior,Contract,1553277,1832978,"Machine Learning, SQL, Pandas, Python, Statistics",Glassdoor
+1298,QA Engineer,Chennai,Senior,Contract,2237108,2506446,"Python, Selenium, SQL, Automation, Manual Testing",Naukri
+1299,Web Developer,Kolkata,Mid,Internship,949688,1218918,"JavaScript, HTML, React, Node.js",Indeed
+1300,Database Administrator,Remote,Entry,Full-time,454949,618658,"SQL, Linux, Backup & Recovery, MySQL",Glassdoor
+1301,QA Engineer,Noida,Senior,Contract,1426068,1630822,"Automation, Selenium",LinkedIn
+1302,Data Scientist,Chennai,Entry,Internship,488295,733411,"Machine Learning, Statistics",Glassdoor
+1303,Database Administrator,Kolkata,Senior,Internship,2105544,2330936,"MySQL, Oracle",LinkedIn
+1304,Data Analyst,Chennai,Senior,Internship,2064328,2324540,"Python, Power BI",LinkedIn
+1305,Machine Learning Engineer,Chennai,Senior,Full-time,1780140,1947058,"PyTorch, SQL",Indeed
+1306,Web Developer,Mumbai,Entry,Contract,405203,652681,"CSS, React, HTML, Node.js",Indeed
+1307,Machine Learning Engineer,Kolkata,Senior,Internship,1841382,1917936,"SQL, PyTorch",Naukri
+1308,QA Engineer,Pune,Mid,Full-time,738768,1013156,"SQL, Automation, Manual Testing, Python, Selenium",Glassdoor
+1309,Data Engineer,Bangalore,Mid,Full-time,905055,1036457,"Spark, SQL, AWS, Python",LinkedIn
+1310,Software Engineer,Hyderabad,Entry,Internship,338211,575876,"React, SQL, Python, Java",Glassdoor
+1311,Business Analyst,Delhi,Entry,Internship,358936,524944,"Excel, Tableau",LinkedIn
+1312,Web Developer,Gurgaon,Entry,Contract,357403,471720,"React, CSS, HTML",Naukri
+1313,Data Analyst,Mumbai,Mid,Contract,853374,1123032,"Python, Excel, Tableau, SQL, Power BI",LinkedIn
+1314,QA Engineer,Delhi,Mid,Internship,826133,973186,"Manual Testing, SQL, Python, Automation",Indeed
+1315,Data Scientist,Pune,Senior,Contract,1717777,1976327,"Python, Statistics, Machine Learning",Indeed
+1316,Machine Learning Engineer,Remote,Entry,Contract,391315,629420,"SQL, PyTorch, AWS",Naukri
+1317,Data Analyst,Remote,Mid,Internship,909887,1074230,"Excel, SQL",Glassdoor
+1318,Cloud Engineer,Kolkata,Mid,Internship,849889,1127319,"AWS, Docker, Python",LinkedIn
+1319,Web Developer,Delhi,Senior,Contract,2229302,2392241,"React, CSS, JavaScript",LinkedIn
+1320,Database Administrator,Kolkata,Mid,Internship,721930,921314,"MySQL, Backup & Recovery, SQL, Linux, Oracle",Indeed
+1321,QA Engineer,Hyderabad,Entry,Contract,408451,649915,"Manual Testing, Automation, SQL",LinkedIn
+1322,Data Engineer,Bangalore,Entry,Contract,331326,468302,"Python, AWS",Glassdoor
+1323,QA Engineer,Noida,Senior,Internship,2194904,2281213,"Manual Testing, Selenium, Automation, SQL",Glassdoor
+1324,Data Engineer,Noida,Senior,Internship,1390284,1488666,"AWS, SQL, Python, Spark",Indeed
+1325,Data Scientist,Gurgaon,Mid,Contract,735144,790491,"Pandas, Python",LinkedIn
+1326,Machine Learning Engineer,Pune,Entry,Contract,303297,354518,"SQL, PyTorch, Python, TensorFlow",LinkedIn
+1327,Data Scientist,Mumbai,Entry,Full-time,440303,547548,"Python, SQL, Machine Learning, Statistics",Glassdoor
+1328,QA Engineer,Gurgaon,Entry,Contract,339020,602499,"Selenium, Automation, SQL, Python, Manual Testing",Naukri
+1329,Web Developer,Chennai,Entry,Contract,435918,529797,"React, CSS",Naukri
+1330,QA Engineer,Remote,Entry,Internship,472618,666267,"Python, Selenium, SQL, Automation, Manual Testing",Indeed
+1331,Software Engineer,Pune,Mid,Internship,698744,956900,"Java, SQL, React, Python, Git",Naukri
+1332,Cloud Engineer,Chennai,Entry,Contract,468610,571283,"Docker, Azure, Kubernetes, AWS",Glassdoor
+1333,Web Developer,Noida,Senior,Internship,1990766,2062363,"HTML, React, Node.js, CSS, JavaScript",Glassdoor
+1334,QA Engineer,Delhi,Mid,Internship,1004143,1233463,"Automation, Selenium",Glassdoor
+1335,Software Engineer,Delhi,Entry,Contract,382222,626013,"React, Java",Naukri
+1336,Data Analyst,Noida,Mid,Internship,881943,945688,"Tableau, Excel, Power BI, Python, SQL",Naukri
+1337,Software Engineer,Gurgaon,Entry,Full-time,486754,620721,"Python, Git",Naukri
+1338,Software Engineer,Remote,Senior,Full-time,2000039,2104048,"SQL, Java",LinkedIn
+1339,Software Engineer,Chennai,Senior,Internship,1678930,1826390,"Java, Python, React, SQL, Git",Naukri
+1340,Business Analyst,Remote,Senior,Full-time,1771714,1928984,"Communication, Tableau",Indeed
+1341,Business Analyst,Mumbai,Mid,Internship,914640,967374,"SQL, Communication, Tableau, Power BI, Excel",Glassdoor
+1342,Data Scientist,Pune,Entry,Full-time,348066,538821,"SQL, Machine Learning, Statistics, Pandas",Glassdoor
+1343,Web Developer,Delhi,Senior,Contract,1748403,1826843,"React, CSS",Indeed
+1344,Data Scientist,Gurgaon,Senior,Full-time,2286797,2346154,"Statistics, Python, Pandas, Machine Learning, SQL",Naukri
+1345,Business Analyst,Hyderabad,Entry,Full-time,414281,625583,"Communication, Excel, Tableau, SQL",LinkedIn
+1346,Cloud Engineer,Mumbai,Entry,Full-time,449107,502832,"Docker, Python, AWS",Indeed
+1347,Machine Learning Engineer,Mumbai,Mid,Internship,799247,889380,"AWS, Python, SQL, PyTorch",LinkedIn
+1348,Software Engineer,Gurgaon,Mid,Internship,636376,907474,"React, SQL, Git",LinkedIn
+1349,Data Engineer,Kolkata,Entry,Full-time,329193,558699,"AWS, Python",Indeed
+1350,QA Engineer,Pune,Senior,Internship,1280593,1368207,"Manual Testing, Selenium",Indeed
+1351,Business Analyst,Remote,Entry,Internship,448623,529986,"SQL, Tableau, Communication",LinkedIn
+1352,Database Administrator,Noida,Senior,Contract,2011109,2178987,"Linux, Backup & Recovery, MySQL",Indeed
+1353,Database Administrator,Pune,Mid,Contract,1061082,1205489,"MySQL, Backup & Recovery, Linux",Glassdoor
+1354,Data Engineer,Delhi,Mid,Internship,987976,1043464,"ETL, SQL, Python, AWS, Spark",Naukri
+1355,Cloud Engineer,Noida,Entry,Contract,392521,497073,"Kubernetes, Python, Azure, Docker, AWS",Naukri
+1356,Business Analyst,Chennai,Mid,Internship,948847,1103411,"Tableau, Excel, SQL",Indeed
+1357,Software Engineer,Mumbai,Senior,Contract,1962136,2248158,"React, Git, Python, SQL, Java",Naukri
+1358,Business Analyst,Gurgaon,Entry,Contract,470980,639552,"Tableau, Communication, SQL, Power BI",LinkedIn
+1359,Software Engineer,Kolkata,Mid,Contract,801478,1097138,"Python, Git, Java, SQL, React",Naukri
+1360,QA Engineer,Pune,Senior,Contract,2381459,2633110,"Python, Manual Testing, Selenium",Indeed
+1361,Business Analyst,Gurgaon,Mid,Contract,668448,918364,"Power BI, SQL, Tableau, Communication, Excel",Naukri
+1362,Data Scientist,Bangalore,Entry,Internship,323579,455707,"SQL, Pandas, Python, Statistics",LinkedIn
+1363,Data Scientist,Remote,Mid,Contract,1074226,1341347,"Statistics, Machine Learning, Pandas, Python, SQL",Indeed
+1364,Web Developer,Kolkata,Entry,Full-time,342796,501634,"Node.js, React",Naukri
+1365,Data Engineer,Kolkata,Senior,Contract,1789791,2020660,"Python, SQL, AWS",Glassdoor
+1366,Data Scientist,Pune,Entry,Internship,399449,574460,"Python, Machine Learning, SQL",Glassdoor
+1367,QA Engineer,Pune,Senior,Full-time,2231310,2529456,"SQL, Selenium, Manual Testing, Python",Glassdoor
+1368,Data Engineer,Remote,Entry,Contract,403184,693508,"Python, SQL, ETL",Indeed
+1369,Machine Learning Engineer,Hyderabad,Mid,Contract,1019072,1198767,"AWS, SQL",Indeed
+1370,Data Engineer,Delhi,Mid,Contract,746929,933357,"AWS, ETL",Naukri
+1371,Data Engineer,Mumbai,Entry,Internship,417684,581179,"Python, ETL, AWS, SQL",Indeed
+1372,Data Scientist,Kolkata,Mid,Full-time,1057200,1350088,"Pandas, Python",LinkedIn
+1373,Web Developer,Mumbai,Mid,Internship,803631,863063,"React, JavaScript, CSS, Node.js",Glassdoor
+1374,Business Analyst,Chennai,Senior,Internship,1748589,1943392,"Communication, Power BI, Excel",Naukri
+1375,Data Scientist,Hyderabad,Mid,Contract,1069667,1149426,"SQL, Python",Indeed
+1376,Software Engineer,Pune,Entry,Full-time,340371,540293,"Java, React, Git",Indeed
+1377,Data Analyst,Chennai,Senior,Full-time,2166290,2381703,"SQL, Tableau, Python, Power BI",LinkedIn
+1378,Software Engineer,Hyderabad,Senior,Full-time,1392069,1443075,"Python, React, Java, SQL, Git",Naukri
+1379,Machine Learning Engineer,Kolkata,Senior,Internship,1613767,1849427,"AWS, TensorFlow, SQL, PyTorch, Python",Naukri
+1380,Database Administrator,Kolkata,Entry,Full-time,346098,447929,"MySQL, Oracle, Backup & Recovery, SQL",LinkedIn
+1381,Data Scientist,Pune,Entry,Full-time,342578,496037,"Pandas, Statistics, Machine Learning, SQL",Indeed
+1382,Software Engineer,Delhi,Mid,Contract,726233,915313,"SQL, React",Indeed
+1383,Data Engineer,Bangalore,Entry,Internship,390236,676871,"Spark, AWS",LinkedIn
+1384,Data Scientist,Gurgaon,Senior,Contract,1385035,1518501,"Pandas, Python, Machine Learning, SQL",LinkedIn
+1385,Machine Learning Engineer,Chennai,Mid,Internship,861984,990691,"PyTorch, TensorFlow, Python, AWS, SQL",Glassdoor
+1386,Machine Learning Engineer,Gurgaon,Mid,Internship,1084151,1342883,"SQL, AWS, TensorFlow, Python, PyTorch",Glassdoor
+1387,Business Analyst,Bangalore,Mid,Internship,799993,1078123,"Communication, Power BI, SQL",Naukri
+1388,Business Analyst,Pune,Senior,Contract,1585686,1692569,"SQL, Communication",Naukri
+1389,Database Administrator,Delhi,Entry,Full-time,305683,486053,"MySQL, Backup & Recovery, Linux, Oracle, SQL",Indeed
+1390,Software Engineer,Remote,Mid,Internship,828121,1126458,"Git, Java, Python",Glassdoor
+1391,Data Scientist,Chennai,Entry,Contract,375843,462930,"Pandas, Statistics, Python",Glassdoor
+1392,Business Analyst,Bangalore,Mid,Contract,683153,821909,"Tableau, Communication, Power BI, SQL",Indeed
+1393,QA Engineer,Kolkata,Entry,Internship,489990,637862,"SQL, Python, Selenium",Indeed
+1394,Data Analyst,Chennai,Mid,Full-time,709815,1007430,"Excel, Power BI, Python, Tableau",Glassdoor
+1395,Web Developer,Chennai,Senior,Contract,1607639,1894055,"JavaScript, CSS, Node.js",Indeed
+1396,QA Engineer,Mumbai,Senior,Internship,2381321,2554463,"SQL, Selenium",Naukri
+1397,Business Analyst,Remote,Entry,Full-time,438735,617432,"Tableau, Power BI, SQL, Excel, Communication",Indeed
+1398,Software Engineer,Pune,Mid,Full-time,848379,963019,"Java, SQL, Python",Indeed
+1399,QA Engineer,Kolkata,Mid,Internship,767790,944850,"Automation, Manual Testing, SQL, Selenium",Naukri
+1400,QA Engineer,Hyderabad,Senior,Contract,1327009,1569814,"Automation, SQL, Selenium",Indeed
+1401,Business Analyst,Bangalore,Mid,Internship,707080,794844,"SQL, Tableau, Power BI, Excel",Indeed
+1402,Data Scientist,Gurgaon,Mid,Internship,928146,1078290,"Pandas, Statistics, SQL",Naukri
+1403,Data Scientist,Gurgaon,Mid,Full-time,970302,1179303,"Machine Learning, SQL, Pandas, Python, Statistics",Indeed
+1404,Data Analyst,Bangalore,Entry,Contract,425069,571753,"Power BI, Python, Tableau",Indeed
+1405,Data Analyst,Noida,Senior,Internship,1573289,1708907,"Power BI, Tableau",Indeed
+1406,QA Engineer,Bangalore,Senior,Contract,1476544,1656744,"Selenium, Manual Testing",LinkedIn
+1407,Data Engineer,Kolkata,Entry,Contract,361607,435687,"ETL, Spark, Python, SQL",Naukri
+1408,Machine Learning Engineer,Gurgaon,Entry,Contract,316292,503833,"SQL, TensorFlow, PyTorch, Python, AWS",Glassdoor
+1409,Database Administrator,Hyderabad,Entry,Full-time,362721,427535,"SQL, MySQL",Indeed
+1410,Database Administrator,Bangalore,Entry,Full-time,340011,618202,"Oracle, Backup & Recovery, MySQL",Naukri
+1411,Business Analyst,Noida,Senior,Contract,1807417,1986451,"Communication, SQL",LinkedIn
+1412,Data Analyst,Remote,Entry,Full-time,360163,562924,"SQL, Power BI, Python, Tableau, Excel",LinkedIn
+1413,Cloud Engineer,Noida,Entry,Full-time,440569,492495,"Docker, Python, Kubernetes, Azure",Naukri
+1414,Data Engineer,Remote,Entry,Internship,351320,487056,"AWS, Python, ETL, SQL",Indeed
+1415,Database Administrator,Gurgaon,Entry,Full-time,348452,427993,"Linux, SQL",Glassdoor
+1416,Software Engineer,Remote,Entry,Contract,476739,582927,"SQL, Git, Java, React",Indeed
+1417,QA Engineer,Mumbai,Mid,Internship,606480,713214,"SQL, Manual Testing, Python",LinkedIn
+1418,Business Analyst,Chennai,Senior,Internship,1546569,1837956,"Communication, Power BI, Tableau, SQL, Excel",Glassdoor
+1419,QA Engineer,Bangalore,Entry,Contract,313114,587814,"SQL, Selenium",LinkedIn
+1420,Web Developer,Noida,Mid,Full-time,628069,774551,"CSS, React, JavaScript",Naukri
+1421,Machine Learning Engineer,Delhi,Entry,Contract,305870,433849,"Python, PyTorch",Glassdoor
+1422,Data Engineer,Gurgaon,Mid,Full-time,1082033,1298942,"AWS, SQL",Naukri
+1423,Data Analyst,Hyderabad,Entry,Internship,451985,684153,"Power BI, SQL, Tableau, Excel",Naukri
+1424,Data Scientist,Pune,Senior,Full-time,2033699,2261437,"Python, Pandas, SQL, Machine Learning, Statistics",Naukri
+1425,Business Analyst,Bangalore,Entry,Contract,316517,568245,"Power BI, Communication, SQL, Excel",LinkedIn
+1426,Data Analyst,Delhi,Senior,Full-time,2139501,2401930,"SQL, Python",Naukri
+1427,Cloud Engineer,Gurgaon,Senior,Contract,1299183,1424291,"AWS, Docker, Azure, Kubernetes",Naukri
+1428,Cloud Engineer,Chennai,Entry,Contract,444447,636205,"Docker, Python, Azure",Indeed
+1429,Data Engineer,Noida,Senior,Internship,1928628,2179774,"SQL, AWS, ETL, Spark",Indeed
+1430,Machine Learning Engineer,Hyderabad,Mid,Full-time,774485,1066894,"SQL, AWS, PyTorch, Python",Indeed
+1431,Data Analyst,Kolkata,Mid,Contract,779122,970735,"Tableau, Excel, SQL",Naukri
+1432,Business Analyst,Noida,Entry,Contract,442605,503609,"Tableau, SQL",LinkedIn
+1433,Web Developer,Pune,Senior,Contract,1902335,2080570,"JavaScript, Node.js",Naukri
+1434,Cloud Engineer,Kolkata,Mid,Full-time,902524,1044571,"AWS, Azure, Docker, Kubernetes, Python",Glassdoor
+1435,Software Engineer,Bangalore,Senior,Internship,1502735,1792817,"SQL, Python",LinkedIn
+1436,Business Analyst,Mumbai,Mid,Full-time,612323,666574,"Power BI, SQL",LinkedIn
+1437,Software Engineer,Hyderabad,Entry,Internship,418646,717948,"Git, SQL",LinkedIn
+1438,Business Analyst,Remote,Entry,Internship,401645,549926,"Power BI, Communication, Tableau",Indeed
+1439,QA Engineer,Remote,Mid,Contract,857600,915862,"SQL, Automation, Selenium, Manual Testing, Python",LinkedIn
+1440,Business Analyst,Hyderabad,Senior,Contract,1936215,2235021,"SQL, Communication, Tableau, Excel, Power BI",Glassdoor
+1441,Database Administrator,Kolkata,Mid,Full-time,728654,968519,"Linux, Oracle",LinkedIn
+1442,Machine Learning Engineer,Remote,Entry,Full-time,384639,515854,"TensorFlow, SQL, Python, PyTorch, AWS",Glassdoor
+1443,QA Engineer,Bangalore,Senior,Full-time,2252922,2350431,"SQL, Python, Automation, Selenium, Manual Testing",Glassdoor
+1444,QA Engineer,Kolkata,Entry,Full-time,418417,545327,"Selenium, SQL, Python",Glassdoor
+1445,Machine Learning Engineer,Hyderabad,Mid,Full-time,704397,880788,"TensorFlow, Python, AWS, SQL, PyTorch",Naukri
+1446,Data Analyst,Pune,Mid,Internship,1053805,1282858,"Excel, Python, Power BI, SQL, Tableau",Naukri
+1447,Data Engineer,Pune,Entry,Internship,430061,576182,"Python, ETL, AWS, Spark, SQL",LinkedIn
+1448,Database Administrator,Delhi,Entry,Contract,484037,644728,"SQL, Oracle",Glassdoor
+1449,Web Developer,Chennai,Senior,Internship,2263494,2554476,"CSS, HTML, React",Glassdoor
+1450,Data Engineer,Remote,Entry,Contract,351515,518457,"Spark, ETL, SQL, Python",Naukri
+1451,Data Engineer,Noida,Senior,Contract,1283373,1394255,"SQL, ETL, Python",LinkedIn
+1452,Business Analyst,Chennai,Entry,Contract,303189,382746,"Tableau, SQL, Excel, Communication",LinkedIn
+1453,Machine Learning Engineer,Gurgaon,Entry,Full-time,474073,648528,"SQL, TensorFlow, Python, PyTorch, AWS",Naukri
+1454,Cloud Engineer,Kolkata,Senior,Full-time,1466245,1741124,"AWS, Kubernetes, Docker",LinkedIn
+1455,Data Scientist,Pune,Senior,Contract,2067190,2337330,"SQL, Machine Learning, Pandas, Python",Naukri
+1456,Business Analyst,Chennai,Entry,Full-time,350490,576560,"Communication, Tableau, Power BI, SQL",Glassdoor
+1457,Data Engineer,Remote,Mid,Contract,1057111,1305142,"SQL, ETL, Spark",Glassdoor
+1458,Data Scientist,Remote,Mid,Internship,634778,832020,"SQL, Python",LinkedIn
+1459,Machine Learning Engineer,Noida,Mid,Internship,940874,1202374,"PyTorch, AWS, TensorFlow, SQL",Indeed
+1460,Cloud Engineer,Noida,Mid,Internship,776724,850575,"Docker, AWS, Azure, Python, Kubernetes",Naukri
+1461,Web Developer,Kolkata,Senior,Internship,1879821,2167642,"Node.js, CSS, React",Naukri
+1462,Web Developer,Chennai,Entry,Internship,369182,575881,"CSS, Node.js, JavaScript, React, HTML",Glassdoor
+1463,Machine Learning Engineer,Kolkata,Senior,Full-time,2170332,2372834,"Python, PyTorch, SQL",Indeed
+1464,Software Engineer,Remote,Entry,Full-time,469732,731957,"SQL, Python, Git, React, Java",Indeed
+1465,QA Engineer,Kolkata,Mid,Full-time,733549,942404,"SQL, Selenium",Indeed
+1466,Business Analyst,Noida,Senior,Full-time,1596210,1859068,"Communication, Tableau, Power BI, Excel",LinkedIn
+1467,Cloud Engineer,Noida,Senior,Internship,1306940,1469060,"Python, AWS, Azure, Docker, Kubernetes",Naukri
+1468,Machine Learning Engineer,Pune,Entry,Full-time,394721,643983,"Python, AWS",Naukri
+1469,Web Developer,Kolkata,Entry,Full-time,325137,617816,"CSS, HTML, JavaScript, React, Node.js",Indeed
+1470,Data Scientist,Remote,Mid,Internship,825340,938432,"SQL, Machine Learning, Statistics",Indeed
+1471,Machine Learning Engineer,Pune,Entry,Contract,453123,586148,"TensorFlow, SQL, Python",LinkedIn
+1472,Cloud Engineer,Bangalore,Senior,Full-time,2397977,2642083,"Kubernetes, AWS, Python, Docker",Naukri
+1473,Business Analyst,Mumbai,Entry,Contract,343422,627224,"Excel, Power BI, SQL",Glassdoor
+1474,Data Analyst,Delhi,Entry,Contract,457212,729926,"Python, Excel, SQL, Power BI, Tableau",Glassdoor
+1475,Business Analyst,Gurgaon,Senior,Full-time,2006303,2279279,"SQL, Power BI, Tableau, Excel, Communication",Glassdoor
+1476,Cloud Engineer,Chennai,Mid,Internship,866107,1077492,"Kubernetes, Azure, Python, AWS, Docker",LinkedIn
+1477,QA Engineer,Noida,Senior,Internship,1634385,1741513,"SQL, Python, Manual Testing, Selenium",Naukri
+1478,Web Developer,Noida,Entry,Full-time,479959,775133,"HTML, React, JavaScript",Glassdoor
+1479,Data Analyst,Remote,Mid,Internship,799738,855110,"Python, Tableau, Excel, SQL, Power BI",Indeed
+1480,Web Developer,Mumbai,Mid,Internship,1077940,1196060,"CSS, Node.js, HTML, JavaScript, React",Indeed
+1481,Business Analyst,Bangalore,Mid,Full-time,970726,1260810,"SQL, Tableau, Excel",Naukri
+1482,Data Scientist,Delhi,Senior,Full-time,1814786,1901914,"Machine Learning, SQL, Python, Statistics, Pandas",Glassdoor
+1483,Data Engineer,Hyderabad,Senior,Full-time,1309359,1509465,"ETL, AWS, SQL",Naukri
+1484,Data Engineer,Bangalore,Entry,Contract,486785,556982,"Python, ETL",Naukri
+1485,Data Engineer,Hyderabad,Senior,Contract,1973703,2213287,"SQL, Spark, Python",Glassdoor
+1486,Data Analyst,Pune,Mid,Contract,1026406,1081837,"Python, Excel",Indeed
+1487,Data Engineer,Gurgaon,Entry,Full-time,363419,639305,"Spark, ETL, SQL, Python",Naukri
+1488,Database Administrator,Hyderabad,Entry,Full-time,467807,676669,"SQL, Linux",Naukri
+1489,Data Engineer,Delhi,Entry,Contract,428439,656048,"Spark, AWS, ETL, SQL, Python",Glassdoor
+1490,QA Engineer,Noida,Senior,Contract,2054963,2148713,"Manual Testing, Selenium, Python, SQL, Automation",Indeed
+1491,Web Developer,Remote,Entry,Internship,398551,527067,"HTML, JavaScript, CSS, Node.js",Glassdoor
+1492,Data Analyst,Noida,Entry,Internship,454777,712008,"Power BI, Python, SQL",Naukri
+1493,Data Engineer,Mumbai,Entry,Internship,427605,582263,"AWS, ETL, Python, SQL, Spark",Glassdoor
+1494,Business Analyst,Mumbai,Entry,Contract,326551,453993,"SQL, Power BI, Excel, Communication",Naukri
+1495,Business Analyst,Remote,Entry,Internship,434364,628964,"SQL, Communication, Tableau, Excel, Power BI",Indeed
+1496,Software Engineer,Kolkata,Mid,Full-time,653111,741368,"Java, React, SQL, Git",Naukri
+1497,Cloud Engineer,Bangalore,Mid,Internship,775133,1034457,"Docker, Python, Azure, Kubernetes, AWS",Glassdoor
+1498,Cloud Engineer,Hyderabad,Senior,Internship,2108922,2359105,"Python, AWS",Glassdoor
+1499,Data Engineer,Chennai,Mid,Contract,978820,1195335,"SQL, Spark, Python, ETL",Glassdoor
+1500,QA Engineer,Delhi,Mid,Full-time,621963,683500,"Selenium, Manual Testing, Automation, Python",Glassdoor
+1501,QA Engineer,Noida,Entry,Internship,443407,642353,"Manual Testing, Selenium, Python, SQL",Naukri
+1502,Data Analyst,Gurgaon,Mid,Full-time,845527,1135423,"Python, SQL, Tableau",LinkedIn
+1503,Database Administrator,Remote,Mid,Internship,735310,936578,"Backup & Recovery, MySQL, Oracle, Linux",Indeed
+1504,QA Engineer,Mumbai,Entry,Internship,426719,548071,"Automation, SQL, Manual Testing, Python",LinkedIn
+1505,Data Analyst,Delhi,Senior,Full-time,1510319,1705812,"Excel, Tableau, Python",Indeed
+1506,Data Engineer,Kolkata,Entry,Internship,494648,649466,"Spark, ETL, SQL, Python, AWS",Indeed
+1507,Data Engineer,Gurgaon,Senior,Internship,1319334,1483530,"AWS, SQL, Spark, ETL, Python",LinkedIn
+1508,Machine Learning Engineer,Hyderabad,Mid,Full-time,855076,1135528,"SQL, TensorFlow, AWS, PyTorch, Python",Indeed
+1509,Web Developer,Remote,Entry,Internship,341731,548488,"Node.js, React, HTML, JavaScript",Naukri
+1510,Data Scientist,Bangalore,Entry,Contract,412339,591483,"SQL, Python",Naukri
+1511,Data Analyst,Pune,Mid,Full-time,752789,1023928,"Power BI, SQL, Python, Tableau",LinkedIn
+1512,Web Developer,Hyderabad,Mid,Contract,643172,703530,"CSS, Node.js",LinkedIn
+1513,Business Analyst,Hyderabad,Mid,Contract,752792,964124,"Tableau, Power BI",Indeed
+1514,Data Engineer,Gurgaon,Entry,Full-time,468680,722123,"AWS, SQL",Indeed
+1515,Web Developer,Noida,Entry,Contract,342678,574844,"React, JavaScript, Node.js, CSS, HTML",Indeed
+1516,Business Analyst,Mumbai,Mid,Contract,771237,876430,"Communication, Excel, Power BI",Indeed
+1517,Data Engineer,Hyderabad,Entry,Contract,330859,419572,"AWS, SQL",LinkedIn
+1518,Data Engineer,Hyderabad,Senior,Internship,1870984,2072836,"AWS, Spark, SQL",Indeed
+1519,Data Scientist,Kolkata,Senior,Contract,1639923,1924696,"Python, Machine Learning, Pandas, SQL, Statistics",Indeed
+1520,Machine Learning Engineer,Bangalore,Entry,Internship,402120,501026,"SQL, AWS, PyTorch, TensorFlow, Python",LinkedIn
+1521,Data Engineer,Noida,Mid,Contract,1055152,1288614,"Python, SQL, AWS",Indeed
+1522,Business Analyst,Gurgaon,Entry,Full-time,311016,592808,"Excel, Communication, Tableau",Indeed
+1523,Software Engineer,Pune,Senior,Full-time,1219346,1434899,"SQL, React, Python, Java",Glassdoor
+1524,Data Scientist,Kolkata,Mid,Full-time,677492,814659,"Pandas, Statistics, Machine Learning, Python",Naukri
+1525,Business Analyst,Bangalore,Senior,Contract,2347400,2473472,"SQL, Power BI, Excel, Tableau, Communication",Glassdoor
+1526,QA Engineer,Hyderabad,Senior,Internship,2172120,2461747,"SQL, Manual Testing, Python",Glassdoor
+1527,Web Developer,Bangalore,Mid,Contract,1074155,1276084,"React, JavaScript, HTML, Node.js",Naukri
+1528,Data Analyst,Gurgaon,Entry,Internship,300589,463313,"SQL, Power BI",Naukri
+1529,Cloud Engineer,Noida,Senior,Contract,1842156,2093718,"Kubernetes, Azure",LinkedIn
+1530,Cloud Engineer,Kolkata,Senior,Full-time,1692481,1985129,"Python, Docker, AWS, Kubernetes, Azure",Indeed
+1531,Business Analyst,Chennai,Entry,Internship,305423,381495,"Power BI, Excel, Tableau",Naukri
+1532,Web Developer,Delhi,Senior,Full-time,2094329,2197830,"JavaScript, HTML, CSS",Glassdoor
+1533,Web Developer,Kolkata,Senior,Full-time,1526251,1805160,"HTML, CSS",LinkedIn
+1534,Data Scientist,Pune,Mid,Internship,776962,858796,"Pandas, Python, SQL, Machine Learning, Statistics",LinkedIn
+1535,Machine Learning Engineer,Chennai,Entry,Internship,349623,542571,"Python, AWS, SQL, PyTorch",Naukri
+1536,Data Engineer,Pune,Mid,Internship,1084816,1333341,"Python, ETL, SQL, AWS",Naukri
+1537,Data Scientist,Noida,Senior,Full-time,1598760,1811571,"Pandas, Python, Machine Learning, Statistics, SQL",Naukri
+1538,Cloud Engineer,Noida,Mid,Contract,793394,895590,"AWS, Kubernetes",Indeed
+1539,Software Engineer,Remote,Entry,Full-time,474215,769036,"SQL, Git, React, Java",Indeed
+1540,Machine Learning Engineer,Hyderabad,Mid,Full-time,911767,1098216,"AWS, TensorFlow",Naukri
+1541,Database Administrator,Kolkata,Mid,Full-time,927651,1190205,"Backup & Recovery, MySQL",Indeed
+1542,Web Developer,Noida,Senior,Full-time,1423502,1487897,"CSS, JavaScript, Node.js, HTML",Indeed
+1543,Web Developer,Noida,Mid,Contract,790728,860418,"JavaScript, Node.js, CSS, HTML, React",LinkedIn
+1544,Web Developer,Pune,Mid,Full-time,1088327,1275940,"JavaScript, HTML",LinkedIn
+1545,Data Scientist,Chennai,Mid,Full-time,695744,896846,"Pandas, Python, Statistics",Indeed
+1546,Data Analyst,Delhi,Mid,Contract,887800,1182959,"Tableau, Power BI, SQL, Excel",LinkedIn
+1547,Data Analyst,Noida,Mid,Contract,774727,895256,"Excel, SQL",LinkedIn
+1548,Data Scientist,Bangalore,Senior,Internship,1289181,1462185,"Statistics, Python, SQL, Pandas",LinkedIn
+1549,QA Engineer,Mumbai,Senior,Internship,1553118,1651648,"Selenium, Python",LinkedIn
+1550,Software Engineer,Pune,Senior,Contract,2268885,2381429,"Java, SQL, Git, React, Python",Naukri
+1551,Cloud Engineer,Bangalore,Entry,Full-time,460761,685580,"Azure, Docker, Python, AWS, Kubernetes",Glassdoor
+1552,QA Engineer,Remote,Mid,Internship,730563,942144,"Python, SQL",Indeed
+1553,QA Engineer,Bangalore,Mid,Internship,909716,1009828,"Manual Testing, Automation, SQL, Selenium",LinkedIn
+1554,Software Engineer,Bangalore,Entry,Full-time,495265,557471,"Git, Python",Naukri
+1555,Software Engineer,Hyderabad,Mid,Contract,710207,948226,"Java, Git",LinkedIn
+1556,Data Scientist,Mumbai,Mid,Full-time,677063,916937,"Machine Learning, Pandas",Glassdoor
+1557,Business Analyst,Kolkata,Mid,Internship,947665,1050499,"Excel, Communication, Tableau",Indeed
+1558,Software Engineer,Mumbai,Senior,Internship,1774404,1939079,"SQL, Java",Glassdoor
+1559,Business Analyst,Pune,Mid,Full-time,992337,1162594,"Excel, Communication, SQL, Tableau",LinkedIn
+1560,Data Engineer,Delhi,Mid,Internship,1003205,1056814,"Spark, Python, ETL, SQL, AWS",Naukri
+1561,Web Developer,Mumbai,Senior,Full-time,1778007,2048068,"React, JavaScript, HTML, CSS, Node.js",Glassdoor
+1562,Database Administrator,Bangalore,Entry,Contract,427376,578191,"Oracle, MySQL, SQL",Naukri
+1563,Web Developer,Chennai,Senior,Contract,1407271,1528524,"React, HTML, Node.js, JavaScript",Indeed
+1564,Software Engineer,Delhi,Mid,Contract,1088306,1284047,"Git, Java, React",Naukri
+1565,Data Analyst,Kolkata,Mid,Contract,778937,829319,"Excel, Tableau, SQL, Python, Power BI",Glassdoor
+1566,Web Developer,Delhi,Senior,Contract,2042957,2268550,"HTML, React, CSS, Node.js",Naukri
+1567,Software Engineer,Bangalore,Mid,Internship,847140,1096088,"React, SQL, Python",Indeed
+1568,Software Engineer,Kolkata,Mid,Contract,639986,717037,"Python, Git, Java",LinkedIn
+1569,Software Engineer,Noida,Mid,Full-time,957019,1150822,"Python, React, SQL, Java, Git",LinkedIn
+1570,Machine Learning Engineer,Bangalore,Entry,Full-time,454009,611262,"PyTorch, SQL",Indeed
+1571,Software Engineer,Chennai,Entry,Contract,331137,405650,"React, Python, Java, Git",Naukri
+1572,Web Developer,Pune,Senior,Internship,1653736,1912329,"JavaScript, HTML, React, Node.js, CSS",LinkedIn
+1573,Data Analyst,Chennai,Mid,Internship,891654,1124090,"SQL, Tableau, Power BI",Indeed
+1574,QA Engineer,Delhi,Entry,Full-time,341144,452543,"Manual Testing, Automation",Naukri
+1575,Software Engineer,Pune,Entry,Internship,316062,539512,"Python, React, Java, SQL, Git",Indeed
+1576,Machine Learning Engineer,Delhi,Senior,Full-time,1332682,1601210,"SQL, AWS, Python",Glassdoor
+1577,Data Engineer,Bangalore,Mid,Contract,1041926,1325994,"Python, Spark, AWS, ETL, SQL",Naukri
+1578,Data Engineer,Hyderabad,Mid,Full-time,966837,1229855,"ETL, Spark, SQL",Glassdoor
+1579,Data Engineer,Kolkata,Senior,Internship,2091051,2186175,"ETL, Spark, SQL, Python, AWS",Naukri
+1580,Software Engineer,Delhi,Mid,Contract,843724,1136796,"React, Java",Glassdoor
+1581,Data Engineer,Mumbai,Entry,Contract,425651,579094,"Python, SQL, ETL",LinkedIn
+1582,Software Engineer,Mumbai,Entry,Contract,459095,651614,"Python, Java",LinkedIn
+1583,Machine Learning Engineer,Kolkata,Senior,Internship,1747650,1884701,"TensorFlow, Python, AWS",LinkedIn
+1584,Database Administrator,Pune,Entry,Contract,466788,540219,"Oracle, Linux, SQL",Naukri
+1585,Business Analyst,Kolkata,Senior,Contract,1874952,2045773,"Power BI, Tableau, SQL",LinkedIn
+1586,Data Analyst,Bangalore,Entry,Contract,307955,379879,"Excel, SQL, Python, Power BI",LinkedIn
+1587,Database Administrator,Gurgaon,Entry,Full-time,465372,711579,"MySQL, Backup & Recovery",Indeed
+1588,Machine Learning Engineer,Hyderabad,Mid,Internship,736736,828488,"AWS, TensorFlow",Indeed
+1589,QA Engineer,Remote,Senior,Internship,2229993,2416890,"Manual Testing, Automation",Glassdoor
+1590,Web Developer,Remote,Senior,Internship,1995754,2168666,"Node.js, React",LinkedIn
+1591,Database Administrator,Bangalore,Entry,Full-time,473549,592043,"Linux, Backup & Recovery, Oracle",LinkedIn
+1592,Machine Learning Engineer,Chennai,Entry,Contract,339310,495526,"AWS, Python, SQL, TensorFlow, PyTorch",Indeed
+1593,Web Developer,Mumbai,Senior,Internship,1302756,1448755,"CSS, React, JavaScript, HTML",Indeed
+1594,Cloud Engineer,Bangalore,Senior,Full-time,2052978,2157482,"Kubernetes, Python, Docker",Glassdoor
+1595,Machine Learning Engineer,Remote,Entry,Full-time,316912,382827,"Python, AWS, TensorFlow, PyTorch",Naukri
+1596,Cloud Engineer,Kolkata,Entry,Internship,463991,706217,"Azure, Kubernetes, Python, AWS",LinkedIn
+1597,Cloud Engineer,Noida,Entry,Contract,469801,536621,"Docker, Azure, AWS, Python, Kubernetes",Naukri
+1598,Business Analyst,Delhi,Senior,Contract,2398355,2617486,"Communication, Power BI, SQL, Tableau",Naukri
+1599,Software Engineer,Pune,Mid,Contract,980228,1251750,"Python, Java, React, SQL, Git",Indeed
+1600,Database Administrator,Noida,Entry,Contract,402204,493274,"Backup & Recovery, Oracle, SQL, Linux",Indeed
+1601,Business Analyst,Chennai,Entry,Contract,479092,578101,"Excel, SQL, Power BI, Communication",Indeed
+1602,Database Administrator,Delhi,Mid,Internship,1052504,1178683,"MySQL, SQL",Glassdoor
+1603,Machine Learning Engineer,Kolkata,Entry,Internship,386914,627098,"SQL, Python, PyTorch",Naukri
+1604,Machine Learning Engineer,Delhi,Entry,Internship,362604,466249,"TensorFlow, PyTorch, Python",LinkedIn
+1605,Cloud Engineer,Remote,Mid,Contract,664057,817530,"Azure, AWS, Kubernetes",Indeed
+1606,Data Scientist,Remote,Senior,Contract,2178216,2417287,"Pandas, Python",Glassdoor
+1607,QA Engineer,Mumbai,Entry,Contract,477938,579839,"Manual Testing, Automation, Python, SQL, Selenium",LinkedIn
+1608,Data Analyst,Bangalore,Mid,Full-time,1081364,1327983,"Power BI, Python, SQL, Excel, Tableau",LinkedIn
+1609,Cloud Engineer,Kolkata,Senior,Full-time,1587614,1692324,"AWS, Python",LinkedIn
+1610,Machine Learning Engineer,Hyderabad,Mid,Contract,874658,1166964,"TensorFlow, SQL",Naukri
+1611,Machine Learning Engineer,Gurgaon,Mid,Contract,748713,1014468,"SQL, Python",Indeed
+1612,QA Engineer,Mumbai,Senior,Internship,1925179,2010286,"Selenium, SQL",Glassdoor
+1613,QA Engineer,Hyderabad,Entry,Full-time,441355,567964,"Manual Testing, Python, SQL",Indeed
+1614,Database Administrator,Bangalore,Mid,Internship,702081,796802,"MySQL, Oracle, SQL",Naukri
+1615,Software Engineer,Delhi,Mid,Internship,819293,889411,"SQL, Java",Indeed
+1616,Web Developer,Kolkata,Entry,Contract,311233,578703,"HTML, JavaScript, Node.js, CSS",Glassdoor
+1617,Business Analyst,Noida,Mid,Contract,963691,1038852,"Excel, Communication",LinkedIn
+1618,Data Analyst,Mumbai,Entry,Contract,353262,497980,"Python, SQL, Tableau, Excel, Power BI",LinkedIn
+1619,Database Administrator,Chennai,Entry,Full-time,346008,597228,"Backup & Recovery, Oracle, MySQL",Naukri
+1620,Data Analyst,Kolkata,Mid,Internship,899914,978428,"Python, Tableau, Power BI, SQL, Excel",Naukri
+1621,Cloud Engineer,Delhi,Mid,Full-time,726930,856623,"Python, Kubernetes",LinkedIn
+1622,Software Engineer,Delhi,Mid,Internship,1052373,1277251,"Git, Java, React",Naukri
+1623,Software Engineer,Chennai,Senior,Full-time,1414905,1639761,"Git, Java, SQL, React",LinkedIn
+1624,Cloud Engineer,Remote,Mid,Internship,749822,950315,"AWS, Kubernetes, Azure",LinkedIn
+1625,QA Engineer,Noida,Entry,Contract,450133,711963,"SQL, Python, Selenium, Manual Testing, Automation",Glassdoor
+1626,Cloud Engineer,Remote,Mid,Contract,1099088,1298185,"Azure, Docker, Kubernetes",Glassdoor
+1627,Data Scientist,Bangalore,Mid,Contract,924420,1182116,"SQL, Pandas, Python",Indeed
+1628,Data Engineer,Delhi,Entry,Internship,405961,603787,"AWS, Python",Naukri
+1629,Cloud Engineer,Pune,Mid,Contract,661717,831564,"AWS, Kubernetes, Python, Docker, Azure",Glassdoor
+1630,Cloud Engineer,Mumbai,Senior,Internship,1958753,2179196,"Python, Azure, Docker",Naukri
+1631,Cloud Engineer,Delhi,Entry,Internship,406816,689411,"Azure, Kubernetes",LinkedIn
+1632,Machine Learning Engineer,Kolkata,Entry,Internship,454799,704842,"AWS, TensorFlow, SQL, PyTorch",Naukri
+1633,Data Scientist,Noida,Senior,Internship,2053383,2268626,"SQL, Python",Glassdoor
+1634,Cloud Engineer,Noida,Mid,Contract,1035481,1265225,"Azure, Docker, Kubernetes",LinkedIn
+1635,Machine Learning Engineer,Delhi,Entry,Internship,404509,596451,"TensorFlow, PyTorch, SQL",Naukri
+1636,Web Developer,Bangalore,Senior,Full-time,2203313,2450532,"HTML, Node.js, JavaScript",LinkedIn
+1637,Cloud Engineer,Remote,Mid,Internship,632823,697280,"Kubernetes, Azure",Glassdoor
+1638,Data Scientist,Mumbai,Entry,Full-time,312560,610376,"Statistics, Python",Indeed
+1639,QA Engineer,Delhi,Senior,Internship,1353433,1628309,"Selenium, Python, Manual Testing, Automation",LinkedIn
+1640,Cloud Engineer,Remote,Entry,Contract,407776,622134,"AWS, Docker, Python",Glassdoor
+1641,Web Developer,Bangalore,Mid,Internship,832099,1039080,"React, CSS, HTML, Node.js",Glassdoor
+1642,Data Engineer,Noida,Senior,Contract,1472690,1679009,"ETL, Python, Spark",Glassdoor
+1643,Data Scientist,Gurgaon,Senior,Internship,1300023,1392220,"Machine Learning, Python",Glassdoor
+1644,Business Analyst,Kolkata,Senior,Full-time,1609507,1711526,"Communication, Excel, SQL",Indeed
+1645,Data Engineer,Chennai,Mid,Full-time,780743,1070819,"Python, AWS, ETL, Spark, SQL",Naukri
+1646,Data Analyst,Pune,Entry,Full-time,458053,550882,"Python, SQL",LinkedIn
+1647,Software Engineer,Mumbai,Mid,Full-time,845224,1025181,"Git, Java, React, SQL",Indeed
+1648,Database Administrator,Kolkata,Entry,Internship,369362,574696,"MySQL, Backup & Recovery",Indeed
+1649,Data Analyst,Noida,Entry,Contract,311272,575564,"Python, Power BI",Indeed
+1650,Web Developer,Mumbai,Entry,Full-time,478794,594363,"React, Node.js",Glassdoor
+1651,Cloud Engineer,Pune,Entry,Contract,430982,655904,"Azure, AWS, Kubernetes",Glassdoor
+1652,Data Engineer,Hyderabad,Senior,Contract,2324585,2591462,"Python, SQL, AWS",Glassdoor
+1653,Cloud Engineer,Pune,Mid,Contract,1035026,1213818,"Azure, Kubernetes, AWS, Docker, Python",Indeed
+1654,Cloud Engineer,Kolkata,Entry,Internship,307643,446371,"Python, Kubernetes, Docker",Indeed
+1655,Data Analyst,Remote,Mid,Internship,956906,1249941,"Python, Tableau",Glassdoor
+1656,Data Analyst,Gurgaon,Mid,Internship,871726,1126168,"SQL, Power BI, Tableau",Naukri
+1657,Business Analyst,Pune,Senior,Contract,1558487,1655790,"Power BI, Tableau, Communication",LinkedIn
+1658,Data Engineer,Noida,Entry,Full-time,387831,579146,"Python, ETL, SQL, Spark, AWS",Indeed
+1659,Cloud Engineer,Pune,Senior,Contract,1490967,1626790,"Kubernetes, AWS, Docker, Azure, Python",LinkedIn
+1660,Business Analyst,Remote,Senior,Contract,1233903,1533749,"Excel, SQL, Tableau",Indeed
+1661,Data Analyst,Mumbai,Senior,Contract,1725905,1908906,"Excel, Power BI, Python, Tableau",Glassdoor
+1662,QA Engineer,Kolkata,Senior,Contract,1376190,1500525,"Python, Automation, Selenium, Manual Testing",LinkedIn
+1663,Data Scientist,Pune,Mid,Contract,810582,977912,"Statistics, SQL, Machine Learning, Python, Pandas",Naukri
+1664,QA Engineer,Delhi,Mid,Full-time,921925,988566,"Python, Automation, Manual Testing, Selenium, SQL",Glassdoor
+1665,Cloud Engineer,Pune,Mid,Internship,870593,1071798,"Kubernetes, AWS, Docker",Naukri
+1666,Cloud Engineer,Kolkata,Mid,Internship,937405,1036225,"Docker, AWS, Python",LinkedIn
+1667,Web Developer,Chennai,Entry,Internship,490759,703167,"React, HTML, Node.js, JavaScript",Glassdoor
+1668,Data Engineer,Kolkata,Mid,Contract,779637,1053109,"ETL, Spark, Python, SQL",Naukri
+1669,Database Administrator,Noida,Senior,Full-time,1940336,2206989,"MySQL, Oracle, Backup & Recovery, SQL",Naukri
+1670,Cloud Engineer,Remote,Senior,Internship,1665981,1943074,"Python, AWS, Azure",Indeed
+1671,Business Analyst,Delhi,Entry,Contract,478396,768519,"Excel, Power BI, Communication, Tableau",LinkedIn
+1672,Data Engineer,Noida,Mid,Contract,690102,845916,"SQL, ETL, AWS",Naukri
+1673,QA Engineer,Chennai,Senior,Full-time,2257973,2335815,"SQL, Automation, Selenium, Manual Testing, Python",LinkedIn
+1674,Business Analyst,Chennai,Senior,Contract,1872014,2120191,"Power BI, Tableau, SQL, Communication, Excel",LinkedIn
+1675,Web Developer,Remote,Senior,Contract,2274392,2540484,"HTML, React",LinkedIn
+1676,QA Engineer,Pune,Mid,Full-time,873438,1141810,"Automation, Manual Testing, Python, Selenium",LinkedIn
+1677,Data Scientist,Mumbai,Mid,Internship,646246,781507,"Statistics, Python, SQL, Machine Learning",Glassdoor
+1678,Software Engineer,Mumbai,Entry,Internship,462366,744651,"Git, React, SQL",Naukri
+1679,Cloud Engineer,Mumbai,Entry,Internship,383183,445187,"Python, Docker",Glassdoor
+1680,Data Engineer,Hyderabad,Senior,Full-time,1273803,1527314,"SQL, AWS, Spark, Python",Indeed
+1681,QA Engineer,Gurgaon,Senior,Contract,1476057,1724700,"Selenium, SQL, Manual Testing, Automation, Python",LinkedIn
+1682,Cloud Engineer,Kolkata,Senior,Internship,1541394,1824750,"Docker, Kubernetes, Azure",Indeed
+1683,Data Analyst,Remote,Mid,Internship,882546,1048466,"Power BI, Excel, SQL, Python",Glassdoor
+1684,Machine Learning Engineer,Chennai,Senior,Contract,1912059,2154181,"PyTorch, AWS, SQL, TensorFlow, Python",Indeed
+1685,Cloud Engineer,Delhi,Entry,Full-time,481713,643938,"AWS, Azure, Python, Docker",LinkedIn
+1686,Data Analyst,Delhi,Entry,Contract,360181,563884,"SQL, Excel, Tableau",Indeed
+1687,Data Scientist,Chennai,Mid,Full-time,602920,737848,"Statistics, Python, Machine Learning, Pandas",LinkedIn
+1688,Business Analyst,Pune,Senior,Internship,1835987,1960531,"Communication, Tableau, SQL, Excel, Power BI",LinkedIn
+1689,Business Analyst,Gurgaon,Mid,Contract,816677,905921,"Excel, Power BI",Indeed
+1690,Cloud Engineer,Pune,Senior,Internship,1638621,1937579,"Python, Azure",Indeed
+1691,Data Engineer,Kolkata,Senior,Contract,1480443,1580361,"SQL, Spark",LinkedIn
+1692,QA Engineer,Bangalore,Entry,Contract,324275,389737,"Selenium, Automation, SQL, Python, Manual Testing",Indeed
+1693,Web Developer,Pune,Mid,Contract,889798,1061219,"HTML, CSS, React, JavaScript",Naukri
+1694,Cloud Engineer,Hyderabad,Senior,Full-time,1578882,1864772,"Kubernetes, Python, Azure, Docker",Glassdoor
+1695,Machine Learning Engineer,Delhi,Senior,Full-time,1994631,2085199,"PyTorch, TensorFlow",Glassdoor
+1696,QA Engineer,Kolkata,Entry,Internship,472406,667581,"Selenium, Python, Automation",Glassdoor
+1697,Cloud Engineer,Gurgaon,Entry,Contract,422885,518904,"Kubernetes, Azure",LinkedIn
+1698,Software Engineer,Mumbai,Mid,Full-time,770824,868478,"Python, React, SQL",Naukri
+1699,Business Analyst,Hyderabad,Entry,Internship,472293,746129,"Power BI, Excel",Glassdoor
+1700,Cloud Engineer,Pune,Senior,Full-time,1881789,2103052,"Azure, Python, Kubernetes, Docker",Naukri
+1701,Web Developer,Hyderabad,Mid,Contract,937959,1109338,"CSS, Node.js, React, JavaScript, HTML",Glassdoor
+1702,Data Analyst,Chennai,Senior,Internship,2244627,2454852,"Excel, Python",Indeed
+1703,QA Engineer,Gurgaon,Senior,Full-time,2397564,2493263,"Selenium, Manual Testing, Automation, Python, SQL",LinkedIn
+1704,QA Engineer,Kolkata,Mid,Contract,658989,765149,"SQL, Manual Testing, Automation, Selenium, Python",Glassdoor
+1705,Data Engineer,Hyderabad,Entry,Internship,404105,645261,"Spark, SQL",Naukri
+1706,Data Engineer,Bangalore,Entry,Contract,428174,637185,"Spark, AWS, SQL, Python, ETL",Indeed
+1707,Cloud Engineer,Pune,Mid,Contract,880488,1033863,"AWS, Azure",Naukri
+1708,Data Analyst,Delhi,Mid,Internship,938379,1009877,"SQL, Python, Tableau, Excel",Naukri
+1709,Data Engineer,Remote,Entry,Full-time,339115,557650,"Spark, ETL, AWS",LinkedIn
+1710,Data Analyst,Delhi,Entry,Internship,372662,594039,"SQL, Excel, Tableau",Naukri
+1711,QA Engineer,Gurgaon,Mid,Full-time,960067,1165645,"Selenium, Automation, Python, Manual Testing, SQL",LinkedIn
+1712,Data Engineer,Pune,Senior,Full-time,1530101,1611054,"AWS, Spark, ETL, Python, SQL",LinkedIn
+1713,Data Scientist,Hyderabad,Senior,Full-time,2002332,2157896,"SQL, Pandas",LinkedIn
+1714,Data Analyst,Remote,Entry,Internship,335648,575177,"Tableau, Python, SQL, Power BI",LinkedIn
+1715,QA Engineer,Mumbai,Senior,Internship,2399327,2499775,"Python, SQL, Selenium, Automation, Manual Testing",LinkedIn
+1716,Database Administrator,Delhi,Senior,Full-time,1791491,1887664,"SQL, Backup & Recovery",LinkedIn
+1717,Data Analyst,Noida,Senior,Internship,1218333,1419440,"Excel, Tableau, Power BI, Python",Naukri
+1718,Business Analyst,Bangalore,Entry,Contract,396135,537878,"SQL, Tableau, Communication, Excel, Power BI",Naukri
+1719,QA Engineer,Bangalore,Mid,Full-time,837887,918990,"SQL, Manual Testing, Python",LinkedIn
+1720,Machine Learning Engineer,Chennai,Senior,Internship,1843710,2093613,"TensorFlow, Python, AWS",Indeed
+1721,Data Scientist,Pune,Senior,Full-time,2210517,2504359,"Statistics, Python",LinkedIn
+1722,Machine Learning Engineer,Pune,Senior,Full-time,2369221,2548944,"Python, TensorFlow, PyTorch, AWS",Glassdoor
+1723,Database Administrator,Hyderabad,Senior,Internship,1246935,1405027,"MySQL, Oracle, Linux",Glassdoor
+1724,Cloud Engineer,Hyderabad,Senior,Internship,1747486,2047286,"AWS, Azure, Docker",Indeed
+1725,Web Developer,Mumbai,Entry,Full-time,304419,515935,"React, Node.js, JavaScript, CSS",LinkedIn
+1726,Machine Learning Engineer,Delhi,Mid,Internship,832161,1036858,"PyTorch, AWS, TensorFlow, Python",LinkedIn
+1727,Software Engineer,Gurgaon,Mid,Full-time,1038708,1301067,"Git, React, Java, SQL",LinkedIn
+1728,Data Analyst,Bangalore,Senior,Contract,1457188,1517340,"SQL, Python, Power BI",LinkedIn
+1729,Software Engineer,Gurgaon,Entry,Internship,323587,501771,"Git, Java, SQL",Glassdoor
+1730,Data Analyst,Hyderabad,Senior,Internship,1425238,1514069,"SQL, Power BI",Indeed
+1731,Data Analyst,Hyderabad,Mid,Contract,622256,779364,"SQL, Excel, Tableau, Python, Power BI",Naukri
+1732,Machine Learning Engineer,Bangalore,Entry,Internship,439118,561351,"PyTorch, TensorFlow, SQL, Python, AWS",Indeed
+1733,Software Engineer,Bangalore,Entry,Full-time,391470,580849,"Git, React, SQL, Python",Glassdoor
+1734,QA Engineer,Gurgaon,Mid,Full-time,663174,860304,"SQL, Manual Testing",LinkedIn
+1735,Software Engineer,Noida,Senior,Internship,1733140,2002903,"Git, React, Java, SQL, Python",Naukri
+1736,QA Engineer,Kolkata,Entry,Full-time,483363,757168,"Selenium, Automation, Python, Manual Testing, SQL",Naukri
+1737,Business Analyst,Hyderabad,Mid,Internship,928643,1133128,"SQL, Tableau",Indeed
+1738,Data Analyst,Remote,Mid,Contract,845030,927620,"SQL, Tableau, Power BI, Excel",Glassdoor
+1739,QA Engineer,Kolkata,Entry,Contract,447566,696084,"Automation, Selenium, Manual Testing, Python",LinkedIn
+1740,Data Scientist,Pune,Mid,Internship,920108,1129714,"Pandas, Machine Learning",LinkedIn
+1741,QA Engineer,Noida,Mid,Contract,717273,937149,"Manual Testing, Python",Glassdoor
+1742,QA Engineer,Hyderabad,Mid,Internship,916138,1112032,"Selenium, Python, Manual Testing, Automation",Glassdoor
+1743,Data Engineer,Gurgaon,Entry,Full-time,427145,602945,"SQL, Spark, Python, AWS",Indeed
+1744,Business Analyst,Mumbai,Entry,Contract,449019,738086,"Tableau, Communication",Indeed
+1745,Data Analyst,Delhi,Entry,Internship,473099,559685,"Excel, Python",Naukri
+1746,Data Analyst,Gurgaon,Senior,Full-time,1386694,1544367,"Excel, SQL",Naukri
+1747,Web Developer,Kolkata,Entry,Full-time,396829,626226,"CSS, HTML, React, Node.js, JavaScript",LinkedIn
+1748,Cloud Engineer,Remote,Senior,Contract,2265809,2323813,"Python, Kubernetes",Indeed
+1749,Web Developer,Kolkata,Mid,Full-time,997322,1078842,"JavaScript, CSS, Node.js, React, HTML",Naukri
+1750,Database Administrator,Kolkata,Entry,Full-time,306735,424761,"Linux, Oracle",Naukri
+1751,Machine Learning Engineer,Hyderabad,Mid,Full-time,799360,997059,"PyTorch, SQL",Naukri
+1752,Data Scientist,Hyderabad,Senior,Contract,2247914,2474688,"SQL, Statistics, Machine Learning, Python",Naukri
+1753,Database Administrator,Noida,Senior,Contract,1304910,1424937,"Oracle, Backup & Recovery",Glassdoor
+1754,Software Engineer,Hyderabad,Senior,Full-time,2088191,2167680,"Git, Java, Python, React",Indeed
+1755,Data Engineer,Delhi,Mid,Internship,978989,1127918,"Python, AWS, ETL, SQL",Naukri
+1756,Data Engineer,Bangalore,Mid,Contract,935362,1059559,"AWS, SQL, ETL, Spark, Python",Glassdoor
+1757,Data Analyst,Gurgaon,Mid,Full-time,633952,800329,"Excel, Power BI",Indeed
+1758,Data Scientist,Pune,Mid,Internship,904085,1153327,"Statistics, Machine Learning, Pandas",Naukri
+1759,Cloud Engineer,Bangalore,Entry,Internship,440147,595038,"Python, AWS, Azure",Naukri
+1760,Data Engineer,Noida,Mid,Full-time,994733,1182937,"Spark, Python, SQL, AWS, ETL",Glassdoor
+1761,Data Scientist,Hyderabad,Mid,Full-time,907493,1192389,"Machine Learning, SQL, Python",Naukri
+1762,Business Analyst,Mumbai,Entry,Internship,488668,645526,"Power BI, Excel",Naukri
+1763,Software Engineer,Delhi,Entry,Contract,433967,508712,"SQL, Java, Git, Python, React",Indeed
+1764,Web Developer,Pune,Mid,Full-time,923108,998630,"JavaScript, HTML, React, CSS, Node.js",Indeed
+1765,Data Analyst,Noida,Senior,Full-time,2185758,2433835,"SQL, Excel, Power BI, Python, Tableau",Glassdoor
+1766,Cloud Engineer,Bangalore,Senior,Internship,2355851,2443982,"Docker, AWS",Glassdoor
+1767,Database Administrator,Noida,Mid,Full-time,1040262,1175838,"Linux, Oracle, MySQL",LinkedIn
+1768,Cloud Engineer,Remote,Mid,Contract,905014,1058777,"Docker, Kubernetes, Python, Azure, AWS",Naukri
+1769,Machine Learning Engineer,Remote,Mid,Internship,1021306,1244296,"Python, AWS",Indeed
+1770,QA Engineer,Remote,Entry,Full-time,480211,734957,"SQL, Manual Testing, Automation, Python, Selenium",Naukri
+1771,Machine Learning Engineer,Hyderabad,Entry,Full-time,410751,639734,"TensorFlow, SQL",Glassdoor
+1772,Software Engineer,Chennai,Mid,Internship,971907,1191676,"Java, SQL, Python",Naukri
+1773,Machine Learning Engineer,Bangalore,Senior,Internship,1216102,1278986,"AWS, PyTorch",Glassdoor
+1774,Data Engineer,Kolkata,Mid,Full-time,624619,751510,"AWS, ETL, Spark, SQL, Python",Indeed
+1775,Database Administrator,Bangalore,Mid,Internship,737432,829854,"Backup & Recovery, Oracle",Indeed
+1776,Business Analyst,Gurgaon,Mid,Internship,881814,1165767,"Tableau, Communication",Glassdoor
+1777,Web Developer,Mumbai,Mid,Contract,1022190,1231733,"React, CSS",Naukri
+1778,Software Engineer,Delhi,Mid,Internship,1010663,1094953,"Git, SQL, React",Glassdoor
+1779,Web Developer,Hyderabad,Entry,Contract,387556,595799,"CSS, HTML, React, Node.js",Glassdoor
+1780,Data Engineer,Hyderabad,Entry,Full-time,377099,474558,"AWS, Spark, ETL, SQL, Python",Naukri
+1781,Business Analyst,Chennai,Entry,Internship,307274,384446,"Excel, Power BI",LinkedIn
+1782,Data Scientist,Chennai,Entry,Contract,435546,653165,"Python, Pandas, Machine Learning, Statistics, SQL",Indeed
+1783,Database Administrator,Kolkata,Senior,Internship,2237113,2433606,"MySQL, SQL, Linux",Glassdoor
+1784,QA Engineer,Chennai,Senior,Full-time,1772935,1939881,"Python, SQL, Selenium",Glassdoor
+1785,Business Analyst,Pune,Entry,Full-time,314017,417465,"Excel, Communication, Tableau, SQL",LinkedIn
+1786,Business Analyst,Remote,Mid,Contract,625214,796115,"Excel, Power BI, Tableau, SQL",Glassdoor
+1787,Web Developer,Hyderabad,Entry,Contract,385013,665345,"JavaScript, Node.js, HTML, React",Naukri
+1788,Business Analyst,Delhi,Mid,Internship,941944,1114423,"Excel, Tableau, SQL, Power BI",Indeed
+1789,Data Engineer,Pune,Entry,Internship,440841,652001,"Spark, Python, SQL, ETL, AWS",Glassdoor
+1790,Software Engineer,Delhi,Entry,Internship,344491,402540,"React, Git, SQL",Naukri
+1791,Data Engineer,Gurgaon,Entry,Contract,303307,525025,"Python, AWS",Indeed
+1792,Software Engineer,Delhi,Entry,Contract,466551,567501,"Git, Python",Indeed
+1793,Machine Learning Engineer,Kolkata,Senior,Internship,1681164,1817939,"PyTorch, Python, SQL",Naukri
+1794,Data Scientist,Hyderabad,Senior,Internship,2194407,2376830,"Pandas, Python, SQL, Machine Learning",Glassdoor
+1795,Data Engineer,Delhi,Mid,Contract,788462,907052,"AWS, Python, ETL, Spark",Indeed
+1796,Cloud Engineer,Hyderabad,Mid,Contract,924817,1031818,"Python, AWS, Kubernetes, Azure, Docker",Glassdoor
+1797,QA Engineer,Pune,Entry,Contract,434346,657641,"Automation, Python, SQL, Manual Testing",Glassdoor
+1798,QA Engineer,Kolkata,Senior,Contract,1327760,1457995,"Python, Manual Testing, Automation, Selenium",Naukri
+1799,Web Developer,Pune,Mid,Internship,721923,781472,"Node.js, React",Indeed
+1800,Web Developer,Delhi,Entry,Full-time,445947,665999,"Node.js, React, HTML",Naukri
+1801,Cloud Engineer,Mumbai,Entry,Full-time,329551,548914,"AWS, Kubernetes, Python, Docker, Azure",LinkedIn
+1802,Cloud Engineer,Bangalore,Senior,Full-time,1505566,1587318,"AWS, Python",Naukri
+1803,Data Engineer,Pune,Entry,Full-time,316523,547838,"AWS, Spark, SQL, Python, ETL",LinkedIn
+1804,Data Analyst,Remote,Senior,Contract,2009991,2091894,"Tableau, SQL",Glassdoor
+1805,Web Developer,Chennai,Entry,Full-time,375697,441874,"Node.js, JavaScript, CSS",Glassdoor
+1806,Software Engineer,Hyderabad,Senior,Internship,1779576,1939975,"Python, SQL, React",LinkedIn
+1807,Business Analyst,Chennai,Senior,Full-time,1207654,1309704,"Communication, Tableau",LinkedIn
+1808,Data Engineer,Chennai,Entry,Internship,494561,698787,"AWS, Python, SQL, Spark, ETL",Indeed
+1809,Business Analyst,Noida,Mid,Internship,648248,717600,"Communication, Power BI",Glassdoor
+1810,Web Developer,Hyderabad,Entry,Internship,300415,562165,"Node.js, JavaScript, HTML, CSS, React",Naukri
+1811,QA Engineer,Bangalore,Mid,Internship,1005277,1202522,"Python, Automation, SQL",LinkedIn
+1812,Software Engineer,Kolkata,Mid,Internship,880124,1120339,"Python, Git, SQL, React, Java",Naukri
+1813,Cloud Engineer,Kolkata,Entry,Contract,445600,631925,"Kubernetes, Python",Glassdoor
+1814,QA Engineer,Chennai,Entry,Internship,455021,617416,"SQL, Python, Selenium",LinkedIn
+1815,QA Engineer,Noida,Mid,Contract,911794,1023855,"Selenium, Automation, Python",LinkedIn
+1816,Business Analyst,Chennai,Senior,Contract,2294664,2496002,"Communication, SQL, Excel",Glassdoor
+1817,Data Scientist,Bangalore,Senior,Full-time,1352755,1608266,"Machine Learning, Pandas, Statistics, SQL, Python",Indeed
+1818,Database Administrator,Gurgaon,Mid,Contract,647297,873186,"Linux, Backup & Recovery, MySQL",Indeed
+1819,QA Engineer,Hyderabad,Entry,Contract,476416,735406,"SQL, Selenium, Automation",LinkedIn
+1820,QA Engineer,Pune,Mid,Internship,692812,785467,"Automation, Python, Manual Testing",Glassdoor
+1821,Cloud Engineer,Hyderabad,Senior,Full-time,1754348,1993355,"Docker, Azure, AWS, Kubernetes",Glassdoor
+1822,Web Developer,Gurgaon,Mid,Internship,828126,1082467,"HTML, CSS, Node.js",LinkedIn
+1823,Machine Learning Engineer,Bangalore,Mid,Contract,626099,692710,"TensorFlow, PyTorch, AWS, SQL, Python",LinkedIn
+1824,Database Administrator,Mumbai,Entry,Internship,423208,519771,"Oracle, Backup & Recovery, Linux",Naukri
+1825,Web Developer,Bangalore,Entry,Internship,436359,657263,"CSS, JavaScript, React",LinkedIn
+1826,Database Administrator,Hyderabad,Entry,Internship,319002,471103,"SQL, Linux, Oracle, Backup & Recovery",Naukri
+1827,Machine Learning Engineer,Bangalore,Senior,Full-time,1979724,2029992,"SQL, Python, PyTorch",LinkedIn
+1828,Data Scientist,Pune,Mid,Full-time,991921,1272637,"Machine Learning, SQL",Glassdoor
+1829,Database Administrator,Remote,Entry,Full-time,311495,370100,"SQL, Linux, Backup & Recovery, MySQL, Oracle",Naukri
+1830,Data Analyst,Delhi,Mid,Contract,900942,1156779,"Tableau, Power BI, Python, Excel",LinkedIn
+1831,Software Engineer,Pune,Senior,Internship,2364617,2564847,"Git, SQL, Java",Glassdoor
+1832,QA Engineer,Delhi,Mid,Full-time,816750,1085989,"Automation, Manual Testing",Glassdoor
+1833,Database Administrator,Delhi,Entry,Full-time,490146,742900,"SQL, Backup & Recovery",LinkedIn
+1834,Machine Learning Engineer,Pune,Entry,Contract,474060,684170,"TensorFlow, AWS, Python, SQL, PyTorch",Indeed
+1835,Software Engineer,Chennai,Senior,Internship,2298945,2549207,"SQL, Python, Git",Glassdoor
+1836,Cloud Engineer,Noida,Entry,Contract,414143,474345,"Kubernetes, Azure, Docker, AWS, Python",Indeed
+1837,Web Developer,Kolkata,Senior,Contract,1836778,1933145,"CSS, React, JavaScript, Node.js",Naukri
+1838,Business Analyst,Kolkata,Entry,Internship,387554,451466,"Communication, Power BI, Tableau, SQL, Excel",LinkedIn
+1839,Machine Learning Engineer,Remote,Mid,Internship,641975,787453,"TensorFlow, AWS, PyTorch, Python, SQL",Indeed
+1840,QA Engineer,Kolkata,Entry,Internship,328086,389228,"SQL, Selenium, Automation, Python, Manual Testing",Indeed
+1841,Data Scientist,Hyderabad,Entry,Contract,401685,476524,"SQL, Machine Learning",Glassdoor
+1842,Web Developer,Gurgaon,Senior,Full-time,1571505,1665595,"React, JavaScript",Glassdoor
+1843,Software Engineer,Delhi,Mid,Contract,692865,743035,"Python, React",LinkedIn
+1844,Database Administrator,Remote,Mid,Full-time,605544,696938,"SQL, Oracle, MySQL, Linux, Backup & Recovery",Indeed
+1845,Software Engineer,Pune,Senior,Contract,1744482,1909865,"Java, Git, Python, React",Indeed
+1846,Database Administrator,Gurgaon,Entry,Full-time,421555,627520,"Backup & Recovery, Oracle",Naukri
+1847,Data Analyst,Hyderabad,Entry,Full-time,402936,528393,"Power BI, SQL, Python",LinkedIn
+1848,QA Engineer,Bangalore,Entry,Internship,333044,628853,"Manual Testing, Python",Indeed
+1849,Data Analyst,Remote,Senior,Full-time,1351013,1543294,"Tableau, SQL, Python, Excel",Indeed
+1850,QA Engineer,Pune,Senior,Internship,1710931,1999299,"Automation, SQL, Selenium, Python",Indeed
+1851,Machine Learning Engineer,Hyderabad,Mid,Full-time,813677,991313,"Python, SQL",LinkedIn
+1852,QA Engineer,Kolkata,Mid,Full-time,886646,1038058,"Python, SQL, Selenium, Automation, Manual Testing",LinkedIn
+1853,Cloud Engineer,Pune,Mid,Contract,701630,901124,"Docker, Python, AWS, Kubernetes",Naukri
+1854,Data Analyst,Gurgaon,Mid,Internship,997810,1270125,"Power BI, Tableau, SQL",Glassdoor
+1855,Software Engineer,Chennai,Entry,Full-time,429297,535006,"SQL, React, Java, Python, Git",LinkedIn
+1856,Web Developer,Gurgaon,Entry,Full-time,452597,518626,"Node.js, CSS, HTML",Indeed
+1857,Software Engineer,Chennai,Mid,Full-time,607986,851246,"React, Java",LinkedIn
+1858,Business Analyst,Bangalore,Senior,Full-time,1211783,1428822,"Tableau, Power BI, SQL, Communication, Excel",Indeed
+1859,Data Scientist,Noida,Entry,Internship,357657,615950,"Pandas, Python, SQL",Glassdoor
+1860,Machine Learning Engineer,Chennai,Mid,Internship,1049424,1247690,"Python, TensorFlow, PyTorch",Glassdoor
+1861,QA Engineer,Delhi,Mid,Internship,624340,734880,"Python, Manual Testing, Selenium",Naukri
+1862,Data Engineer,Chennai,Mid,Contract,697799,768177,"AWS, Spark, Python, ETL",Indeed
+1863,Data Analyst,Hyderabad,Mid,Internship,1041373,1133867,"Tableau, SQL, Python",LinkedIn
+1864,Software Engineer,Pune,Mid,Contract,1016946,1226328,"Java, SQL, Git",LinkedIn
+1865,Data Scientist,Remote,Senior,Contract,1208967,1438901,"Pandas, Python, SQL, Statistics",Glassdoor
+1866,Data Scientist,Noida,Senior,Contract,1978941,2116055,"Pandas, Machine Learning",Naukri
+1867,QA Engineer,Gurgaon,Senior,Full-time,1397544,1547609,"Selenium, SQL",Glassdoor
+1868,Software Engineer,Kolkata,Mid,Full-time,887041,1035459,"React, Git, Java",Naukri
+1869,Cloud Engineer,Chennai,Mid,Full-time,944644,1019803,"Azure, Kubernetes, AWS",Indeed
+1870,Data Analyst,Pune,Entry,Contract,377213,567893,"Excel, Tableau, Power BI",Naukri
+1871,Data Engineer,Delhi,Entry,Internship,373071,550807,"SQL, Spark, ETL, Python",LinkedIn
+1872,Data Scientist,Chennai,Mid,Contract,605351,831807,"Python, SQL, Pandas",Naukri
+1873,Software Engineer,Delhi,Entry,Full-time,334393,418624,"Git, SQL, Java, React, Python",Naukri
+1874,Machine Learning Engineer,Mumbai,Senior,Full-time,2255576,2330096,"PyTorch, Python, TensorFlow, AWS, SQL",LinkedIn
+1875,Software Engineer,Bangalore,Entry,Contract,455941,566446,"Git, React, Python, SQL, Java",Indeed
+1876,QA Engineer,Mumbai,Senior,Full-time,1248062,1468917,"Automation, Selenium, Manual Testing",Naukri
+1877,Data Scientist,Delhi,Mid,Contract,621431,897032,"Pandas, SQL, Python",Glassdoor
+1878,Data Analyst,Mumbai,Mid,Full-time,925105,1076580,"Excel, Tableau, Power BI, SQL, Python",Indeed
+1879,Data Scientist,Gurgaon,Mid,Contract,629295,775473,"Pandas, Machine Learning, SQL, Statistics, Python",LinkedIn
+1880,Data Analyst,Mumbai,Mid,Full-time,644099,843607,"Power BI, Tableau, SQL, Excel, Python",Glassdoor
+1881,Web Developer,Bangalore,Mid,Internship,805267,906738,"Node.js, CSS, JavaScript, HTML",Glassdoor
+1882,QA Engineer,Chennai,Mid,Internship,939331,1147801,"Manual Testing, Python, Selenium, SQL, Automation",LinkedIn
+1883,Business Analyst,Noida,Entry,Full-time,377468,465965,"Excel, Communication, Power BI, SQL",LinkedIn
+1884,Machine Learning Engineer,Kolkata,Senior,Internship,1517310,1593894,"AWS, SQL",Indeed
+1885,QA Engineer,Remote,Senior,Contract,2054723,2143394,"SQL, Selenium, Automation",LinkedIn
+1886,QA Engineer,Noida,Senior,Full-time,1621555,1818278,"Manual Testing, Automation, SQL, Python",Indeed
+1887,Database Administrator,Chennai,Entry,Internship,439363,551189,"MySQL, Backup & Recovery, SQL",LinkedIn
+1888,Data Analyst,Mumbai,Senior,Full-time,1967231,2239618,"Python, SQL, Excel, Power BI, Tableau",LinkedIn
+1889,Database Administrator,Noida,Senior,Internship,1893790,2152473,"Linux, Backup & Recovery, Oracle, MySQL, SQL",Indeed
+1890,Machine Learning Engineer,Noida,Entry,Contract,423781,698502,"SQL, AWS, PyTorch, TensorFlow",Indeed
+1891,Data Scientist,Mumbai,Mid,Full-time,641459,737880,"Machine Learning, Pandas, Python, Statistics",Indeed
+1892,QA Engineer,Remote,Mid,Contract,645895,909481,"Manual Testing, Python, SQL, Selenium",Indeed
+1893,Machine Learning Engineer,Remote,Mid,Internship,758380,1029692,"TensorFlow, Python, SQL, PyTorch, AWS",Glassdoor
+1894,Web Developer,Mumbai,Entry,Contract,454272,535378,"CSS, React, HTML, Node.js",Indeed
+1895,Data Analyst,Delhi,Senior,Full-time,1530119,1826785,"SQL, Power BI, Excel, Python, Tableau",Naukri
+1896,Data Analyst,Remote,Mid,Full-time,944869,1196803,"Excel, SQL, Power BI, Python, Tableau",Glassdoor
+1897,Cloud Engineer,Hyderabad,Senior,Contract,1947147,2238254,"Azure, AWS, Kubernetes",Glassdoor
+1898,Machine Learning Engineer,Kolkata,Senior,Full-time,2368074,2491697,"TensorFlow, AWS, SQL, PyTorch",Glassdoor
+1899,Data Engineer,Kolkata,Mid,Internship,740015,1011301,"Python, Spark, SQL, AWS, ETL",Glassdoor
+1900,Data Analyst,Kolkata,Senior,Internship,1509514,1617857,"Python, Tableau, SQL, Excel, Power BI",Glassdoor
+1901,Machine Learning Engineer,Mumbai,Mid,Internship,601785,681007,"Python, AWS, PyTorch, TensorFlow",Naukri
+1902,Data Engineer,Kolkata,Mid,Full-time,1086314,1381694,"ETL, Python, AWS, Spark",LinkedIn
+1903,Data Engineer,Pune,Mid,Full-time,762103,860942,"AWS, SQL, Python, Spark",Naukri
+1904,Data Analyst,Delhi,Senior,Contract,1458826,1710477,"Python, SQL, Excel",Naukri
+1905,Data Engineer,Mumbai,Entry,Full-time,399112,612279,"ETL, SQL, Spark, AWS",LinkedIn
+1906,Data Engineer,Bangalore,Senior,Contract,2216363,2471908,"ETL, SQL, Spark",Naukri
+1907,Machine Learning Engineer,Chennai,Senior,Full-time,1511130,1605426,"SQL, TensorFlow, PyTorch",Naukri
+1908,QA Engineer,Kolkata,Entry,Full-time,375321,520634,"Manual Testing, SQL, Selenium, Python, Automation",Naukri
+1909,Business Analyst,Hyderabad,Mid,Full-time,846175,1000271,"SQL, Communication",Indeed
+1910,Data Analyst,Pune,Senior,Contract,2244033,2500579,"Tableau, Excel",Glassdoor
+1911,Software Engineer,Bangalore,Mid,Full-time,857631,940315,"Git, Java, Python",LinkedIn
+1912,Cloud Engineer,Kolkata,Entry,Contract,323498,598687,"Kubernetes, Docker, Python, Azure, AWS",Naukri
+1913,Database Administrator,Chennai,Entry,Internship,334347,422396,"MySQL, Oracle, SQL",Glassdoor
+1914,Data Engineer,Kolkata,Senior,Contract,1422571,1670327,"ETL, SQL, AWS, Python",LinkedIn
+1915,Data Engineer,Chennai,Entry,Full-time,398835,496817,"SQL, ETL, AWS, Python",Glassdoor
+1916,Business Analyst,Gurgaon,Entry,Full-time,469804,549882,"Power BI, Communication",Naukri
+1917,Database Administrator,Hyderabad,Mid,Full-time,854576,1079950,"MySQL, Backup & Recovery, SQL, Oracle",Naukri
+1918,Data Engineer,Hyderabad,Entry,Internship,345748,500944,"Spark, ETL",Naukri
+1919,Business Analyst,Remote,Entry,Contract,395780,546998,"Power BI, Tableau",Glassdoor
+1920,Database Administrator,Chennai,Entry,Internship,449075,518138,"SQL, Backup & Recovery, Oracle",Indeed
+1921,Business Analyst,Delhi,Senior,Full-time,2387462,2638376,"Power BI, Communication, Excel, SQL",LinkedIn
+1922,QA Engineer,Hyderabad,Senior,Contract,1643589,1848498,"Python, Automation, Manual Testing, Selenium",Glassdoor
+1923,Data Analyst,Bangalore,Mid,Full-time,732970,827200,"Excel, SQL, Python, Tableau, Power BI",Naukri
+1924,Data Engineer,Hyderabad,Senior,Internship,1353703,1650328,"Spark, SQL, ETL",Naukri
+1925,Business Analyst,Noida,Senior,Contract,2388098,2607774,"Communication, SQL, Power BI, Excel, Tableau",Glassdoor
+1926,Data Scientist,Noida,Entry,Internship,360640,431586,"SQL, Statistics, Machine Learning",Glassdoor
+1927,Business Analyst,Bangalore,Senior,Internship,2312366,2502551,"Tableau, Communication, Excel, SQL, Power BI",Glassdoor
+1928,QA Engineer,Delhi,Senior,Full-time,1392299,1607440,"SQL, Automation, Selenium, Python, Manual Testing",Naukri
+1929,Data Engineer,Hyderabad,Entry,Full-time,341560,423292,"ETL, Python",Naukri
+1930,Machine Learning Engineer,Noida,Mid,Internship,895195,1112989,"PyTorch, SQL, Python, AWS, TensorFlow",Indeed
+1931,Data Engineer,Kolkata,Mid,Internship,760521,891572,"AWS, Spark, SQL, ETL, Python",Glassdoor
+1932,Web Developer,Noida,Entry,Internship,391110,552948,"JavaScript, Node.js",Naukri
+1933,Data Analyst,Noida,Entry,Internship,382505,615751,"Python, Excel, SQL",Naukri
+1934,QA Engineer,Noida,Senior,Contract,2094696,2306296,"Python, Automation, Selenium",Indeed
+1935,Data Scientist,Remote,Senior,Full-time,2393929,2626366,"SQL, Machine Learning, Python, Statistics, Pandas",Indeed
+1936,QA Engineer,Bangalore,Mid,Internship,783377,862244,"Automation, Manual Testing, Python",Naukri
+1937,Business Analyst,Mumbai,Senior,Internship,1692349,1762891,"Tableau, Power BI, Communication, Excel",Glassdoor
+1938,QA Engineer,Chennai,Mid,Internship,944697,1108631,"SQL, Automation, Manual Testing",Indeed
+1939,Web Developer,Mumbai,Senior,Contract,1739802,1995733,"JavaScript, HTML",Indeed
+1940,Business Analyst,Remote,Senior,Contract,1708471,1977042,"Power BI, Communication, Excel, SQL",Naukri
+1941,QA Engineer,Noida,Mid,Full-time,875683,1124668,"Manual Testing, Automation, Selenium",Indeed
+1942,QA Engineer,Kolkata,Mid,Full-time,917424,1156941,"Manual Testing, SQL, Selenium, Python, Automation",Glassdoor
+1943,Data Scientist,Remote,Entry,Full-time,316044,547256,"Python, Statistics, Pandas",Glassdoor
+1944,Database Administrator,Delhi,Mid,Full-time,750504,965732,"Backup & Recovery, Oracle, MySQL, SQL, Linux",Indeed
+1945,Data Analyst,Bangalore,Entry,Internship,372912,571465,"Power BI, Python, SQL, Tableau, Excel",LinkedIn
+1946,QA Engineer,Bangalore,Entry,Contract,393263,471217,"Selenium, Manual Testing, SQL",Naukri
+1947,Database Administrator,Noida,Mid,Contract,970660,1176610,"MySQL, Backup & Recovery, Linux, Oracle, SQL",Indeed
+1948,Data Analyst,Noida,Senior,Contract,1658019,1955583,"Power BI, Tableau",LinkedIn
+1949,Cloud Engineer,Mumbai,Mid,Contract,771576,925528,"Azure, AWS, Kubernetes, Docker, Python",Indeed
+1950,Data Analyst,Delhi,Entry,Full-time,406796,498102,"SQL, Excel, Tableau",Naukri
+1951,Web Developer,Delhi,Mid,Internship,813163,917665,"HTML, JavaScript",Naukri
+1952,Software Engineer,Gurgaon,Senior,Contract,2030986,2285833,"Java, SQL",Glassdoor
+1953,Data Engineer,Delhi,Senior,Contract,1305115,1395220,"AWS, Spark",Glassdoor
+1954,Web Developer,Gurgaon,Entry,Full-time,309840,439033,"JavaScript, HTML, React",Indeed
+1955,Software Engineer,Chennai,Senior,Full-time,1539711,1803375,"Git, React, Python, Java",LinkedIn
+1956,Database Administrator,Pune,Mid,Full-time,669980,856377,"Oracle, MySQL, SQL",Naukri
+1957,Data Engineer,Pune,Entry,Internship,450370,528630,"SQL, Python, AWS",Indeed
+1958,Data Analyst,Mumbai,Entry,Internship,422800,588398,"SQL, Python",Indeed
+1959,Database Administrator,Bangalore,Mid,Internship,674445,927844,"Oracle, Backup & Recovery, MySQL, SQL, Linux",Glassdoor
+1960,Data Engineer,Chennai,Mid,Full-time,641021,937845,"SQL, ETL, Spark",Naukri
+1961,Data Engineer,Bangalore,Entry,Internship,487888,778509,"Python, SQL, ETL",Naukri
+1962,Web Developer,Hyderabad,Mid,Full-time,838141,1076281,"CSS, Node.js, React",LinkedIn
+1963,Data Analyst,Bangalore,Mid,Contract,816838,1107038,"Tableau, Python, Power BI, SQL",Glassdoor
+1964,Database Administrator,Gurgaon,Senior,Internship,2068053,2145806,"Backup & Recovery, SQL, MySQL",Indeed
+1965,Machine Learning Engineer,Kolkata,Senior,Contract,2124227,2214619,"TensorFlow, PyTorch, SQL, Python, AWS",Naukri
+1966,Data Engineer,Remote,Mid,Contract,1009962,1240341,"AWS, Spark, ETL, SQL",LinkedIn
+1967,Web Developer,Pune,Senior,Internship,1722408,1936824,"React, HTML, Node.js",Naukri
+1968,Data Scientist,Hyderabad,Entry,Full-time,331254,520430,"Pandas, Python, Statistics, SQL, Machine Learning",LinkedIn
+1969,QA Engineer,Hyderabad,Entry,Full-time,427069,553444,"Manual Testing, Automation",Glassdoor
+1970,Machine Learning Engineer,Remote,Entry,Contract,393050,489764,"Python, SQL, AWS, PyTorch",Indeed
+1971,Data Engineer,Gurgaon,Entry,Contract,366722,482198,"Spark, AWS, Python",Glassdoor
+1972,Data Engineer,Chennai,Entry,Full-time,337838,417456,"SQL, AWS, ETL, Spark, Python",Indeed
+1973,QA Engineer,Noida,Senior,Full-time,1203161,1434657,"Manual Testing, SQL, Automation",Naukri
+1974,Web Developer,Bangalore,Mid,Contract,1040725,1226663,"Node.js, JavaScript, HTML, CSS, React",Indeed
+1975,Data Analyst,Bangalore,Entry,Contract,479074,628039,"SQL, Power BI, Tableau, Excel",Indeed
+1976,Database Administrator,Remote,Mid,Internship,823943,1040315,"MySQL, Backup & Recovery, Oracle",Naukri
+1977,Software Engineer,Pune,Mid,Internship,848599,982198,"Python, SQL, Git",Glassdoor
+1978,Data Engineer,Noida,Entry,Internship,391564,583839,"SQL, Spark",LinkedIn
+1979,Data Analyst,Chennai,Senior,Full-time,1799444,1880121,"Power BI, Python",Naukri
+1980,Software Engineer,Pune,Entry,Internship,498561,722844,"Python, Git, Java, React, SQL",Indeed
+1981,Business Analyst,Remote,Entry,Contract,347155,408360,"Communication, SQL, Excel, Power BI, Tableau",Indeed
+1982,Cloud Engineer,Hyderabad,Mid,Full-time,979506,1057547,"Python, AWS, Kubernetes",Naukri
+1983,Web Developer,Kolkata,Senior,Contract,1529324,1596162,"CSS, Node.js",Naukri
+1984,Data Scientist,Hyderabad,Entry,Contract,377613,561663,"Machine Learning, SQL",Indeed
+1985,Business Analyst,Noida,Senior,Internship,1824855,2109114,"SQL, Tableau",Glassdoor
+1986,Cloud Engineer,Delhi,Mid,Internship,762164,892273,"AWS, Python, Azure",LinkedIn
+1987,Data Engineer,Kolkata,Senior,Internship,2299783,2475727,"ETL, Spark, AWS",Glassdoor
+1988,Business Analyst,Noida,Senior,Internship,1851778,2104958,"Tableau, Communication",Indeed
+1989,Data Engineer,Delhi,Entry,Full-time,460042,546980,"SQL, Spark, Python, ETL, AWS",Naukri
+1990,Data Analyst,Hyderabad,Mid,Internship,685508,895870,"Tableau, Excel, SQL, Python",LinkedIn
+1991,Database Administrator,Remote,Senior,Full-time,2187883,2464034,"MySQL, Linux, Backup & Recovery, Oracle, SQL",LinkedIn
+1992,Data Engineer,Mumbai,Senior,Contract,2352495,2407712,"SQL, AWS",LinkedIn
+1993,Business Analyst,Bangalore,Mid,Contract,601117,667471,"Power BI, Excel",Naukri
+1994,Data Engineer,Chennai,Senior,Contract,2030534,2129961,"Python, ETL",Naukri
+1995,Data Analyst,Pune,Mid,Full-time,1064674,1253468,"Tableau, SQL, Excel",Indeed
+1996,Cloud Engineer,Pune,Senior,Contract,1558437,1781448,"AWS, Kubernetes",Glassdoor
+1997,Business Analyst,Noida,Senior,Internship,2114668,2409395,"Excel, Tableau, Power BI",Naukri
+1998,Software Engineer,Remote,Senior,Contract,1627497,1733724,"Git, Java, SQL, Python, React",Glassdoor
+1999,Cloud Engineer,Pune,Mid,Internship,654921,769888,"Python, Docker, AWS, Kubernetes, Azure",Glassdoor
+2000,Software Engineer,Kolkata,Entry,Full-time,359142,597072,"Java, Python, Git",Naukri

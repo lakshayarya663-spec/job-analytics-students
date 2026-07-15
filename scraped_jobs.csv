@@ -1,0 +1,7 @@
+title,company,location,salary_range,experience_level,description
+Senior Data Analyst,Northwind Analytics,"Austin, TX (Remote)","$95,000 - $120,000",Senior,"We are looking for a Senior Data Analyst with strong skills in SQL, Python, Power BI,
+      and experience with ETL pipelines. Familiarity with Tableau and Excel is a plus."
+Machine Learning Engineer,Vertex Robotics,Remote,"$130,000 - $165,000",Mid,"Build and deploy ML models using Python, TensorFlow, PyTorch, and AWS. SQL and Docker
+      experience required. Kubernetes is a bonus."
+Business Intelligence Developer,Harborview Retail,"Chicago, IL","$85,000 - $105,000",Mid,"Design dashboards in Power BI and Tableau, write complex SQL queries, and automate
+      reporting pipelines using Python and Pandas."

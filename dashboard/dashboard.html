@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Job Market Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#F5F7FA;
+    --card:#FFFFFF;
+    --border:#E2E8F0;
+    --primary:#2563EB;
+    --primary-light:#DBEAFE;
+    --accent:#F59E0B;
+    --text:#1E293B;
+    --muted:#64748B;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    font-family:'Poppins',sans-serif;
+    background:var(--bg);
+    color:var(--text);
+  }
+  header{
+    background:var(--primary);
+    color:white;
+    padding:24px 32px;
+  }
+  header h1{ margin:0 0 4px; font-size:24px; font-weight:600; }
+  header p{ margin:0; opacity:0.85; font-size:13px; }
+
+  .filter-bar{
+    background:var(--card);
+    margin:20px 32px 0;
+    padding:16px 20px;
+    border-radius:10px;
+    border:1px solid var(--border);
+    display:flex;
+    gap:20px;
+    flex-wrap:wrap;
+    align-items:center;
+  }
+  .filter-bar label{ font-size:13px; color:var(--muted); margin-right:6px; }
+  select{
+    padding:7px 10px;
+    border-radius:6px;
+    border:1px solid var(--border);
+    font-family:'Poppins',sans-serif;
+    font-size:13px;
+    color:var(--text);
+    background:white;
+  }
+
+  .kpi-row{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:16px;
+    margin:20px 32px;
+  }
+  .kpi{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding:16px 18px;
+  }
+  .kpi .label{ font-size:12px; color:var(--muted); }
+  .kpi .value{ font-size:24px; font-weight:600; margin-top:4px; color:var(--primary); }
+
+  .chart-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:16px;
+    margin:0 32px 32px;
+  }
+  .chart-card{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding:16px 18px;
+  }
+  .chart-card h3{ margin:0 0 12px; font-size:14px; font-weight:600; }
+  .chart-card canvas{ max-height:260px; }
+
+  @media (max-width:800px){
+    .kpi-row{grid-template-columns:1fr 1fr;}
+    .chart-grid{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Job Market Analytics Dashboard</h1>
+  <p>Explore salary trends, in-demand skills, and hiring locations from the scraped job dataset.</p>
+</header>
+
+<div class="filter-bar">
+  <div>
+    <label for="titleFilter">Job Role</label>
+    <select id="titleFilter"><option value="">All Roles</option></select>
+  </div>
+  <div>
+    <label for="expFilter">Experience Level</label>
+    <select id="expFilter">
+      <option value="">All Levels</option>
+      <option value="Entry">Entry</option>
+      <option value="Mid">Mid</option>
+      <option value="Senior">Senior</option>
+    </select>
+  </div>
+</div>
+
+<div class="kpi-row" id="kpiRow"></div>
+
+<div class="chart-grid">
+  <div class="chart-card">
+    <h3>Average Salary by Job Role</h3>
+    <canvas id="chartSalaryByTitle"></canvas>
+  </div>
+  <div class="chart-card">
+    <h3>Top 10 In-Demand Skills</h3>
+    <canvas id="chartSkills"></canvas>
+  </div>
+  <div class="chart-card">
+    <h3>Postings by City</h3>
+    <canvas id="chartCity"></canvas>
+  </div>
+  <div class="chart-card">
+    <h3>Experience Level Split</h3>
+    <canvas id="chartExp"></canvas>
+  </div>
+</div>
+
+<script src="jobs_data.js"></script>
+<script>
+// JOBS is loaded from jobs_data.js, e.g.
+// { title, city, experience_level, employment_type, salary_avg, skills, source_platform }
+
+const COLORS = ['#2563EB','#F59E0B','#10B981','#EF4444','#8B5CF6','#EC4899','#14B8A6','#F97316','#6366F1','#84CC16'];
+
+// ---- Fill in the "Job Role" dropdown with unique titles ----
+const titles = [...new Set(JOBS.map(j => j.title))].sort();
+const titleSelect = document.getElementById('titleFilter');
+titles.forEach(t => {
+  const opt = document.createElement('option');
+  opt.value = t; opt.textContent = t;
+  titleSelect.appendChild(opt);
+});
+titleSelect.addEventListener('change', render);
+document.getElementById('expFilter').addEventListener('change', render);
+
+let charts = {};
+function destroyCharts(){ Object.values(charts).forEach(c => c && c.destroy()); }
+
+function money(n){ return '₹' + Math.round(n).toLocaleString('en-IN'); }
+
+function getFilteredJobs(){
+  const title = titleSelect.value;
+  const exp = document.getElementById('expFilter').value;
+  return JOBS.filter(j => (!title || j.title === title) && (!exp || j.experience_level === exp));
+}
+
+function groupAverage(rows, keyField){
+  const groups = {};
+  rows.forEach(r => {
+    const key = r[keyField];
+    if (!groups[key]) groups[key] = { total: 0, count: 0 };
+    groups[key].total += r.salary_avg;
+    groups[key].count += 1;
+  });
+  return groups;
+}
+
+function render(){
+  const rows = getFilteredJobs();
+
+  // ---- KPI cards ----
+  const avgSalary = rows.length ? rows.reduce((a, r) => a + r.salary_avg, 0) / rows.length : 0;
+  const uniqueCities = new Set(rows.map(r => r.city)).size;
+  const uniqueTitles = new Set(rows.map(r => r.title)).size;
+
+  document.getElementById('kpiRow').innerHTML = `
+    <div class="kpi"><div class="label">Total Postings</div><div class="value">${rows.length}</div></div>
+    <div class="kpi"><div class="label">Average Salary</div><div class="value">${money(avgSalary)}</div></div>
+    <div class="kpi"><div class="label">Cities Covered</div><div class="value">${uniqueCities}</div></div>
+    <div class="kpi"><div class="label">Job Roles</div><div class="value">${uniqueTitles}</div></div>
+  `;
+
+  destroyCharts();
+
+  // ---- Chart 1: Average salary by job title ----
+  const byTitle = groupAverage(rows, 'title');
+  const titleEntries = Object.entries(byTitle)
+    .map(([k, v]) => [k, v.total / v.count])
+    .sort((a, b) => b[1] - a[1]);
+
+  charts.title = new Chart(document.getElementById('chartSalaryByTitle'), {
+    type: 'bar',
+    data: {
+      labels: titleEntries.map(e => e[0]),
+      datasets: [{ data: titleEntries.map(e => Math.round(e[1])), backgroundColor: '#2563EB', borderRadius: 4 }]
+    },
+    options: {
+      indexAxis: 'y',
+      plugins: { legend: { display: false } },
+      scales: { x: { ticks: { callback: v => '₹' + (v/100000).toFixed(1) + 'L' } } }
+    }
+  });
+
+  // ---- Chart 2: Top skills (counting comma-separated skills column) ----
+  const skillCounts = {};
+  rows.forEach(r => {
+    r.skills.split(',').map(s => s.trim()).forEach(skill => {
+      skillCounts[skill] = (skillCounts[skill] || 0) + 1;
+    });
+  });
+  const topSkills = Object.entries(skillCounts).sort((a, b) => b[1] - a[1]).slice(0, 10);
+
+  charts.skills = new Chart(document.getElementById('chartSkills'), {
+    type: 'bar',
+    data: {
+      labels: topSkills.map(e => e[0]),
+      datasets: [{ data: topSkills.map(e => e[1]), backgroundColor: COLORS, borderRadius: 4 }]
+    },
+    options: { plugins: { legend: { display: false } } }
+  });
+
+  // ---- Chart 3: Postings by city ----
+  const cityCounts = {};
+  rows.forEach(r => { cityCounts[r.city] = (cityCounts[r.city] || 0) + 1; });
+  const cityEntries = Object.entries(cityCounts).sort((a, b) => b[1] - a[1]);
+
+  charts.city = new Chart(document.getElementById('chartCity'), {
+    type: 'bar',
+    data: {
+      labels: cityEntries.map(e => e[0]),
+      datasets: [{ data: cityEntries.map(e => e[1]), backgroundColor: '#10B981', borderRadius: 4 }]
+    },
+    options: { plugins: { legend: { display: false } } }
+  });
+
+  // ---- Chart 4: Experience level split (pie chart) ----
+  const expCounts = { Entry: 0, Mid: 0, Senior: 0 };
+  rows.forEach(r => { if (expCounts[r.experience_level] !== undefined) expCounts[r.experience_level]++; });
+
+  charts.exp = new Chart(document.getElementById('chartExp'), {
+    type: 'doughnut',
+    data: {
+      labels: Object.keys(expCounts),
+      datasets: [{ data: Object.values(expCounts), backgroundColor: ['#F59E0B', '#2563EB', '#10B981'] }]
+    },
+    options: { plugins: { legend: { position: 'bottom' } } }
+  });
+}
+
+render();
+</script>
+</body>
+</html>
