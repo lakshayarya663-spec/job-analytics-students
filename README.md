@@ -21,7 +21,7 @@ Power BI
 7. **Displays everything on a dashboard** you can open in your browser, or
    rebuild in Power BI
 
-## Why Step 2 exists (important — good to explain in your report/viva)
+## Why Step 2 exists 
 
 Real job sites (LinkedIn, Naukri, Indeed) block automated scrapers and
 require login, and scraping them can break their Terms of Service. So this
@@ -89,7 +89,7 @@ Open `queries.sql` to read them — they're short and use only basic SQL
 6. How many postings need Python
 7. Average salary per employment type
 
-## Ideas to extend this project (good for a viva / report "future work" section)
+## Ideas to extend this project 
 
 - Replace the generated dataset with a real one from Kaggle
 - Add more cities/roles/skills to `2_generate_dataset.py`
